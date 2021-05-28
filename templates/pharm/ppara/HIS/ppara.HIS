@@ -1,0 +1,10 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: ppara_unbound.pdb 
+HIS ( 242 )	-->	HISD
+HIS ( 274 )	-->	HISE
+HIS ( 396 )	-->	HISE
+HIS ( 406 )	-->	HISE
+HIS ( 411 )	-->	HISE
+HIS ( 416 )	-->	HISE
+HIS ( 440 )	-->	HISE
+HIS ( 457 )	-->	HISE

@@ -1,0 +1,25 @@
+! Connectivity restraints
+! Ligand restraints
+! Restraints to fix 'HEB' in its initial position
+assi (segi A    and resi  592 and name "OE2" )
+     (segi A    and resi  717 and name "CAA" )  4.052 1.0 1.0
+assi (segi A    and resi  587 and name "N"   )
+     (segi A    and resi  717 and name "CAB" )  3.739 1.0 1.0
+assi (segi A    and resi  584 and name "CD1" )
+     (segi A    and resi  717 and name "CAC" )  3.371 1.0 1.0
+assi (segi A    and resi  414 and name "CB"  )
+     (segi A    and resi  717 and name "CAD" )  4.322 1.0 1.0
+assi (segi A    and resi  415 and name "SG"  )
+     (segi A    and resi  717 and name "NA"  )  3.497 1.0 1.0
+assi (segi A    and resi  409 and name "CG"  )
+     (segi A    and resi  717 and name "CBC" )  3.560 1.0 1.0
+assi (segi A    and resi  678 and name "CZ3" )
+     (segi A    and resi  717 and name "CBD" )  3.949 1.0 1.0
+assi (segi A    and resi  706 and name "OH"  )
+     (segi A    and resi  717 and name "CGD" )  3.297 1.0 1.0
+assi (segi A    and resi  416 and name "CG1" )
+     (segi A    and resi  717 and name "CHB" )  3.788 1.0 1.0
+assi (segi A    and resi  585 and name "O"   )
+     (segi A    and resi  717 and name "CMC" )  3.259 1.0 1.0
+assi (segi A    and resi  704 and name "CB"  )
+     (segi A    and resi  717 and name "CMD" )  3.873 1.0 1.0

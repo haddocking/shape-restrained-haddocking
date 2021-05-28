@@ -1,0 +1,8 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: reni_unbound.pdb 
+HIS ( 61 )	-->	HIS+
+HIS ( 74 )	-->	HISE
+HIS ( 185 )	-->	HISE
+HIS ( 191 )	-->	HISE
+HIS ( 271 )	-->	HISE
+HIS ( 301 )	-->	HISE

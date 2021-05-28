@@ -1,0 +1,14 @@
+assi (segid S and resid * and (attr q == 0.60)) (segid B and name C1) 1.0 1.0 0.0
+assi (segid S and resid * and (attr q == 0.60)) (segid B and name C2) 1.0 1.0 0.0
+assi (segid S and resid * and (attr q == 0.10)) (segid B and name N1) 1.0 1.0 0.0
+assi (segid S and resid * and (attr q == 0.60)) (segid B and name C3) 1.0 1.0 0.0
+assi (segid S and resid * and (attr q == 0.10)) (segid B and name N2) 1.0 1.0 0.0
+assi (segid S and resid * and (attr q == 0.60)) (segid B and name C4) 1.0 1.0 0.0
+assi (segid S and resid * and (attr q == 0.20)) (segid B and name N3) 1.0 1.0 0.0
+assi (segid S and resid * and (attr q == 0.60)) (segid B and name C5) 1.0 1.0 0.0
+assi (segid S and resid * and (attr q == 0.60)) (segid B and name C8) 1.0 1.0 0.0
+assi (segid S and resid * and (attr q == 0.10)) (segid B and name N5) 1.0 1.0 0.0
+assi (segid S and resid * and (attr q == 0.60)) (segid B and name C9) 1.0 1.0 0.0
+assi (segid S and resid * and (attr q == 0.10)) (segid B and name N6) 1.0 1.0 0.0
+assi (segid S and resid * and (attr q == 0.60)) (segid B and name C10) 1.0 1.0 0.0
+assi (segid S and resid * and (attr q == 0.60)) (segid B and name C12) 1.0 1.0 0.0

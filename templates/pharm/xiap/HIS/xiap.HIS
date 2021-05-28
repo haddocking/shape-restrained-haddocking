@@ -1,0 +1,6 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: xiap_unbound.pdb 
+HIS ( 320 )	-->	HISD
+HIS ( 302 )	-->	HISE
+HIS ( 343 )	-->	HISE
+HIS ( 346 )	-->	HISE

@@ -1,0 +1,21 @@
+assign (segid A and resi 840 and name CA) (segid A and resi 846 and name CA) 11.602 0.0 0.0
+assign (segid A and resi 831 and name CA) (segid A and resi 853 and name CA) 9.301 0.0 0.0
+assign (segid A and resi 839 and name CA) (segid A and resi 870 and name CA) 13.157 0.0 0.0
+assign (segid A and resi 827 and name CA) (segid A and resi 865 and name CA) 14.533 0.0 0.0
+assign (segid A and resi 825 and name CA) (segid A and resi 916 and name CA) 17.106 0.0 0.0
+assign (segid A and resi 843 and name CA) (segid A and resi 999 and name CA) 33.931 0.0 0.0
+assign (segid A and resi 833 and name CA) (segid A and resi 1106 and name CA) 44.878 0.0 0.0
+assign (segid A and resi 842 and name CA) (segid A and resi 1165 and name CA) 40.096 0.0 0.0
+assign (segid A and resi 852 and name CA) (segid A and resi 872 and name CA) 20.693 0.0 0.0
+assign (segid A and resi 847 and name CA) (segid A and resi 863 and name CA) 19.838 0.0 0.0
+assign (segid A and resi 857 and name CA) (segid A and resi 994 and name CA) 37.117 0.0 0.0
+assign (segid A and resi 850 and name CA) (segid A and resi 1010 and name CA) 27.929 0.0 0.0
+assign (segid A and resi 856 and name CA) (segid A and resi 1172 and name CA) 42.688 0.0 0.0
+assign (segid A and resi 851 and name CA) (segid A and resi 1143 and name CA) 38.860 0.0 0.0
+assign (segid A and resi 864 and name CA) (segid A and resi 917 and name CA) 7.079 0.0 0.0
+assign (segid A and resi 870 and name CA) (segid A and resi 912 and name CA) 6.161 0.0 0.0
+assign (segid A and resi 864 and name CA) (segid A and resi 1153 and name CA) 31.698 0.0 0.0
+assign (segid A and resi 870 and name CA) (segid A and resi 1092 and name CA) 32.520 0.0 0.0
+assign (segid A and resi 1015 and name CA) (segid A and resi 1141 and name CA) 19.013 0.0 0.0
+assign (segid A and resi 929 and name CA) (segid A and resi 1117 and name CA) 29.712 0.0 0.0
+! Ion restraints

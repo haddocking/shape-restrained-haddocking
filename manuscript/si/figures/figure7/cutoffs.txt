@@ -1,0 +1,2773 @@
+target,stage,protocol,similarity,overlap,quality,cutoff
+aa2ar,it0,shape,Intermediate,Easy,Acceptable,1
+aa2ar,it0,pharm,Intermediate,Easy,Acceptable,1
+aa2ar,it1,shape,Intermediate,Easy,Acceptable,1
+aa2ar,it1,pharm,Intermediate,Easy,Acceptable,1
+aa2ar,it0,shape,Intermediate,Easy,Acceptable,5
+aa2ar,it0,pharm,Intermediate,Easy,Acceptable,5
+aa2ar,it1,shape,Intermediate,Easy,Acceptable,5
+aa2ar,it1,pharm,Intermediate,Easy,Acceptable,5
+aa2ar,it0,shape,Intermediate,Easy,Acceptable,10
+aa2ar,it0,pharm,Intermediate,Easy,Acceptable,10
+aa2ar,it1,shape,Intermediate,Easy,Acceptable,10
+aa2ar,it1,pharm,Intermediate,Easy,Acceptable,10
+aa2ar,it0,shape,Intermediate,Easy,Medium,50
+aa2ar,it0,pharm,Intermediate,Easy,Acceptable,50
+aa2ar,it1,shape,Intermediate,Easy,Medium,50
+aa2ar,it1,pharm,Intermediate,Easy,Acceptable,50
+aa2ar,it0,shape,Intermediate,Easy,Medium,100
+aa2ar,it0,pharm,Intermediate,Easy,Acceptable,100
+aa2ar,it1,shape,Intermediate,Easy,Medium,100
+aa2ar,it1,pharm,Intermediate,Easy,Medium,100
+aa2ar,it0,shape,Intermediate,Easy,Medium,200
+aa2ar,it0,pharm,Intermediate,Easy,Acceptable,200
+aa2ar,it1,shape,Intermediate,Easy,Medium,200
+aa2ar,it1,pharm,Intermediate,Easy,Medium,200
+aa2ar,it0,shape,Intermediate,Easy,Medium,1000
+aa2ar,it0,pharm,Intermediate,Easy,Acceptable,1000
+aa2ar,it1,shape,Intermediate,Easy,Medium,1000
+aa2ar,it1,pharm,Intermediate,Easy,Medium,1000
+abl1,it0,shape,Easy,Easy,Medium,1
+abl1,it0,pharm,Easy,Easy,Medium,1
+abl1,it1,shape,Easy,Easy,Medium,1
+abl1,it1,pharm,Easy,Easy,Medium,1
+abl1,it0,shape,Easy,Easy,Medium,5
+abl1,it0,pharm,Easy,Easy,Medium,5
+abl1,it1,shape,Easy,Easy,Medium,5
+abl1,it1,pharm,Easy,Easy,Medium,5
+abl1,it0,shape,Easy,Easy,Medium,10
+abl1,it0,pharm,Easy,Easy,Medium,10
+abl1,it1,shape,Easy,Easy,Medium,10
+abl1,it1,pharm,Easy,Easy,Medium,10
+abl1,it0,shape,Easy,Easy,Medium,50
+abl1,it0,pharm,Easy,Easy,Medium,50
+abl1,it1,shape,Easy,Easy,Medium,50
+abl1,it1,pharm,Easy,Easy,Medium,50
+abl1,it0,shape,Easy,Easy,Medium,100
+abl1,it0,pharm,Easy,Easy,Medium,100
+abl1,it1,shape,Easy,Easy,Medium,100
+abl1,it1,pharm,Easy,Easy,Medium,100
+abl1,it0,shape,Easy,Easy,Medium,200
+abl1,it0,pharm,Easy,Easy,Medium,200
+abl1,it1,shape,Easy,Easy,Medium,200
+abl1,it1,pharm,Easy,Easy,Medium,200
+abl1,it0,shape,Easy,Easy,Medium,1000
+abl1,it0,pharm,Easy,Easy,Medium,1000
+abl1,it1,shape,Easy,Easy,Medium,1000
+abl1,it1,pharm,Easy,Easy,Medium,1000
+ace,it0,shape,Easy,Easy,Low,1
+ace,it0,pharm,Easy,Easy,Acceptable,1
+ace,it1,shape,Easy,Easy,Acceptable,1
+ace,it1,pharm,Easy,Easy,Medium,1
+ace,it0,shape,Easy,Easy,Near Acceptable,5
+ace,it0,pharm,Easy,Easy,Acceptable,5
+ace,it1,shape,Easy,Easy,Acceptable,5
+ace,it1,pharm,Easy,Easy,Medium,5
+ace,it0,shape,Easy,Easy,Near Acceptable,10
+ace,it0,pharm,Easy,Easy,Acceptable,10
+ace,it1,shape,Easy,Easy,Acceptable,10
+ace,it1,pharm,Easy,Easy,Medium,10
+ace,it0,shape,Easy,Easy,Acceptable,50
+ace,it0,pharm,Easy,Easy,Acceptable,50
+ace,it1,shape,Easy,Easy,Acceptable,50
+ace,it1,pharm,Easy,Easy,Medium,50
+ace,it0,shape,Easy,Easy,Acceptable,100
+ace,it0,pharm,Easy,Easy,Acceptable,100
+ace,it1,shape,Easy,Easy,Acceptable,100
+ace,it1,pharm,Easy,Easy,Medium,100
+ace,it0,shape,Easy,Easy,Acceptable,200
+ace,it0,pharm,Easy,Easy,Acceptable,200
+ace,it1,shape,Easy,Easy,Acceptable,200
+ace,it1,pharm,Easy,Easy,Medium,200
+ace,it0,shape,Easy,Easy,Acceptable,1000
+ace,it0,pharm,Easy,Easy,Acceptable,1000
+ace,it1,shape,Easy,Easy,Acceptable,1000
+ace,it1,pharm,Easy,Easy,Medium,1000
+aces,it0,shape,Easy,Easy,Low,1
+aces,it0,pharm,Intermediate,Difficult,Low,1
+aces,it1,shape,Easy,Easy,High,1
+aces,it1,pharm,Intermediate,Difficult,Low,1
+aces,it0,shape,Easy,Easy,Low,5
+aces,it0,pharm,Intermediate,Difficult,Low,5
+aces,it1,shape,Easy,Easy,High,5
+aces,it1,pharm,Intermediate,Difficult,Low,5
+aces,it0,shape,Easy,Easy,Low,10
+aces,it0,pharm,Intermediate,Difficult,Low,10
+aces,it1,shape,Easy,Easy,High,10
+aces,it1,pharm,Intermediate,Difficult,Near Acceptable,10
+aces,it0,shape,Easy,Easy,Medium,50
+aces,it0,pharm,Intermediate,Difficult,Low,50
+aces,it1,shape,Easy,Easy,High,50
+aces,it1,pharm,Intermediate,Difficult,Near Acceptable,50
+aces,it0,shape,Easy,Easy,Medium,100
+aces,it0,pharm,Intermediate,Difficult,Low,100
+aces,it1,shape,Easy,Easy,High,100
+aces,it1,pharm,Intermediate,Difficult,Near Acceptable,100
+aces,it0,shape,Easy,Easy,Medium,200
+aces,it0,pharm,Intermediate,Difficult,Low,200
+aces,it1,shape,Easy,Easy,High,200
+aces,it1,pharm,Intermediate,Difficult,Near Acceptable,200
+aces,it0,shape,Easy,Easy,Medium,1000
+aces,it0,pharm,Intermediate,Difficult,Low,1000
+aces,it1,shape,Easy,Easy,High,1000
+aces,it1,pharm,Intermediate,Difficult,Near Acceptable,1000
+ada,it0,shape,Easy,Easy,Low,1
+ada,it0,pharm,Easy,Easy,Acceptable,1
+ada,it1,shape,Easy,Easy,High,1
+ada,it1,pharm,Easy,Easy,Near Acceptable,1
+ada,it0,shape,Easy,Easy,Low,5
+ada,it0,pharm,Easy,Easy,Acceptable,5
+ada,it1,shape,Easy,Easy,High,5
+ada,it1,pharm,Easy,Easy,Medium,5
+ada,it0,shape,Easy,Easy,Low,10
+ada,it0,pharm,Easy,Easy,Acceptable,10
+ada,it1,shape,Easy,Easy,High,10
+ada,it1,pharm,Easy,Easy,Medium,10
+ada,it0,shape,Easy,Easy,Low,50
+ada,it0,pharm,Easy,Easy,Acceptable,50
+ada,it1,shape,Easy,Easy,High,50
+ada,it1,pharm,Easy,Easy,Medium,50
+ada,it0,shape,Easy,Easy,Acceptable,100
+ada,it0,pharm,Easy,Easy,Acceptable,100
+ada,it1,shape,Easy,Easy,High,100
+ada,it1,pharm,Easy,Easy,Medium,100
+ada,it0,shape,Easy,Easy,Medium,200
+ada,it0,pharm,Easy,Easy,Acceptable,200
+ada,it1,shape,Easy,Easy,High,200
+ada,it1,pharm,Easy,Easy,Medium,200
+ada,it0,shape,Easy,Easy,Medium,1000
+ada,it0,pharm,Easy,Easy,Acceptable,1000
+ada,it1,shape,Easy,Easy,High,1000
+ada,it1,pharm,Easy,Easy,Medium,1000
+ada17,it0,shape,Intermediate,Easy,Low,1
+ada17,it0,pharm,Intermediate,Easy,Acceptable,1
+ada17,it1,shape,Intermediate,Easy,Acceptable,1
+ada17,it1,pharm,Intermediate,Easy,Acceptable,1
+ada17,it0,shape,Intermediate,Easy,Acceptable,5
+ada17,it0,pharm,Intermediate,Easy,Acceptable,5
+ada17,it1,shape,Intermediate,Easy,Acceptable,5
+ada17,it1,pharm,Intermediate,Easy,Acceptable,5
+ada17,it0,shape,Intermediate,Easy,Acceptable,10
+ada17,it0,pharm,Intermediate,Easy,Acceptable,10
+ada17,it1,shape,Intermediate,Easy,Acceptable,10
+ada17,it1,pharm,Intermediate,Easy,Acceptable,10
+ada17,it0,shape,Intermediate,Easy,Acceptable,50
+ada17,it0,pharm,Intermediate,Easy,Acceptable,50
+ada17,it1,shape,Intermediate,Easy,Acceptable,50
+ada17,it1,pharm,Intermediate,Easy,Acceptable,50
+ada17,it0,shape,Intermediate,Easy,Acceptable,100
+ada17,it0,pharm,Intermediate,Easy,Acceptable,100
+ada17,it1,shape,Intermediate,Easy,Acceptable,100
+ada17,it1,pharm,Intermediate,Easy,Acceptable,100
+ada17,it0,shape,Intermediate,Easy,Acceptable,200
+ada17,it0,pharm,Intermediate,Easy,Acceptable,200
+ada17,it1,shape,Intermediate,Easy,Acceptable,200
+ada17,it1,pharm,Intermediate,Easy,Acceptable,200
+ada17,it0,shape,Intermediate,Easy,Acceptable,1000
+ada17,it0,pharm,Intermediate,Easy,Acceptable,1000
+ada17,it1,shape,Intermediate,Easy,Acceptable,1000
+ada17,it1,pharm,Intermediate,Easy,Acceptable,1000
+adrb1,it0,shape,Intermediate,Easy,Low,1
+adrb1,it0,pharm,Intermediate,Easy,Acceptable,1
+adrb1,it1,shape,Intermediate,Easy,Medium,1
+adrb1,it1,pharm,Intermediate,Easy,Acceptable,1
+adrb1,it0,shape,Intermediate,Easy,Low,5
+adrb1,it0,pharm,Intermediate,Easy,Acceptable,5
+adrb1,it1,shape,Intermediate,Easy,Medium,5
+adrb1,it1,pharm,Intermediate,Easy,Medium,5
+adrb1,it0,shape,Intermediate,Easy,Low,10
+adrb1,it0,pharm,Intermediate,Easy,Acceptable,10
+adrb1,it1,shape,Intermediate,Easy,Medium,10
+adrb1,it1,pharm,Intermediate,Easy,High,10
+adrb1,it0,shape,Intermediate,Easy,Acceptable,50
+adrb1,it0,pharm,Intermediate,Easy,Acceptable,50
+adrb1,it1,shape,Intermediate,Easy,Medium,50
+adrb1,it1,pharm,Intermediate,Easy,High,50
+adrb1,it0,shape,Intermediate,Easy,Medium,100
+adrb1,it0,pharm,Intermediate,Easy,Acceptable,100
+adrb1,it1,shape,Intermediate,Easy,Medium,100
+adrb1,it1,pharm,Intermediate,Easy,High,100
+adrb1,it0,shape,Intermediate,Easy,High,200
+adrb1,it0,pharm,Intermediate,Easy,Medium,200
+adrb1,it1,shape,Intermediate,Easy,Medium,200
+adrb1,it1,pharm,Intermediate,Easy,High,200
+adrb1,it0,shape,Intermediate,Easy,High,1000
+adrb1,it0,pharm,Intermediate,Easy,Medium,1000
+adrb1,it1,shape,Intermediate,Easy,Medium,1000
+adrb1,it1,pharm,Intermediate,Easy,High,1000
+adrb2,it0,shape,Intermediate,Easy,Low,1
+adrb2,it0,pharm,Easy,Easy,Acceptable,1
+adrb2,it1,shape,Intermediate,Easy,Low,1
+adrb2,it1,pharm,Easy,Easy,Acceptable,1
+adrb2,it0,shape,Intermediate,Easy,Low,5
+adrb2,it0,pharm,Easy,Easy,Acceptable,5
+adrb2,it1,shape,Intermediate,Easy,Medium,5
+adrb2,it1,pharm,Easy,Easy,Acceptable,5
+adrb2,it0,shape,Intermediate,Easy,Acceptable,10
+adrb2,it0,pharm,Easy,Easy,Acceptable,10
+adrb2,it1,shape,Intermediate,Easy,Medium,10
+adrb2,it1,pharm,Easy,Easy,Acceptable,10
+adrb2,it0,shape,Intermediate,Easy,Acceptable,50
+adrb2,it0,pharm,Easy,Easy,Acceptable,50
+adrb2,it1,shape,Intermediate,Easy,Medium,50
+adrb2,it1,pharm,Easy,Easy,Medium,50
+adrb2,it0,shape,Intermediate,Easy,Acceptable,100
+adrb2,it0,pharm,Easy,Easy,Acceptable,100
+adrb2,it1,shape,Intermediate,Easy,Medium,100
+adrb2,it1,pharm,Easy,Easy,Medium,100
+adrb2,it0,shape,Intermediate,Easy,Acceptable,200
+adrb2,it0,pharm,Easy,Easy,Acceptable,200
+adrb2,it1,shape,Intermediate,Easy,Medium,200
+adrb2,it1,pharm,Easy,Easy,Medium,200
+adrb2,it0,shape,Intermediate,Easy,Medium,1000
+adrb2,it0,pharm,Easy,Easy,Acceptable,1000
+adrb2,it1,shape,Intermediate,Easy,Medium,1000
+adrb2,it1,pharm,Easy,Easy,Medium,1000
+akt1,it0,shape,Intermediate,Easy,Low,1
+akt1,it0,pharm,Intermediate,Easy,Near Acceptable,1
+akt1,it1,shape,Intermediate,Easy,Acceptable,1
+akt1,it1,pharm,Intermediate,Easy,Medium,1
+akt1,it0,shape,Intermediate,Easy,Low,5
+akt1,it0,pharm,Intermediate,Easy,Near Acceptable,5
+akt1,it1,shape,Intermediate,Easy,Acceptable,5
+akt1,it1,pharm,Intermediate,Easy,Medium,5
+akt1,it0,shape,Intermediate,Easy,Near Acceptable,10
+akt1,it0,pharm,Intermediate,Easy,Near Acceptable,10
+akt1,it1,shape,Intermediate,Easy,Acceptable,10
+akt1,it1,pharm,Intermediate,Easy,Medium,10
+akt1,it0,shape,Intermediate,Easy,Acceptable,50
+akt1,it0,pharm,Intermediate,Easy,Acceptable,50
+akt1,it1,shape,Intermediate,Easy,Medium,50
+akt1,it1,pharm,Intermediate,Easy,Medium,50
+akt1,it0,shape,Intermediate,Easy,Acceptable,100
+akt1,it0,pharm,Intermediate,Easy,Acceptable,100
+akt1,it1,shape,Intermediate,Easy,Medium,100
+akt1,it1,pharm,Intermediate,Easy,Medium,100
+akt1,it0,shape,Intermediate,Easy,Acceptable,200
+akt1,it0,pharm,Intermediate,Easy,Acceptable,200
+akt1,it1,shape,Intermediate,Easy,Medium,200
+akt1,it1,pharm,Intermediate,Easy,Medium,200
+akt1,it0,shape,Intermediate,Easy,Medium,1000
+akt1,it0,pharm,Intermediate,Easy,Acceptable,1000
+akt1,it1,shape,Intermediate,Easy,Medium,1000
+akt1,it1,pharm,Intermediate,Easy,Medium,1000
+akt2,it0,shape,Intermediate,Intermediate,Low,1
+akt2,it0,pharm,Intermediate,Intermediate,Low,1
+akt2,it1,shape,Intermediate,Intermediate,Low,1
+akt2,it1,pharm,Intermediate,Intermediate,Low,1
+akt2,it0,shape,Intermediate,Intermediate,Low,5
+akt2,it0,pharm,Intermediate,Intermediate,Low,5
+akt2,it1,shape,Intermediate,Intermediate,Near Acceptable,5
+akt2,it1,pharm,Intermediate,Intermediate,Low,5
+akt2,it0,shape,Intermediate,Intermediate,Low,10
+akt2,it0,pharm,Intermediate,Intermediate,Low,10
+akt2,it1,shape,Intermediate,Intermediate,Near Acceptable,10
+akt2,it1,pharm,Intermediate,Intermediate,Low,10
+akt2,it0,shape,Intermediate,Intermediate,Low,50
+akt2,it0,pharm,Intermediate,Intermediate,Low,50
+akt2,it1,shape,Intermediate,Intermediate,Near Acceptable,50
+akt2,it1,pharm,Intermediate,Intermediate,Near Acceptable,50
+akt2,it0,shape,Intermediate,Intermediate,Near Acceptable,100
+akt2,it0,pharm,Intermediate,Intermediate,Near Acceptable,100
+akt2,it1,shape,Intermediate,Intermediate,Near Acceptable,100
+akt2,it1,pharm,Intermediate,Intermediate,Near Acceptable,100
+akt2,it0,shape,Intermediate,Intermediate,Near Acceptable,200
+akt2,it0,pharm,Intermediate,Intermediate,Near Acceptable,200
+akt2,it1,shape,Intermediate,Intermediate,Near Acceptable,200
+akt2,it1,pharm,Intermediate,Intermediate,Near Acceptable,200
+akt2,it0,shape,Intermediate,Intermediate,Near Acceptable,1000
+akt2,it0,pharm,Intermediate,Intermediate,Near Acceptable,1000
+akt2,it1,shape,Intermediate,Intermediate,Near Acceptable,1000
+akt2,it1,pharm,Intermediate,Intermediate,Near Acceptable,1000
+aldr,it0,shape,Difficult,Intermediate,Low,1
+aldr,it0,pharm,Intermediate,Easy,Acceptable,1
+aldr,it1,shape,Difficult,Intermediate,Medium,1
+aldr,it1,pharm,Intermediate,Easy,Acceptable,1
+aldr,it0,shape,Difficult,Intermediate,Low,5
+aldr,it0,pharm,Intermediate,Easy,Acceptable,5
+aldr,it1,shape,Difficult,Intermediate,Medium,5
+aldr,it1,pharm,Intermediate,Easy,Medium,5
+aldr,it0,shape,Difficult,Intermediate,Low,10
+aldr,it0,pharm,Intermediate,Easy,Acceptable,10
+aldr,it1,shape,Difficult,Intermediate,Medium,10
+aldr,it1,pharm,Intermediate,Easy,Medium,10
+aldr,it0,shape,Difficult,Intermediate,Near Acceptable,50
+aldr,it0,pharm,Intermediate,Easy,Acceptable,50
+aldr,it1,shape,Difficult,Intermediate,Medium,50
+aldr,it1,pharm,Intermediate,Easy,Medium,50
+aldr,it0,shape,Difficult,Intermediate,Near Acceptable,100
+aldr,it0,pharm,Intermediate,Easy,Acceptable,100
+aldr,it1,shape,Difficult,Intermediate,Medium,100
+aldr,it1,pharm,Intermediate,Easy,Medium,100
+aldr,it0,shape,Difficult,Intermediate,Acceptable,200
+aldr,it0,pharm,Intermediate,Easy,Acceptable,200
+aldr,it1,shape,Difficult,Intermediate,Medium,200
+aldr,it1,pharm,Intermediate,Easy,Medium,200
+aldr,it0,shape,Difficult,Intermediate,Acceptable,1000
+aldr,it0,pharm,Intermediate,Easy,Acceptable,1000
+aldr,it1,shape,Difficult,Intermediate,Medium,1000
+aldr,it1,pharm,Intermediate,Easy,Medium,1000
+ampc,it0,shape,Easy,Easy,Low,1
+ampc,it0,pharm,Easy,Easy,Low,1
+ampc,it1,shape,Easy,Easy,Acceptable,1
+ampc,it1,pharm,Easy,Easy,Acceptable,1
+ampc,it0,shape,Easy,Easy,Near Acceptable,5
+ampc,it0,pharm,Easy,Easy,Low,5
+ampc,it1,shape,Easy,Easy,Acceptable,5
+ampc,it1,pharm,Easy,Easy,Acceptable,5
+ampc,it0,shape,Easy,Easy,Near Acceptable,10
+ampc,it0,pharm,Easy,Easy,Low,10
+ampc,it1,shape,Easy,Easy,Acceptable,10
+ampc,it1,pharm,Easy,Easy,Acceptable,10
+ampc,it0,shape,Easy,Easy,Medium,50
+ampc,it0,pharm,Easy,Easy,Acceptable,50
+ampc,it1,shape,Easy,Easy,Acceptable,50
+ampc,it1,pharm,Easy,Easy,Medium,50
+ampc,it0,shape,Easy,Easy,Medium,100
+ampc,it0,pharm,Easy,Easy,Acceptable,100
+ampc,it1,shape,Easy,Easy,Medium,100
+ampc,it1,pharm,Easy,Easy,Medium,100
+ampc,it0,shape,Easy,Easy,Medium,200
+ampc,it0,pharm,Easy,Easy,Acceptable,200
+ampc,it1,shape,Easy,Easy,Medium,200
+ampc,it1,pharm,Easy,Easy,Medium,200
+ampc,it0,shape,Easy,Easy,Medium,1000
+ampc,it0,pharm,Easy,Easy,Medium,1000
+ampc,it1,shape,Easy,Easy,Medium,1000
+ampc,it1,pharm,Easy,Easy,Medium,1000
+andr,it0,shape,Easy,Easy,Low,1
+andr,it0,pharm,Intermediate,Easy,Acceptable,1
+andr,it1,shape,Easy,Easy,High,1
+andr,it1,pharm,Intermediate,Easy,Acceptable,1
+andr,it0,shape,Easy,Easy,Low,5
+andr,it0,pharm,Intermediate,Easy,Acceptable,5
+andr,it1,shape,Easy,Easy,High,5
+andr,it1,pharm,Intermediate,Easy,Acceptable,5
+andr,it0,shape,Easy,Easy,Acceptable,10
+andr,it0,pharm,Intermediate,Easy,Acceptable,10
+andr,it1,shape,Easy,Easy,High,10
+andr,it1,pharm,Intermediate,Easy,Medium,10
+andr,it0,shape,Easy,Easy,Medium,50
+andr,it0,pharm,Intermediate,Easy,Acceptable,50
+andr,it1,shape,Easy,Easy,High,50
+andr,it1,pharm,Intermediate,Easy,Medium,50
+andr,it0,shape,Easy,Easy,Medium,100
+andr,it0,pharm,Intermediate,Easy,Acceptable,100
+andr,it1,shape,Easy,Easy,High,100
+andr,it1,pharm,Intermediate,Easy,Medium,100
+andr,it0,shape,Easy,Easy,Medium,200
+andr,it0,pharm,Intermediate,Easy,Acceptable,200
+andr,it1,shape,Easy,Easy,High,200
+andr,it1,pharm,Intermediate,Easy,Medium,200
+andr,it0,shape,Easy,Easy,Medium,1000
+andr,it0,pharm,Intermediate,Easy,Acceptable,1000
+andr,it1,shape,Easy,Easy,High,1000
+andr,it1,pharm,Intermediate,Easy,Medium,1000
+aofb,it0,shape,Easy,Easy,Low,1
+aofb,it0,pharm,Intermediate,Easy,Acceptable,1
+aofb,it1,shape,Easy,Easy,Acceptable,1
+aofb,it1,pharm,Intermediate,Easy,Acceptable,1
+aofb,it0,shape,Easy,Easy,Low,5
+aofb,it0,pharm,Intermediate,Easy,Acceptable,5
+aofb,it1,shape,Easy,Easy,Acceptable,5
+aofb,it1,pharm,Intermediate,Easy,Acceptable,5
+aofb,it0,shape,Easy,Easy,Low,10
+aofb,it0,pharm,Intermediate,Easy,Acceptable,10
+aofb,it1,shape,Easy,Easy,Acceptable,10
+aofb,it1,pharm,Intermediate,Easy,Acceptable,10
+aofb,it0,shape,Easy,Easy,Medium,50
+aofb,it0,pharm,Intermediate,Easy,Acceptable,50
+aofb,it1,shape,Easy,Easy,Medium,50
+aofb,it1,pharm,Intermediate,Easy,Medium,50
+aofb,it0,shape,Easy,Easy,Medium,100
+aofb,it0,pharm,Intermediate,Easy,Acceptable,100
+aofb,it1,shape,Easy,Easy,Medium,100
+aofb,it1,pharm,Intermediate,Easy,Medium,100
+aofb,it0,shape,Easy,Easy,Medium,200
+aofb,it0,pharm,Intermediate,Easy,Acceptable,200
+aofb,it1,shape,Easy,Easy,Medium,200
+aofb,it1,pharm,Intermediate,Easy,Medium,200
+aofb,it0,shape,Easy,Easy,Medium,1000
+aofb,it0,pharm,Intermediate,Easy,Acceptable,1000
+aofb,it1,shape,Easy,Easy,Medium,1000
+aofb,it1,pharm,Intermediate,Easy,Medium,1000
+bace1,it0,shape,Easy,Difficult,Low,1
+bace1,it0,pharm,Easy,Difficult,Low,1
+bace1,it1,shape,Easy,Difficult,Low,1
+bace1,it1,pharm,Easy,Difficult,Low,1
+bace1,it0,shape,Easy,Difficult,Low,5
+bace1,it0,pharm,Easy,Difficult,Low,5
+bace1,it1,shape,Easy,Difficult,Low,5
+bace1,it1,pharm,Easy,Difficult,Low,5
+bace1,it0,shape,Easy,Difficult,Low,10
+bace1,it0,pharm,Easy,Difficult,Low,10
+bace1,it1,shape,Easy,Difficult,Low,10
+bace1,it1,pharm,Easy,Difficult,Low,10
+bace1,it0,shape,Easy,Difficult,Low,50
+bace1,it0,pharm,Easy,Difficult,Low,50
+bace1,it1,shape,Easy,Difficult,Low,50
+bace1,it1,pharm,Easy,Difficult,Low,50
+bace1,it0,shape,Easy,Difficult,Low,100
+bace1,it0,pharm,Easy,Difficult,Low,100
+bace1,it1,shape,Easy,Difficult,Low,100
+bace1,it1,pharm,Easy,Difficult,Low,100
+bace1,it0,shape,Easy,Difficult,Low,200
+bace1,it0,pharm,Easy,Difficult,Low,200
+bace1,it1,shape,Easy,Difficult,Low,200
+bace1,it1,pharm,Easy,Difficult,Low,200
+bace1,it0,shape,Easy,Difficult,Low,1000
+bace1,it0,pharm,Easy,Difficult,Low,1000
+bace1,it1,shape,Easy,Difficult,Low,1000
+bace1,it1,pharm,Easy,Difficult,Low,1000
+braf,it0,shape,Easy,Intermediate,Low,1
+braf,it0,pharm,Easy,Intermediate,Near Acceptable,1
+braf,it1,shape,Easy,Intermediate,Acceptable,1
+braf,it1,pharm,Easy,Intermediate,Low,1
+braf,it0,shape,Easy,Intermediate,Low,5
+braf,it0,pharm,Easy,Intermediate,Near Acceptable,5
+braf,it1,shape,Easy,Intermediate,Acceptable,5
+braf,it1,pharm,Easy,Intermediate,Near Acceptable,5
+braf,it0,shape,Easy,Intermediate,Low,10
+braf,it0,pharm,Easy,Intermediate,Near Acceptable,10
+braf,it1,shape,Easy,Intermediate,Acceptable,10
+braf,it1,pharm,Easy,Intermediate,Acceptable,10
+braf,it0,shape,Easy,Intermediate,Acceptable,50
+braf,it0,pharm,Easy,Intermediate,Near Acceptable,50
+braf,it1,shape,Easy,Intermediate,Acceptable,50
+braf,it1,pharm,Easy,Intermediate,Acceptable,50
+braf,it0,shape,Easy,Intermediate,Acceptable,100
+braf,it0,pharm,Easy,Intermediate,Near Acceptable,100
+braf,it1,shape,Easy,Intermediate,Acceptable,100
+braf,it1,pharm,Easy,Intermediate,Acceptable,100
+braf,it0,shape,Easy,Intermediate,Acceptable,200
+braf,it0,pharm,Easy,Intermediate,Near Acceptable,200
+braf,it1,shape,Easy,Intermediate,Acceptable,200
+braf,it1,pharm,Easy,Intermediate,Acceptable,200
+braf,it0,shape,Easy,Intermediate,Acceptable,1000
+braf,it0,pharm,Easy,Intermediate,Acceptable,1000
+braf,it1,shape,Easy,Intermediate,Acceptable,1000
+braf,it1,pharm,Easy,Intermediate,Acceptable,1000
+cah2,it0,shape,Intermediate,Difficult,Low,1
+cah2,it0,pharm,Intermediate,Difficult,Low,1
+cah2,it1,shape,Intermediate,Difficult,Acceptable,1
+cah2,it1,pharm,Intermediate,Difficult,Near Acceptable,1
+cah2,it0,shape,Intermediate,Difficult,Low,5
+cah2,it0,pharm,Intermediate,Difficult,Near Acceptable,5
+cah2,it1,shape,Intermediate,Difficult,Acceptable,5
+cah2,it1,pharm,Intermediate,Difficult,Medium,5
+cah2,it0,shape,Intermediate,Difficult,Low,10
+cah2,it0,pharm,Intermediate,Difficult,Near Acceptable,10
+cah2,it1,shape,Intermediate,Difficult,Acceptable,10
+cah2,it1,pharm,Intermediate,Difficult,Medium,10
+cah2,it0,shape,Intermediate,Difficult,Low,50
+cah2,it0,pharm,Intermediate,Difficult,Near Acceptable,50
+cah2,it1,shape,Intermediate,Difficult,Acceptable,50
+cah2,it1,pharm,Intermediate,Difficult,Medium,50
+cah2,it0,shape,Intermediate,Difficult,Acceptable,100
+cah2,it0,pharm,Intermediate,Difficult,Near Acceptable,100
+cah2,it1,shape,Intermediate,Difficult,Acceptable,100
+cah2,it1,pharm,Intermediate,Difficult,Medium,100
+cah2,it0,shape,Intermediate,Difficult,Acceptable,200
+cah2,it0,pharm,Intermediate,Difficult,Acceptable,200
+cah2,it1,shape,Intermediate,Difficult,Acceptable,200
+cah2,it1,pharm,Intermediate,Difficult,Medium,200
+cah2,it0,shape,Intermediate,Difficult,Acceptable,1000
+cah2,it0,pharm,Intermediate,Difficult,Medium,1000
+cah2,it1,shape,Intermediate,Difficult,Acceptable,1000
+cah2,it1,pharm,Intermediate,Difficult,Medium,1000
+casp3,it0,shape,Easy,Difficult,Low,1
+casp3,it0,pharm,Easy,Intermediate,Near Acceptable,1
+casp3,it1,shape,Easy,Difficult,Low,1
+casp3,it1,pharm,Easy,Intermediate,Low,1
+casp3,it0,shape,Easy,Difficult,Low,5
+casp3,it0,pharm,Easy,Intermediate,Near Acceptable,5
+casp3,it1,shape,Easy,Difficult,Low,5
+casp3,it1,pharm,Easy,Intermediate,Near Acceptable,5
+casp3,it0,shape,Easy,Difficult,Low,10
+casp3,it0,pharm,Easy,Intermediate,Near Acceptable,10
+casp3,it1,shape,Easy,Difficult,Low,10
+casp3,it1,pharm,Easy,Intermediate,Near Acceptable,10
+casp3,it0,shape,Easy,Difficult,Low,50
+casp3,it0,pharm,Easy,Intermediate,Near Acceptable,50
+casp3,it1,shape,Easy,Difficult,Low,50
+casp3,it1,pharm,Easy,Intermediate,Acceptable,50
+casp3,it0,shape,Easy,Difficult,Low,100
+casp3,it0,pharm,Easy,Intermediate,Near Acceptable,100
+casp3,it1,shape,Easy,Difficult,Low,100
+casp3,it1,pharm,Easy,Intermediate,Acceptable,100
+casp3,it0,shape,Easy,Difficult,Low,200
+casp3,it0,pharm,Easy,Intermediate,Acceptable,200
+casp3,it1,shape,Easy,Difficult,Near Acceptable,200
+casp3,it1,pharm,Easy,Intermediate,Acceptable,200
+casp3,it0,shape,Easy,Difficult,Low,1000
+casp3,it0,pharm,Easy,Intermediate,Acceptable,1000
+casp3,it1,shape,Easy,Difficult,Near Acceptable,1000
+casp3,it1,pharm,Easy,Intermediate,Acceptable,1000
+cdk2,it0,shape,Easy,Intermediate,Low,1
+cdk2,it0,pharm,Easy,Intermediate,Acceptable,1
+cdk2,it1,shape,Easy,Intermediate,Acceptable,1
+cdk2,it1,pharm,Easy,Intermediate,Acceptable,1
+cdk2,it0,shape,Easy,Intermediate,Low,5
+cdk2,it0,pharm,Easy,Intermediate,Acceptable,5
+cdk2,it1,shape,Easy,Intermediate,Acceptable,5
+cdk2,it1,pharm,Easy,Intermediate,Acceptable,5
+cdk2,it0,shape,Easy,Intermediate,Low,10
+cdk2,it0,pharm,Easy,Intermediate,Acceptable,10
+cdk2,it1,shape,Easy,Intermediate,Acceptable,10
+cdk2,it1,pharm,Easy,Intermediate,Acceptable,10
+cdk2,it0,shape,Easy,Intermediate,Low,50
+cdk2,it0,pharm,Easy,Intermediate,Acceptable,50
+cdk2,it1,shape,Easy,Intermediate,Acceptable,50
+cdk2,it1,pharm,Easy,Intermediate,Acceptable,50
+cdk2,it0,shape,Easy,Intermediate,Low,100
+cdk2,it0,pharm,Easy,Intermediate,Acceptable,100
+cdk2,it1,shape,Easy,Intermediate,Acceptable,100
+cdk2,it1,pharm,Easy,Intermediate,Acceptable,100
+cdk2,it0,shape,Easy,Intermediate,Near Acceptable,200
+cdk2,it0,pharm,Easy,Intermediate,Acceptable,200
+cdk2,it1,shape,Easy,Intermediate,Acceptable,200
+cdk2,it1,pharm,Easy,Intermediate,Acceptable,200
+cdk2,it0,shape,Easy,Intermediate,Near Acceptable,1000
+cdk2,it0,pharm,Easy,Intermediate,Acceptable,1000
+cdk2,it1,shape,Easy,Intermediate,Acceptable,1000
+cdk2,it1,pharm,Easy,Intermediate,Acceptable,1000
+comt,it0,shape,Intermediate,Intermediate,Low,1
+comt,it0,pharm,Difficult,Easy,Low,1
+comt,it1,shape,Intermediate,Intermediate,Low,1
+comt,it1,pharm,Difficult,Easy,Low,1
+comt,it0,shape,Intermediate,Intermediate,Low,5
+comt,it0,pharm,Difficult,Easy,Low,5
+comt,it1,shape,Intermediate,Intermediate,Low,5
+comt,it1,pharm,Difficult,Easy,Low,5
+comt,it0,shape,Intermediate,Intermediate,Low,10
+comt,it0,pharm,Difficult,Easy,Low,10
+comt,it1,shape,Intermediate,Intermediate,Low,10
+comt,it1,pharm,Difficult,Easy,Low,10
+comt,it0,shape,Intermediate,Intermediate,Low,50
+comt,it0,pharm,Difficult,Easy,Low,50
+comt,it1,shape,Intermediate,Intermediate,Acceptable,50
+comt,it1,pharm,Difficult,Easy,Low,50
+comt,it0,shape,Intermediate,Intermediate,Acceptable,100
+comt,it0,pharm,Difficult,Easy,Low,100
+comt,it1,shape,Intermediate,Intermediate,Acceptable,100
+comt,it1,pharm,Difficult,Easy,Low,100
+comt,it0,shape,Intermediate,Intermediate,Acceptable,200
+comt,it0,pharm,Difficult,Easy,Low,200
+comt,it1,shape,Intermediate,Intermediate,Acceptable,200
+comt,it1,pharm,Difficult,Easy,Low,200
+comt,it0,shape,Intermediate,Intermediate,Acceptable,1000
+comt,it0,pharm,Difficult,Easy,Low,1000
+comt,it1,shape,Intermediate,Intermediate,Acceptable,1000
+comt,it1,pharm,Difficult,Easy,Low,1000
+cp2c9,it0,shape,Intermediate,Intermediate,Low,1
+cp2c9,it0,pharm,Difficult,Intermediate,Acceptable,1
+cp2c9,it1,shape,Intermediate,Intermediate,Low,1
+cp2c9,it1,pharm,Difficult,Intermediate,Medium,1
+cp2c9,it0,shape,Intermediate,Intermediate,Low,5
+cp2c9,it0,pharm,Difficult,Intermediate,Acceptable,5
+cp2c9,it1,shape,Intermediate,Intermediate,Acceptable,5
+cp2c9,it1,pharm,Difficult,Intermediate,Medium,5
+cp2c9,it0,shape,Intermediate,Intermediate,Low,10
+cp2c9,it0,pharm,Difficult,Intermediate,Acceptable,10
+cp2c9,it1,shape,Intermediate,Intermediate,Medium,10
+cp2c9,it1,pharm,Difficult,Intermediate,Medium,10
+cp2c9,it0,shape,Intermediate,Intermediate,Acceptable,50
+cp2c9,it0,pharm,Difficult,Intermediate,Acceptable,50
+cp2c9,it1,shape,Intermediate,Intermediate,Medium,50
+cp2c9,it1,pharm,Difficult,Intermediate,Medium,50
+cp2c9,it0,shape,Intermediate,Intermediate,Acceptable,100
+cp2c9,it0,pharm,Difficult,Intermediate,Acceptable,100
+cp2c9,it1,shape,Intermediate,Intermediate,Medium,100
+cp2c9,it1,pharm,Difficult,Intermediate,Medium,100
+cp2c9,it0,shape,Intermediate,Intermediate,Medium,200
+cp2c9,it0,pharm,Difficult,Intermediate,Acceptable,200
+cp2c9,it1,shape,Intermediate,Intermediate,Medium,200
+cp2c9,it1,pharm,Difficult,Intermediate,Medium,200
+cp2c9,it0,shape,Intermediate,Intermediate,Medium,1000
+cp2c9,it0,pharm,Difficult,Intermediate,Acceptable,1000
+cp2c9,it1,shape,Intermediate,Intermediate,Medium,1000
+cp2c9,it1,pharm,Difficult,Intermediate,Medium,1000
+cp3a4,it0,shape,Easy,Intermediate,Low,1
+cp3a4,it0,pharm,Easy,Easy,Low,1
+cp3a4,it1,shape,Easy,Intermediate,Near Acceptable,1
+cp3a4,it1,pharm,Easy,Easy,Near Acceptable,1
+cp3a4,it0,shape,Easy,Intermediate,Low,5
+cp3a4,it0,pharm,Easy,Easy,Low,5
+cp3a4,it1,shape,Easy,Intermediate,Near Acceptable,5
+cp3a4,it1,pharm,Easy,Easy,Near Acceptable,5
+cp3a4,it0,shape,Easy,Intermediate,Low,10
+cp3a4,it0,pharm,Easy,Easy,Low,10
+cp3a4,it1,shape,Easy,Intermediate,Near Acceptable,10
+cp3a4,it1,pharm,Easy,Easy,Acceptable,10
+cp3a4,it0,shape,Easy,Intermediate,Low,50
+cp3a4,it0,pharm,Easy,Easy,Low,50
+cp3a4,it1,shape,Easy,Intermediate,Near Acceptable,50
+cp3a4,it1,pharm,Easy,Easy,Acceptable,50
+cp3a4,it0,shape,Easy,Intermediate,Low,100
+cp3a4,it0,pharm,Easy,Easy,Low,100
+cp3a4,it1,shape,Easy,Intermediate,Near Acceptable,100
+cp3a4,it1,pharm,Easy,Easy,Acceptable,100
+cp3a4,it0,shape,Easy,Intermediate,Low,200
+cp3a4,it0,pharm,Easy,Easy,Low,200
+cp3a4,it1,shape,Easy,Intermediate,Near Acceptable,200
+cp3a4,it1,pharm,Easy,Easy,Acceptable,200
+cp3a4,it0,shape,Easy,Intermediate,Low,1000
+cp3a4,it0,pharm,Easy,Easy,Low,1000
+cp3a4,it1,shape,Easy,Intermediate,Near Acceptable,1000
+cp3a4,it1,pharm,Easy,Easy,Acceptable,1000
+csf1r,it0,shape,Intermediate,Intermediate,Near Acceptable,1
+csf1r,it0,pharm,Intermediate,Difficult,Low,1
+csf1r,it1,shape,Intermediate,Intermediate,Near Acceptable,1
+csf1r,it1,pharm,Intermediate,Difficult,Low,1
+csf1r,it0,shape,Intermediate,Intermediate,Near Acceptable,5
+csf1r,it0,pharm,Intermediate,Difficult,Low,5
+csf1r,it1,shape,Intermediate,Intermediate,Acceptable,5
+csf1r,it1,pharm,Intermediate,Difficult,Near Acceptable,5
+csf1r,it0,shape,Intermediate,Intermediate,Near Acceptable,10
+csf1r,it0,pharm,Intermediate,Difficult,Low,10
+csf1r,it1,shape,Intermediate,Intermediate,Acceptable,10
+csf1r,it1,pharm,Intermediate,Difficult,Acceptable,10
+csf1r,it0,shape,Intermediate,Intermediate,Acceptable,50
+csf1r,it0,pharm,Intermediate,Difficult,Low,50
+csf1r,it1,shape,Intermediate,Intermediate,Acceptable,50
+csf1r,it1,pharm,Intermediate,Difficult,Acceptable,50
+csf1r,it0,shape,Intermediate,Intermediate,Acceptable,100
+csf1r,it0,pharm,Intermediate,Difficult,Low,100
+csf1r,it1,shape,Intermediate,Intermediate,Acceptable,100
+csf1r,it1,pharm,Intermediate,Difficult,Acceptable,100
+csf1r,it0,shape,Intermediate,Intermediate,Acceptable,200
+csf1r,it0,pharm,Intermediate,Difficult,Near Acceptable,200
+csf1r,it1,shape,Intermediate,Intermediate,Acceptable,200
+csf1r,it1,pharm,Intermediate,Difficult,Acceptable,200
+csf1r,it0,shape,Intermediate,Intermediate,Acceptable,1000
+csf1r,it0,pharm,Intermediate,Difficult,Near Acceptable,1000
+csf1r,it1,shape,Intermediate,Intermediate,Acceptable,1000
+csf1r,it1,pharm,Intermediate,Difficult,Acceptable,1000
+def,it0,shape,Intermediate,Intermediate,Low,1
+def,it0,pharm,Intermediate,Intermediate,Acceptable,1
+def,it1,shape,Intermediate,Intermediate,Acceptable,1
+def,it1,pharm,Intermediate,Intermediate,Acceptable,1
+def,it0,shape,Intermediate,Intermediate,Acceptable,5
+def,it0,pharm,Intermediate,Intermediate,Acceptable,5
+def,it1,shape,Intermediate,Intermediate,Acceptable,5
+def,it1,pharm,Intermediate,Intermediate,Medium,5
+def,it0,shape,Intermediate,Intermediate,Acceptable,10
+def,it0,pharm,Intermediate,Intermediate,Acceptable,10
+def,it1,shape,Intermediate,Intermediate,Acceptable,10
+def,it1,pharm,Intermediate,Intermediate,Medium,10
+def,it0,shape,Intermediate,Intermediate,Acceptable,50
+def,it0,pharm,Intermediate,Intermediate,Acceptable,50
+def,it1,shape,Intermediate,Intermediate,Acceptable,50
+def,it1,pharm,Intermediate,Intermediate,Medium,50
+def,it0,shape,Intermediate,Intermediate,Acceptable,100
+def,it0,pharm,Intermediate,Intermediate,Acceptable,100
+def,it1,shape,Intermediate,Intermediate,Acceptable,100
+def,it1,pharm,Intermediate,Intermediate,Medium,100
+def,it0,shape,Intermediate,Intermediate,Acceptable,200
+def,it0,pharm,Intermediate,Intermediate,Acceptable,200
+def,it1,shape,Intermediate,Intermediate,Acceptable,200
+def,it1,pharm,Intermediate,Intermediate,Medium,200
+def,it0,shape,Intermediate,Intermediate,Acceptable,1000
+def,it0,pharm,Intermediate,Intermediate,Acceptable,1000
+def,it1,shape,Intermediate,Intermediate,Acceptable,1000
+def,it1,pharm,Intermediate,Intermediate,Medium,1000
+dhi1,it0,shape,Intermediate,Easy,Low,1
+dhi1,it0,pharm,Intermediate,Easy,Near Acceptable,1
+dhi1,it1,shape,Intermediate,Easy,Low,1
+dhi1,it1,pharm,Intermediate,Easy,Acceptable,1
+dhi1,it0,shape,Intermediate,Easy,Low,5
+dhi1,it0,pharm,Intermediate,Easy,Near Acceptable,5
+dhi1,it1,shape,Intermediate,Easy,Acceptable,5
+dhi1,it1,pharm,Intermediate,Easy,Acceptable,5
+dhi1,it0,shape,Intermediate,Easy,Low,10
+dhi1,it0,pharm,Intermediate,Easy,Near Acceptable,10
+dhi1,it1,shape,Intermediate,Easy,Acceptable,10
+dhi1,it1,pharm,Intermediate,Easy,Acceptable,10
+dhi1,it0,shape,Intermediate,Easy,Low,50
+dhi1,it0,pharm,Intermediate,Easy,Acceptable,50
+dhi1,it1,shape,Intermediate,Easy,Acceptable,50
+dhi1,it1,pharm,Intermediate,Easy,Acceptable,50
+dhi1,it0,shape,Intermediate,Easy,Low,100
+dhi1,it0,pharm,Intermediate,Easy,Acceptable,100
+dhi1,it1,shape,Intermediate,Easy,Acceptable,100
+dhi1,it1,pharm,Intermediate,Easy,Acceptable,100
+dhi1,it0,shape,Intermediate,Easy,Acceptable,200
+dhi1,it0,pharm,Intermediate,Easy,Acceptable,200
+dhi1,it1,shape,Intermediate,Easy,Acceptable,200
+dhi1,it1,pharm,Intermediate,Easy,Acceptable,200
+dhi1,it0,shape,Intermediate,Easy,Acceptable,1000
+dhi1,it0,pharm,Intermediate,Easy,Acceptable,1000
+dhi1,it1,shape,Intermediate,Easy,Acceptable,1000
+dhi1,it1,pharm,Intermediate,Easy,Acceptable,1000
+dpp4,it0,shape,Intermediate,Intermediate,Acceptable,1
+dpp4,it0,pharm,Intermediate,Intermediate,Acceptable,1
+dpp4,it1,shape,Intermediate,Intermediate,Low,1
+dpp4,it1,pharm,Intermediate,Intermediate,Acceptable,1
+dpp4,it0,shape,Intermediate,Intermediate,Acceptable,5
+dpp4,it0,pharm,Intermediate,Intermediate,Acceptable,5
+dpp4,it1,shape,Intermediate,Intermediate,Low,5
+dpp4,it1,pharm,Intermediate,Intermediate,Acceptable,5
+dpp4,it0,shape,Intermediate,Intermediate,Acceptable,10
+dpp4,it0,pharm,Intermediate,Intermediate,Acceptable,10
+dpp4,it1,shape,Intermediate,Intermediate,Near Acceptable,10
+dpp4,it1,pharm,Intermediate,Intermediate,Medium,10
+dpp4,it0,shape,Intermediate,Intermediate,Acceptable,50
+dpp4,it0,pharm,Intermediate,Intermediate,Acceptable,50
+dpp4,it1,shape,Intermediate,Intermediate,Acceptable,50
+dpp4,it1,pharm,Intermediate,Intermediate,Medium,50
+dpp4,it0,shape,Intermediate,Intermediate,Acceptable,100
+dpp4,it0,pharm,Intermediate,Intermediate,Acceptable,100
+dpp4,it1,shape,Intermediate,Intermediate,Acceptable,100
+dpp4,it1,pharm,Intermediate,Intermediate,Medium,100
+dpp4,it0,shape,Intermediate,Intermediate,Acceptable,200
+dpp4,it0,pharm,Intermediate,Intermediate,Acceptable,200
+dpp4,it1,shape,Intermediate,Intermediate,Acceptable,200
+dpp4,it1,pharm,Intermediate,Intermediate,Medium,200
+dpp4,it0,shape,Intermediate,Intermediate,Acceptable,1000
+dpp4,it0,pharm,Intermediate,Intermediate,Acceptable,1000
+dpp4,it1,shape,Intermediate,Intermediate,Acceptable,1000
+dpp4,it1,pharm,Intermediate,Intermediate,Medium,1000
+dyr,it0,shape,Easy,Intermediate,Low,1
+dyr,it0,pharm,Easy,Easy,Medium,1
+dyr,it1,shape,Easy,Intermediate,Acceptable,1
+dyr,it1,pharm,Easy,Easy,Acceptable,1
+dyr,it0,shape,Easy,Intermediate,Low,5
+dyr,it0,pharm,Easy,Easy,Medium,5
+dyr,it1,shape,Easy,Intermediate,Acceptable,5
+dyr,it1,pharm,Easy,Easy,Medium,5
+dyr,it0,shape,Easy,Intermediate,Low,10
+dyr,it0,pharm,Easy,Easy,Medium,10
+dyr,it1,shape,Easy,Intermediate,Acceptable,10
+dyr,it1,pharm,Easy,Easy,Medium,10
+dyr,it0,shape,Easy,Intermediate,Low,50
+dyr,it0,pharm,Easy,Easy,Medium,50
+dyr,it1,shape,Easy,Intermediate,Acceptable,50
+dyr,it1,pharm,Easy,Easy,Medium,50
+dyr,it0,shape,Easy,Intermediate,Near Acceptable,100
+dyr,it0,pharm,Easy,Easy,Medium,100
+dyr,it1,shape,Easy,Intermediate,Medium,100
+dyr,it1,pharm,Easy,Easy,Medium,100
+dyr,it0,shape,Easy,Intermediate,Acceptable,200
+dyr,it0,pharm,Easy,Easy,Medium,200
+dyr,it1,shape,Easy,Intermediate,Medium,200
+dyr,it1,pharm,Easy,Easy,Medium,200
+dyr,it0,shape,Easy,Intermediate,Acceptable,1000
+dyr,it0,pharm,Easy,Easy,Medium,1000
+dyr,it1,shape,Easy,Intermediate,Medium,1000
+dyr,it1,pharm,Easy,Easy,Medium,1000
+egfr,it0,shape,Intermediate,Easy,Low,1
+egfr,it0,pharm,Easy,Easy,Acceptable,1
+egfr,it1,shape,Intermediate,Easy,Acceptable,1
+egfr,it1,pharm,Easy,Easy,Medium,1
+egfr,it0,shape,Intermediate,Easy,Acceptable,5
+egfr,it0,pharm,Easy,Easy,Acceptable,5
+egfr,it1,shape,Intermediate,Easy,Acceptable,5
+egfr,it1,pharm,Easy,Easy,Medium,5
+egfr,it0,shape,Intermediate,Easy,Acceptable,10
+egfr,it0,pharm,Easy,Easy,Acceptable,10
+egfr,it1,shape,Intermediate,Easy,Acceptable,10
+egfr,it1,pharm,Easy,Easy,Medium,10
+egfr,it0,shape,Intermediate,Easy,Acceptable,50
+egfr,it0,pharm,Easy,Easy,Acceptable,50
+egfr,it1,shape,Intermediate,Easy,Acceptable,50
+egfr,it1,pharm,Easy,Easy,Medium,50
+egfr,it0,shape,Intermediate,Easy,Acceptable,100
+egfr,it0,pharm,Easy,Easy,Acceptable,100
+egfr,it1,shape,Intermediate,Easy,Acceptable,100
+egfr,it1,pharm,Easy,Easy,Medium,100
+egfr,it0,shape,Intermediate,Easy,Acceptable,200
+egfr,it0,pharm,Easy,Easy,Acceptable,200
+egfr,it1,shape,Intermediate,Easy,Acceptable,200
+egfr,it1,pharm,Easy,Easy,Medium,200
+egfr,it0,shape,Intermediate,Easy,Acceptable,1000
+egfr,it0,pharm,Easy,Easy,Acceptable,1000
+egfr,it1,shape,Intermediate,Easy,Acceptable,1000
+egfr,it1,pharm,Easy,Easy,Medium,1000
+esr1,it0,shape,Easy,Easy,Low,1
+esr1,it0,pharm,Easy,Easy,Acceptable,1
+esr1,it1,shape,Easy,Easy,Acceptable,1
+esr1,it1,pharm,Easy,Easy,Medium,1
+esr1,it0,shape,Easy,Easy,Acceptable,5
+esr1,it0,pharm,Easy,Easy,Acceptable,5
+esr1,it1,shape,Easy,Easy,Medium,5
+esr1,it1,pharm,Easy,Easy,Medium,5
+esr1,it0,shape,Easy,Easy,Acceptable,10
+esr1,it0,pharm,Easy,Easy,Acceptable,10
+esr1,it1,shape,Easy,Easy,Medium,10
+esr1,it1,pharm,Easy,Easy,Medium,10
+esr1,it0,shape,Easy,Easy,Acceptable,50
+esr1,it0,pharm,Easy,Easy,Medium,50
+esr1,it1,shape,Easy,Easy,Medium,50
+esr1,it1,pharm,Easy,Easy,Medium,50
+esr1,it0,shape,Easy,Easy,Acceptable,100
+esr1,it0,pharm,Easy,Easy,Medium,100
+esr1,it1,shape,Easy,Easy,Medium,100
+esr1,it1,pharm,Easy,Easy,Medium,100
+esr1,it0,shape,Easy,Easy,Acceptable,200
+esr1,it0,pharm,Easy,Easy,Medium,200
+esr1,it1,shape,Easy,Easy,Medium,200
+esr1,it1,pharm,Easy,Easy,Medium,200
+esr1,it0,shape,Easy,Easy,Acceptable,1000
+esr1,it0,pharm,Easy,Easy,Medium,1000
+esr1,it1,shape,Easy,Easy,Medium,1000
+esr1,it1,pharm,Easy,Easy,Medium,1000
+esr2,it0,shape,Difficult,Intermediate,Low,1
+esr2,it0,pharm,Intermediate,Difficult,Low,1
+esr2,it1,shape,Difficult,Intermediate,Acceptable,1
+esr2,it1,pharm,Intermediate,Difficult,Low,1
+esr2,it0,shape,Difficult,Intermediate,Low,5
+esr2,it0,pharm,Intermediate,Difficult,Low,5
+esr2,it1,shape,Difficult,Intermediate,Acceptable,5
+esr2,it1,pharm,Intermediate,Difficult,Low,5
+esr2,it0,shape,Difficult,Intermediate,Low,10
+esr2,it0,pharm,Intermediate,Difficult,Low,10
+esr2,it1,shape,Difficult,Intermediate,Acceptable,10
+esr2,it1,pharm,Intermediate,Difficult,Low,10
+esr2,it0,shape,Difficult,Intermediate,Acceptable,50
+esr2,it0,pharm,Intermediate,Difficult,Low,50
+esr2,it1,shape,Difficult,Intermediate,Acceptable,50
+esr2,it1,pharm,Intermediate,Difficult,Low,50
+esr2,it0,shape,Difficult,Intermediate,Acceptable,100
+esr2,it0,pharm,Intermediate,Difficult,Low,100
+esr2,it1,shape,Difficult,Intermediate,Acceptable,100
+esr2,it1,pharm,Intermediate,Difficult,Low,100
+esr2,it0,shape,Difficult,Intermediate,Acceptable,200
+esr2,it0,pharm,Intermediate,Difficult,Low,200
+esr2,it1,shape,Difficult,Intermediate,Acceptable,200
+esr2,it1,pharm,Intermediate,Difficult,Near Acceptable,200
+esr2,it0,shape,Difficult,Intermediate,Acceptable,1000
+esr2,it0,pharm,Intermediate,Difficult,Near Acceptable,1000
+esr2,it1,shape,Difficult,Intermediate,Acceptable,1000
+esr2,it1,pharm,Intermediate,Difficult,Near Acceptable,1000
+fa10,it0,shape,Intermediate,Easy,Acceptable,1
+fa10,it0,pharm,Intermediate,Easy,Near Acceptable,1
+fa10,it1,shape,Intermediate,Easy,Acceptable,1
+fa10,it1,pharm,Intermediate,Easy,Acceptable,1
+fa10,it0,shape,Intermediate,Easy,Acceptable,5
+fa10,it0,pharm,Intermediate,Easy,Near Acceptable,5
+fa10,it1,shape,Intermediate,Easy,Acceptable,5
+fa10,it1,pharm,Intermediate,Easy,Acceptable,5
+fa10,it0,shape,Intermediate,Easy,Acceptable,10
+fa10,it0,pharm,Intermediate,Easy,Near Acceptable,10
+fa10,it1,shape,Intermediate,Easy,Acceptable,10
+fa10,it1,pharm,Intermediate,Easy,Acceptable,10
+fa10,it0,shape,Intermediate,Easy,Acceptable,50
+fa10,it0,pharm,Intermediate,Easy,Acceptable,50
+fa10,it1,shape,Intermediate,Easy,Acceptable,50
+fa10,it1,pharm,Intermediate,Easy,Acceptable,50
+fa10,it0,shape,Intermediate,Easy,Acceptable,100
+fa10,it0,pharm,Intermediate,Easy,Acceptable,100
+fa10,it1,shape,Intermediate,Easy,Acceptable,100
+fa10,it1,pharm,Intermediate,Easy,Acceptable,100
+fa10,it0,shape,Intermediate,Easy,Acceptable,200
+fa10,it0,pharm,Intermediate,Easy,Acceptable,200
+fa10,it1,shape,Intermediate,Easy,Acceptable,200
+fa10,it1,pharm,Intermediate,Easy,Acceptable,200
+fa10,it0,shape,Intermediate,Easy,Acceptable,1000
+fa10,it0,pharm,Intermediate,Easy,Acceptable,1000
+fa10,it1,shape,Intermediate,Easy,Acceptable,1000
+fa10,it1,pharm,Intermediate,Easy,Acceptable,1000
+fa7,it0,shape,Easy,Intermediate,Low,1
+fa7,it0,pharm,Intermediate,Intermediate,Low,1
+fa7,it1,shape,Easy,Intermediate,Acceptable,1
+fa7,it1,pharm,Intermediate,Intermediate,Low,1
+fa7,it0,shape,Easy,Intermediate,Low,5
+fa7,it0,pharm,Intermediate,Intermediate,Low,5
+fa7,it1,shape,Easy,Intermediate,Acceptable,5
+fa7,it1,pharm,Intermediate,Intermediate,Acceptable,5
+fa7,it0,shape,Easy,Intermediate,Near Acceptable,10
+fa7,it0,pharm,Intermediate,Intermediate,Low,10
+fa7,it1,shape,Easy,Intermediate,Acceptable,10
+fa7,it1,pharm,Intermediate,Intermediate,Acceptable,10
+fa7,it0,shape,Easy,Intermediate,Acceptable,50
+fa7,it0,pharm,Intermediate,Intermediate,Low,50
+fa7,it1,shape,Easy,Intermediate,Medium,50
+fa7,it1,pharm,Intermediate,Intermediate,Acceptable,50
+fa7,it0,shape,Easy,Intermediate,Acceptable,100
+fa7,it0,pharm,Intermediate,Intermediate,Low,100
+fa7,it1,shape,Easy,Intermediate,Medium,100
+fa7,it1,pharm,Intermediate,Intermediate,Acceptable,100
+fa7,it0,shape,Easy,Intermediate,Acceptable,200
+fa7,it0,pharm,Intermediate,Intermediate,Near Acceptable,200
+fa7,it1,shape,Easy,Intermediate,Medium,200
+fa7,it1,pharm,Intermediate,Intermediate,Acceptable,200
+fa7,it0,shape,Easy,Intermediate,Acceptable,1000
+fa7,it0,pharm,Intermediate,Intermediate,Near Acceptable,1000
+fa7,it1,shape,Easy,Intermediate,Medium,1000
+fa7,it1,pharm,Intermediate,Intermediate,Acceptable,1000
+fabp4,it0,shape,Difficult,Difficult,Low,1
+fabp4,it0,pharm,Intermediate,Difficult,Low,1
+fabp4,it1,shape,Difficult,Difficult,Low,1
+fabp4,it1,pharm,Intermediate,Difficult,Low,1
+fabp4,it0,shape,Difficult,Difficult,Low,5
+fabp4,it0,pharm,Intermediate,Difficult,Low,5
+fabp4,it1,shape,Difficult,Difficult,Low,5
+fabp4,it1,pharm,Intermediate,Difficult,Low,5
+fabp4,it0,shape,Difficult,Difficult,Low,10
+fabp4,it0,pharm,Intermediate,Difficult,Low,10
+fabp4,it1,shape,Difficult,Difficult,Low,10
+fabp4,it1,pharm,Intermediate,Difficult,Low,10
+fabp4,it0,shape,Difficult,Difficult,Near Acceptable,50
+fabp4,it0,pharm,Intermediate,Difficult,Low,50
+fabp4,it1,shape,Difficult,Difficult,Low,50
+fabp4,it1,pharm,Intermediate,Difficult,Low,50
+fabp4,it0,shape,Difficult,Difficult,Near Acceptable,100
+fabp4,it0,pharm,Intermediate,Difficult,Low,100
+fabp4,it1,shape,Difficult,Difficult,Low,100
+fabp4,it1,pharm,Intermediate,Difficult,Low,100
+fabp4,it0,shape,Difficult,Difficult,Near Acceptable,200
+fabp4,it0,pharm,Intermediate,Difficult,Low,200
+fabp4,it1,shape,Difficult,Difficult,Low,200
+fabp4,it1,pharm,Intermediate,Difficult,Low,200
+fabp4,it0,shape,Difficult,Difficult,Near Acceptable,1000
+fabp4,it0,pharm,Intermediate,Difficult,Acceptable,1000
+fabp4,it1,shape,Difficult,Difficult,Low,1000
+fabp4,it1,pharm,Intermediate,Difficult,Low,1000
+fak1,it0,shape,Intermediate,Intermediate,Low,1
+fak1,it0,pharm,Intermediate,Intermediate,Acceptable,1
+fak1,it1,shape,Intermediate,Intermediate,Low,1
+fak1,it1,pharm,Intermediate,Intermediate,Acceptable,1
+fak1,it0,shape,Intermediate,Intermediate,Low,5
+fak1,it0,pharm,Intermediate,Intermediate,Acceptable,5
+fak1,it1,shape,Intermediate,Intermediate,Near Acceptable,5
+fak1,it1,pharm,Intermediate,Intermediate,Acceptable,5
+fak1,it0,shape,Intermediate,Intermediate,Low,10
+fak1,it0,pharm,Intermediate,Intermediate,Acceptable,10
+fak1,it1,shape,Intermediate,Intermediate,Near Acceptable,10
+fak1,it1,pharm,Intermediate,Intermediate,Acceptable,10
+fak1,it0,shape,Intermediate,Intermediate,Low,50
+fak1,it0,pharm,Intermediate,Intermediate,Acceptable,50
+fak1,it1,shape,Intermediate,Intermediate,Acceptable,50
+fak1,it1,pharm,Intermediate,Intermediate,Acceptable,50
+fak1,it0,shape,Intermediate,Intermediate,Near Acceptable,100
+fak1,it0,pharm,Intermediate,Intermediate,Acceptable,100
+fak1,it1,shape,Intermediate,Intermediate,Acceptable,100
+fak1,it1,pharm,Intermediate,Intermediate,Acceptable,100
+fak1,it0,shape,Intermediate,Intermediate,Near Acceptable,200
+fak1,it0,pharm,Intermediate,Intermediate,Acceptable,200
+fak1,it1,shape,Intermediate,Intermediate,Acceptable,200
+fak1,it1,pharm,Intermediate,Intermediate,Acceptable,200
+fak1,it0,shape,Intermediate,Intermediate,Near Acceptable,1000
+fak1,it0,pharm,Intermediate,Intermediate,Acceptable,1000
+fak1,it1,shape,Intermediate,Intermediate,Acceptable,1000
+fak1,it1,pharm,Intermediate,Intermediate,Acceptable,1000
+fgfr1,it0,shape,Intermediate,Difficult,Low,1
+fgfr1,it0,pharm,Intermediate,Difficult,Acceptable,1
+fgfr1,it1,shape,Intermediate,Difficult,Low,1
+fgfr1,it1,pharm,Intermediate,Difficult,Acceptable,1
+fgfr1,it0,shape,Intermediate,Difficult,Low,5
+fgfr1,it0,pharm,Intermediate,Difficult,Acceptable,5
+fgfr1,it1,shape,Intermediate,Difficult,Low,5
+fgfr1,it1,pharm,Intermediate,Difficult,Medium,5
+fgfr1,it0,shape,Intermediate,Difficult,Low,10
+fgfr1,it0,pharm,Intermediate,Difficult,Acceptable,10
+fgfr1,it1,shape,Intermediate,Difficult,Low,10
+fgfr1,it1,pharm,Intermediate,Difficult,Medium,10
+fgfr1,it0,shape,Intermediate,Difficult,Low,50
+fgfr1,it0,pharm,Intermediate,Difficult,Acceptable,50
+fgfr1,it1,shape,Intermediate,Difficult,Low,50
+fgfr1,it1,pharm,Intermediate,Difficult,Medium,50
+fgfr1,it0,shape,Intermediate,Difficult,Low,100
+fgfr1,it0,pharm,Intermediate,Difficult,Acceptable,100
+fgfr1,it1,shape,Intermediate,Difficult,Low,100
+fgfr1,it1,pharm,Intermediate,Difficult,Medium,100
+fgfr1,it0,shape,Intermediate,Difficult,Low,200
+fgfr1,it0,pharm,Intermediate,Difficult,Acceptable,200
+fgfr1,it1,shape,Intermediate,Difficult,Low,200
+fgfr1,it1,pharm,Intermediate,Difficult,Medium,200
+fgfr1,it0,shape,Intermediate,Difficult,Low,1000
+fgfr1,it0,pharm,Intermediate,Difficult,Acceptable,1000
+fgfr1,it1,shape,Intermediate,Difficult,Low,1000
+fgfr1,it1,pharm,Intermediate,Difficult,Medium,1000
+fkb1a,it0,shape,Intermediate,Easy,Low,1
+fkb1a,it0,pharm,Intermediate,Easy,Near Acceptable,1
+fkb1a,it1,shape,Intermediate,Easy,Low,1
+fkb1a,it1,pharm,Intermediate,Easy,Low,1
+fkb1a,it0,shape,Intermediate,Easy,Low,5
+fkb1a,it0,pharm,Intermediate,Easy,Near Acceptable,5
+fkb1a,it1,shape,Intermediate,Easy,Near Acceptable,5
+fkb1a,it1,pharm,Intermediate,Easy,Low,5
+fkb1a,it0,shape,Intermediate,Easy,Acceptable,10
+fkb1a,it0,pharm,Intermediate,Easy,Near Acceptable,10
+fkb1a,it1,shape,Intermediate,Easy,Near Acceptable,10
+fkb1a,it1,pharm,Intermediate,Easy,Low,10
+fkb1a,it0,shape,Intermediate,Easy,Acceptable,50
+fkb1a,it0,pharm,Intermediate,Easy,Near Acceptable,50
+fkb1a,it1,shape,Intermediate,Easy,Acceptable,50
+fkb1a,it1,pharm,Intermediate,Easy,Near Acceptable,50
+fkb1a,it0,shape,Intermediate,Easy,Acceptable,100
+fkb1a,it0,pharm,Intermediate,Easy,Near Acceptable,100
+fkb1a,it1,shape,Intermediate,Easy,Acceptable,100
+fkb1a,it1,pharm,Intermediate,Easy,Near Acceptable,100
+fkb1a,it0,shape,Intermediate,Easy,Acceptable,200
+fkb1a,it0,pharm,Intermediate,Easy,Near Acceptable,200
+fkb1a,it1,shape,Intermediate,Easy,Acceptable,200
+fkb1a,it1,pharm,Intermediate,Easy,Near Acceptable,200
+fkb1a,it0,shape,Intermediate,Easy,Acceptable,1000
+fkb1a,it0,pharm,Intermediate,Easy,Near Acceptable,1000
+fkb1a,it1,shape,Intermediate,Easy,Acceptable,1000
+fkb1a,it1,pharm,Intermediate,Easy,Near Acceptable,1000
+fnta,it0,shape,Difficult,Difficult,Low,1
+fnta,it0,pharm,Intermediate,Difficult,Low,1
+fnta,it1,shape,Difficult,Difficult,Low,1
+fnta,it1,pharm,Intermediate,Difficult,Low,1
+fnta,it0,shape,Difficult,Difficult,Low,5
+fnta,it0,pharm,Intermediate,Difficult,Low,5
+fnta,it1,shape,Difficult,Difficult,Low,5
+fnta,it1,pharm,Intermediate,Difficult,Low,5
+fnta,it0,shape,Difficult,Difficult,Low,10
+fnta,it0,pharm,Intermediate,Difficult,Low,10
+fnta,it1,shape,Difficult,Difficult,Low,10
+fnta,it1,pharm,Intermediate,Difficult,Low,10
+fnta,it0,shape,Difficult,Difficult,Low,50
+fnta,it0,pharm,Intermediate,Difficult,Low,50
+fnta,it1,shape,Difficult,Difficult,Low,50
+fnta,it1,pharm,Intermediate,Difficult,Near Acceptable,50
+fnta,it0,shape,Difficult,Difficult,Low,100
+fnta,it0,pharm,Intermediate,Difficult,Low,100
+fnta,it1,shape,Difficult,Difficult,Low,100
+fnta,it1,pharm,Intermediate,Difficult,Near Acceptable,100
+fnta,it0,shape,Difficult,Difficult,Low,200
+fnta,it0,pharm,Intermediate,Difficult,Low,200
+fnta,it1,shape,Difficult,Difficult,Low,200
+fnta,it1,pharm,Intermediate,Difficult,Near Acceptable,200
+fnta,it0,shape,Difficult,Difficult,Low,1000
+fnta,it0,pharm,Intermediate,Difficult,Low,1000
+fnta,it1,shape,Difficult,Difficult,Low,1000
+fnta,it1,pharm,Intermediate,Difficult,Near Acceptable,1000
+fpps,it0,shape,Easy,Easy,Low,1
+fpps,it0,pharm,Easy,Easy,Near Acceptable,1
+fpps,it1,shape,Easy,Easy,Medium,1
+fpps,it1,pharm,Easy,Easy,Acceptable,1
+fpps,it0,shape,Easy,Easy,Low,5
+fpps,it0,pharm,Easy,Easy,Near Acceptable,5
+fpps,it1,shape,Easy,Easy,Medium,5
+fpps,it1,pharm,Easy,Easy,Acceptable,5
+fpps,it0,shape,Easy,Easy,Low,10
+fpps,it0,pharm,Easy,Easy,Near Acceptable,10
+fpps,it1,shape,Easy,Easy,Medium,10
+fpps,it1,pharm,Easy,Easy,Acceptable,10
+fpps,it0,shape,Easy,Easy,Acceptable,50
+fpps,it0,pharm,Easy,Easy,Near Acceptable,50
+fpps,it1,shape,Easy,Easy,Medium,50
+fpps,it1,pharm,Easy,Easy,Acceptable,50
+fpps,it0,shape,Easy,Easy,Acceptable,100
+fpps,it0,pharm,Easy,Easy,Acceptable,100
+fpps,it1,shape,Easy,Easy,Medium,100
+fpps,it1,pharm,Easy,Easy,Acceptable,100
+fpps,it0,shape,Easy,Easy,Acceptable,200
+fpps,it0,pharm,Easy,Easy,Acceptable,200
+fpps,it1,shape,Easy,Easy,Medium,200
+fpps,it1,pharm,Easy,Easy,Acceptable,200
+fpps,it0,shape,Easy,Easy,Medium,1000
+fpps,it0,pharm,Easy,Easy,Acceptable,1000
+fpps,it1,shape,Easy,Easy,Medium,1000
+fpps,it1,pharm,Easy,Easy,Acceptable,1000
+gcr,it0,shape,Intermediate,Intermediate,Low,1
+gcr,it0,pharm,Intermediate,Intermediate,Near Acceptable,1
+gcr,it1,shape,Intermediate,Intermediate,Medium,1
+gcr,it1,pharm,Intermediate,Intermediate,Low,1
+gcr,it0,shape,Intermediate,Intermediate,Low,5
+gcr,it0,pharm,Intermediate,Intermediate,Acceptable,5
+gcr,it1,shape,Intermediate,Intermediate,Medium,5
+gcr,it1,pharm,Intermediate,Intermediate,Medium,5
+gcr,it0,shape,Intermediate,Intermediate,Low,10
+gcr,it0,pharm,Intermediate,Intermediate,Acceptable,10
+gcr,it1,shape,Intermediate,Intermediate,Medium,10
+gcr,it1,pharm,Intermediate,Intermediate,Medium,10
+gcr,it0,shape,Intermediate,Intermediate,Medium,50
+gcr,it0,pharm,Intermediate,Intermediate,Medium,50
+gcr,it1,shape,Intermediate,Intermediate,Medium,50
+gcr,it1,pharm,Intermediate,Intermediate,Medium,50
+gcr,it0,shape,Intermediate,Intermediate,Medium,100
+gcr,it0,pharm,Intermediate,Intermediate,Medium,100
+gcr,it1,shape,Intermediate,Intermediate,Medium,100
+gcr,it1,pharm,Intermediate,Intermediate,Medium,100
+gcr,it0,shape,Intermediate,Intermediate,Medium,200
+gcr,it0,pharm,Intermediate,Intermediate,Medium,200
+gcr,it1,shape,Intermediate,Intermediate,Medium,200
+gcr,it1,pharm,Intermediate,Intermediate,Medium,200
+gcr,it0,shape,Intermediate,Intermediate,Medium,1000
+gcr,it0,pharm,Intermediate,Intermediate,Medium,1000
+gcr,it1,shape,Intermediate,Intermediate,Medium,1000
+gcr,it1,pharm,Intermediate,Intermediate,Medium,1000
+glcm,it0,shape,Intermediate,Intermediate,Low,1
+glcm,it0,pharm,Easy,Intermediate,Low,1
+glcm,it1,shape,Intermediate,Intermediate,Low,1
+glcm,it1,pharm,Easy,Intermediate,Low,1
+glcm,it0,shape,Intermediate,Intermediate,Low,5
+glcm,it0,pharm,Easy,Intermediate,Low,5
+glcm,it1,shape,Intermediate,Intermediate,Low,5
+glcm,it1,pharm,Easy,Intermediate,Near Acceptable,5
+glcm,it0,shape,Intermediate,Intermediate,Low,10
+glcm,it0,pharm,Easy,Intermediate,Low,10
+glcm,it1,shape,Intermediate,Intermediate,Low,10
+glcm,it1,pharm,Easy,Intermediate,Near Acceptable,10
+glcm,it0,shape,Intermediate,Intermediate,Acceptable,50
+glcm,it0,pharm,Easy,Intermediate,Low,50
+glcm,it1,shape,Intermediate,Intermediate,Acceptable,50
+glcm,it1,pharm,Easy,Intermediate,Near Acceptable,50
+glcm,it0,shape,Intermediate,Intermediate,Acceptable,100
+glcm,it0,pharm,Easy,Intermediate,Low,100
+glcm,it1,shape,Intermediate,Intermediate,Medium,100
+glcm,it1,pharm,Easy,Intermediate,Acceptable,100
+glcm,it0,shape,Intermediate,Intermediate,Acceptable,200
+glcm,it0,pharm,Easy,Intermediate,Acceptable,200
+glcm,it1,shape,Intermediate,Intermediate,Medium,200
+glcm,it1,pharm,Easy,Intermediate,Acceptable,200
+glcm,it0,shape,Intermediate,Intermediate,Acceptable,1000
+glcm,it0,pharm,Easy,Intermediate,Acceptable,1000
+glcm,it1,shape,Intermediate,Intermediate,Medium,1000
+glcm,it1,pharm,Easy,Intermediate,Acceptable,1000
+gria2,it0,shape,Intermediate,Intermediate,Low,1
+gria2,it0,pharm,Intermediate,Difficult,Low,1
+gria2,it1,shape,Intermediate,Intermediate,Acceptable,1
+gria2,it1,pharm,Intermediate,Difficult,Low,1
+gria2,it0,shape,Intermediate,Intermediate,Low,5
+gria2,it0,pharm,Intermediate,Difficult,Low,5
+gria2,it1,shape,Intermediate,Intermediate,Medium,5
+gria2,it1,pharm,Intermediate,Difficult,Low,5
+gria2,it0,shape,Intermediate,Intermediate,Low,10
+gria2,it0,pharm,Intermediate,Difficult,Low,10
+gria2,it1,shape,Intermediate,Intermediate,Medium,10
+gria2,it1,pharm,Intermediate,Difficult,Low,10
+gria2,it0,shape,Intermediate,Intermediate,Acceptable,50
+gria2,it0,pharm,Intermediate,Difficult,Low,50
+gria2,it1,shape,Intermediate,Intermediate,Medium,50
+gria2,it1,pharm,Intermediate,Difficult,Low,50
+gria2,it0,shape,Intermediate,Intermediate,Acceptable,100
+gria2,it0,pharm,Intermediate,Difficult,Low,100
+gria2,it1,shape,Intermediate,Intermediate,Medium,100
+gria2,it1,pharm,Intermediate,Difficult,Low,100
+gria2,it0,shape,Intermediate,Intermediate,Acceptable,200
+gria2,it0,pharm,Intermediate,Difficult,Low,200
+gria2,it1,shape,Intermediate,Intermediate,Medium,200
+gria2,it1,pharm,Intermediate,Difficult,Low,200
+gria2,it0,shape,Intermediate,Intermediate,Medium,1000
+gria2,it0,pharm,Intermediate,Difficult,Low,1000
+gria2,it1,shape,Intermediate,Intermediate,Medium,1000
+gria2,it1,pharm,Intermediate,Difficult,Low,1000
+grik1,it0,shape,Difficult,Difficult,Low,1
+grik1,it0,pharm,Intermediate,Difficult,Low,1
+grik1,it1,shape,Difficult,Difficult,Near Acceptable,1
+grik1,it1,pharm,Intermediate,Difficult,Near Acceptable,1
+grik1,it0,shape,Difficult,Difficult,Acceptable,5
+grik1,it0,pharm,Intermediate,Difficult,Low,5
+grik1,it1,shape,Difficult,Difficult,Acceptable,5
+grik1,it1,pharm,Intermediate,Difficult,Near Acceptable,5
+grik1,it0,shape,Difficult,Difficult,Acceptable,10
+grik1,it0,pharm,Intermediate,Difficult,Low,10
+grik1,it1,shape,Difficult,Difficult,Acceptable,10
+grik1,it1,pharm,Intermediate,Difficult,Near Acceptable,10
+grik1,it0,shape,Difficult,Difficult,Acceptable,50
+grik1,it0,pharm,Intermediate,Difficult,Low,50
+grik1,it1,shape,Difficult,Difficult,Acceptable,50
+grik1,it1,pharm,Intermediate,Difficult,Near Acceptable,50
+grik1,it0,shape,Difficult,Difficult,Acceptable,100
+grik1,it0,pharm,Intermediate,Difficult,Low,100
+grik1,it1,shape,Difficult,Difficult,Acceptable,100
+grik1,it1,pharm,Intermediate,Difficult,Acceptable,100
+grik1,it0,shape,Difficult,Difficult,Acceptable,200
+grik1,it0,pharm,Intermediate,Difficult,Low,200
+grik1,it1,shape,Difficult,Difficult,Acceptable,200
+grik1,it1,pharm,Intermediate,Difficult,Acceptable,200
+grik1,it0,shape,Difficult,Difficult,Acceptable,1000
+grik1,it0,pharm,Intermediate,Difficult,Acceptable,1000
+grik1,it1,shape,Difficult,Difficult,Acceptable,1000
+grik1,it1,pharm,Intermediate,Difficult,Acceptable,1000
+hdac2,it0,shape,Intermediate,Easy,Low,1
+hdac2,it0,pharm,Easy,Easy,Acceptable,1
+hdac2,it1,shape,Intermediate,Easy,Low,1
+hdac2,it1,pharm,Easy,Easy,Acceptable,1
+hdac2,it0,shape,Intermediate,Easy,Low,5
+hdac2,it0,pharm,Easy,Easy,Acceptable,5
+hdac2,it1,shape,Intermediate,Easy,Acceptable,5
+hdac2,it1,pharm,Easy,Easy,Acceptable,5
+hdac2,it0,shape,Intermediate,Easy,Low,10
+hdac2,it0,pharm,Easy,Easy,Acceptable,10
+hdac2,it1,shape,Intermediate,Easy,Acceptable,10
+hdac2,it1,pharm,Easy,Easy,Acceptable,10
+hdac2,it0,shape,Intermediate,Easy,Acceptable,50
+hdac2,it0,pharm,Easy,Easy,Acceptable,50
+hdac2,it1,shape,Intermediate,Easy,Acceptable,50
+hdac2,it1,pharm,Easy,Easy,Acceptable,50
+hdac2,it0,shape,Intermediate,Easy,Acceptable,100
+hdac2,it0,pharm,Easy,Easy,Acceptable,100
+hdac2,it1,shape,Intermediate,Easy,Acceptable,100
+hdac2,it1,pharm,Easy,Easy,Acceptable,100
+hdac2,it0,shape,Intermediate,Easy,Acceptable,200
+hdac2,it0,pharm,Easy,Easy,Acceptable,200
+hdac2,it1,shape,Intermediate,Easy,Acceptable,200
+hdac2,it1,pharm,Easy,Easy,Acceptable,200
+hdac2,it0,shape,Intermediate,Easy,Acceptable,1000
+hdac2,it0,pharm,Easy,Easy,Acceptable,1000
+hdac2,it1,shape,Intermediate,Easy,Acceptable,1000
+hdac2,it1,pharm,Easy,Easy,Acceptable,1000
+hdac8,it0,shape,Difficult,Difficult,Low,1
+hdac8,it0,pharm,Intermediate,Difficult,Low,1
+hdac8,it1,shape,Difficult,Difficult,Low,1
+hdac8,it1,pharm,Intermediate,Difficult,Low,1
+hdac8,it0,shape,Difficult,Difficult,Low,5
+hdac8,it0,pharm,Intermediate,Difficult,Low,5
+hdac8,it1,shape,Difficult,Difficult,Low,5
+hdac8,it1,pharm,Intermediate,Difficult,Low,5
+hdac8,it0,shape,Difficult,Difficult,Low,10
+hdac8,it0,pharm,Intermediate,Difficult,Low,10
+hdac8,it1,shape,Difficult,Difficult,Low,10
+hdac8,it1,pharm,Intermediate,Difficult,Low,10
+hdac8,it0,shape,Difficult,Difficult,Low,50
+hdac8,it0,pharm,Intermediate,Difficult,Low,50
+hdac8,it1,shape,Difficult,Difficult,Low,50
+hdac8,it1,pharm,Intermediate,Difficult,Low,50
+hdac8,it0,shape,Difficult,Difficult,Low,100
+hdac8,it0,pharm,Intermediate,Difficult,Low,100
+hdac8,it1,shape,Difficult,Difficult,Low,100
+hdac8,it1,pharm,Intermediate,Difficult,Low,100
+hdac8,it0,shape,Difficult,Difficult,Low,200
+hdac8,it0,pharm,Intermediate,Difficult,Low,200
+hdac8,it1,shape,Difficult,Difficult,Acceptable,200
+hdac8,it1,pharm,Intermediate,Difficult,Low,200
+hdac8,it0,shape,Difficult,Difficult,Near Acceptable,1000
+hdac8,it0,pharm,Intermediate,Difficult,Low,1000
+hdac8,it1,shape,Difficult,Difficult,Acceptable,1000
+hdac8,it1,pharm,Intermediate,Difficult,Low,1000
+hivint,it0,shape,Easy,Easy,Near Acceptable,1
+hivint,it0,pharm,Easy,Intermediate,Low,1
+hivint,it1,shape,Easy,Easy,Acceptable,1
+hivint,it1,pharm,Easy,Intermediate,Low,1
+hivint,it0,shape,Easy,Easy,Near Acceptable,5
+hivint,it0,pharm,Easy,Intermediate,Low,5
+hivint,it1,shape,Easy,Easy,Acceptable,5
+hivint,it1,pharm,Easy,Intermediate,Low,5
+hivint,it0,shape,Easy,Easy,Near Acceptable,10
+hivint,it0,pharm,Easy,Intermediate,Low,10
+hivint,it1,shape,Easy,Easy,Acceptable,10
+hivint,it1,pharm,Easy,Intermediate,Low,10
+hivint,it0,shape,Easy,Easy,Near Acceptable,50
+hivint,it0,pharm,Easy,Intermediate,Low,50
+hivint,it1,shape,Easy,Easy,Medium,50
+hivint,it1,pharm,Easy,Intermediate,Low,50
+hivint,it0,shape,Easy,Easy,Acceptable,100
+hivint,it0,pharm,Easy,Intermediate,Low,100
+hivint,it1,shape,Easy,Easy,Medium,100
+hivint,it1,pharm,Easy,Intermediate,Low,100
+hivint,it0,shape,Easy,Easy,Medium,200
+hivint,it0,pharm,Easy,Intermediate,Low,200
+hivint,it1,shape,Easy,Easy,Medium,200
+hivint,it1,pharm,Easy,Intermediate,Low,200
+hivint,it0,shape,Easy,Easy,Medium,1000
+hivint,it0,pharm,Easy,Intermediate,Acceptable,1000
+hivint,it1,shape,Easy,Easy,Medium,1000
+hivint,it1,pharm,Easy,Intermediate,Low,1000
+hivpr,it0,shape,Intermediate,Difficult,Low,1
+hivpr,it0,pharm,Intermediate,Difficult,Low,1
+hivpr,it1,shape,Intermediate,Difficult,Low,1
+hivpr,it1,pharm,Intermediate,Difficult,Low,1
+hivpr,it0,shape,Intermediate,Difficult,Low,5
+hivpr,it0,pharm,Intermediate,Difficult,Low,5
+hivpr,it1,shape,Intermediate,Difficult,Low,5
+hivpr,it1,pharm,Intermediate,Difficult,Low,5
+hivpr,it0,shape,Intermediate,Difficult,Low,10
+hivpr,it0,pharm,Intermediate,Difficult,Low,10
+hivpr,it1,shape,Intermediate,Difficult,Low,10
+hivpr,it1,pharm,Intermediate,Difficult,Low,10
+hivpr,it0,shape,Intermediate,Difficult,Low,50
+hivpr,it0,pharm,Intermediate,Difficult,Low,50
+hivpr,it1,shape,Intermediate,Difficult,Low,50
+hivpr,it1,pharm,Intermediate,Difficult,Low,50
+hivpr,it0,shape,Intermediate,Difficult,Low,100
+hivpr,it0,pharm,Intermediate,Difficult,Low,100
+hivpr,it1,shape,Intermediate,Difficult,Low,100
+hivpr,it1,pharm,Intermediate,Difficult,Low,100
+hivpr,it0,shape,Intermediate,Difficult,Low,200
+hivpr,it0,pharm,Intermediate,Difficult,Low,200
+hivpr,it1,shape,Intermediate,Difficult,Low,200
+hivpr,it1,pharm,Intermediate,Difficult,Low,200
+hivpr,it0,shape,Intermediate,Difficult,Low,1000
+hivpr,it0,pharm,Intermediate,Difficult,Low,1000
+hivpr,it1,shape,Intermediate,Difficult,Low,1000
+hivpr,it1,pharm,Intermediate,Difficult,Low,1000
+hivrt,it0,shape,Easy,Easy,Low,1
+hivrt,it0,pharm,Easy,Easy,Near Acceptable,1
+hivrt,it1,shape,Easy,Easy,Acceptable,1
+hivrt,it1,pharm,Easy,Easy,Near Acceptable,1
+hivrt,it0,shape,Easy,Easy,Low,5
+hivrt,it0,pharm,Easy,Easy,Near Acceptable,5
+hivrt,it1,shape,Easy,Easy,Acceptable,5
+hivrt,it1,pharm,Easy,Easy,Near Acceptable,5
+hivrt,it0,shape,Easy,Easy,Low,10
+hivrt,it0,pharm,Easy,Easy,Near Acceptable,10
+hivrt,it1,shape,Easy,Easy,Medium,10
+hivrt,it1,pharm,Easy,Easy,Medium,10
+hivrt,it0,shape,Easy,Easy,Near Acceptable,50
+hivrt,it0,pharm,Easy,Easy,Near Acceptable,50
+hivrt,it1,shape,Easy,Easy,Medium,50
+hivrt,it1,pharm,Easy,Easy,Medium,50
+hivrt,it0,shape,Easy,Easy,Acceptable,100
+hivrt,it0,pharm,Easy,Easy,Near Acceptable,100
+hivrt,it1,shape,Easy,Easy,Medium,100
+hivrt,it1,pharm,Easy,Easy,Medium,100
+hivrt,it0,shape,Easy,Easy,Medium,200
+hivrt,it0,pharm,Easy,Easy,Medium,200
+hivrt,it1,shape,Easy,Easy,Medium,200
+hivrt,it1,pharm,Easy,Easy,Medium,200
+hivrt,it0,shape,Easy,Easy,Medium,1000
+hivrt,it0,pharm,Easy,Easy,Medium,1000
+hivrt,it1,shape,Easy,Easy,Medium,1000
+hivrt,it1,pharm,Easy,Easy,Medium,1000
+hmdh,it0,shape,Easy,Easy,Near Acceptable,1
+hmdh,it0,pharm,Easy,Easy,Acceptable,1
+hmdh,it1,shape,Easy,Easy,Near Acceptable,1
+hmdh,it1,pharm,Easy,Easy,Medium,1
+hmdh,it0,shape,Easy,Easy,Near Acceptable,5
+hmdh,it0,pharm,Easy,Easy,Acceptable,5
+hmdh,it1,shape,Easy,Easy,Acceptable,5
+hmdh,it1,pharm,Easy,Easy,Medium,5
+hmdh,it0,shape,Easy,Easy,Acceptable,10
+hmdh,it0,pharm,Easy,Easy,Acceptable,10
+hmdh,it1,shape,Easy,Easy,Acceptable,10
+hmdh,it1,pharm,Easy,Easy,Medium,10
+hmdh,it0,shape,Easy,Easy,Acceptable,50
+hmdh,it0,pharm,Easy,Easy,Acceptable,50
+hmdh,it1,shape,Easy,Easy,Acceptable,50
+hmdh,it1,pharm,Easy,Easy,Medium,50
+hmdh,it0,shape,Easy,Easy,Acceptable,100
+hmdh,it0,pharm,Easy,Easy,Acceptable,100
+hmdh,it1,shape,Easy,Easy,Acceptable,100
+hmdh,it1,pharm,Easy,Easy,Medium,100
+hmdh,it0,shape,Easy,Easy,Acceptable,200
+hmdh,it0,pharm,Easy,Easy,Acceptable,200
+hmdh,it1,shape,Easy,Easy,Acceptable,200
+hmdh,it1,pharm,Easy,Easy,Medium,200
+hmdh,it0,shape,Easy,Easy,Acceptable,1000
+hmdh,it0,pharm,Easy,Easy,Acceptable,1000
+hmdh,it1,shape,Easy,Easy,Acceptable,1000
+hmdh,it1,pharm,Easy,Easy,Medium,1000
+hs90a,it0,shape,Easy,Easy,Low,1
+hs90a,it0,pharm,Intermediate,Easy,Near Acceptable,1
+hs90a,it1,shape,Easy,Easy,Medium,1
+hs90a,it1,pharm,Intermediate,Easy,Near Acceptable,1
+hs90a,it0,shape,Easy,Easy,Near Acceptable,5
+hs90a,it0,pharm,Intermediate,Easy,Near Acceptable,5
+hs90a,it1,shape,Easy,Easy,Medium,5
+hs90a,it1,pharm,Intermediate,Easy,Near Acceptable,5
+hs90a,it0,shape,Easy,Easy,Near Acceptable,10
+hs90a,it0,pharm,Intermediate,Easy,Near Acceptable,10
+hs90a,it1,shape,Easy,Easy,Medium,10
+hs90a,it1,pharm,Intermediate,Easy,Acceptable,10
+hs90a,it0,shape,Easy,Easy,Acceptable,50
+hs90a,it0,pharm,Intermediate,Easy,Near Acceptable,50
+hs90a,it1,shape,Easy,Easy,Medium,50
+hs90a,it1,pharm,Intermediate,Easy,Acceptable,50
+hs90a,it0,shape,Easy,Easy,Acceptable,100
+hs90a,it0,pharm,Intermediate,Easy,Near Acceptable,100
+hs90a,it1,shape,Easy,Easy,Medium,100
+hs90a,it1,pharm,Intermediate,Easy,Acceptable,100
+hs90a,it0,shape,Easy,Easy,Acceptable,200
+hs90a,it0,pharm,Intermediate,Easy,Near Acceptable,200
+hs90a,it1,shape,Easy,Easy,Medium,200
+hs90a,it1,pharm,Intermediate,Easy,Acceptable,200
+hs90a,it0,shape,Easy,Easy,Acceptable,1000
+hs90a,it0,pharm,Intermediate,Easy,Near Acceptable,1000
+hs90a,it1,shape,Easy,Easy,Medium,1000
+hs90a,it1,pharm,Intermediate,Easy,Acceptable,1000
+hxk4,it0,shape,Intermediate,Easy,Low,1
+hxk4,it0,pharm,Intermediate,Easy,Acceptable,1
+hxk4,it1,shape,Intermediate,Easy,Medium,1
+hxk4,it1,pharm,Intermediate,Easy,Medium,1
+hxk4,it0,shape,Intermediate,Easy,Acceptable,5
+hxk4,it0,pharm,Intermediate,Easy,Acceptable,5
+hxk4,it1,shape,Intermediate,Easy,Medium,5
+hxk4,it1,pharm,Intermediate,Easy,High,5
+hxk4,it0,shape,Intermediate,Easy,Acceptable,10
+hxk4,it0,pharm,Intermediate,Easy,Acceptable,10
+hxk4,it1,shape,Intermediate,Easy,Medium,10
+hxk4,it1,pharm,Intermediate,Easy,High,10
+hxk4,it0,shape,Intermediate,Easy,Acceptable,50
+hxk4,it0,pharm,Intermediate,Easy,Acceptable,50
+hxk4,it1,shape,Intermediate,Easy,Medium,50
+hxk4,it1,pharm,Intermediate,Easy,High,50
+hxk4,it0,shape,Intermediate,Easy,Acceptable,100
+hxk4,it0,pharm,Intermediate,Easy,Acceptable,100
+hxk4,it1,shape,Intermediate,Easy,Medium,100
+hxk4,it1,pharm,Intermediate,Easy,High,100
+hxk4,it0,shape,Intermediate,Easy,Acceptable,200
+hxk4,it0,pharm,Intermediate,Easy,Acceptable,200
+hxk4,it1,shape,Intermediate,Easy,Medium,200
+hxk4,it1,pharm,Intermediate,Easy,High,200
+hxk4,it0,shape,Intermediate,Easy,Acceptable,1000
+hxk4,it0,pharm,Intermediate,Easy,Acceptable,1000
+hxk4,it1,shape,Intermediate,Easy,Medium,1000
+hxk4,it1,pharm,Intermediate,Easy,High,1000
+igf1r,it0,shape,Difficult,Difficult,Low,1
+igf1r,it0,pharm,Difficult,Difficult,Low,1
+igf1r,it1,shape,Difficult,Difficult,Low,1
+igf1r,it1,pharm,Difficult,Difficult,Low,1
+igf1r,it0,shape,Difficult,Difficult,Low,5
+igf1r,it0,pharm,Difficult,Difficult,Low,5
+igf1r,it1,shape,Difficult,Difficult,Low,5
+igf1r,it1,pharm,Difficult,Difficult,Low,5
+igf1r,it0,shape,Difficult,Difficult,Low,10
+igf1r,it0,pharm,Difficult,Difficult,Low,10
+igf1r,it1,shape,Difficult,Difficult,Low,10
+igf1r,it1,pharm,Difficult,Difficult,Low,10
+igf1r,it0,shape,Difficult,Difficult,Low,50
+igf1r,it0,pharm,Difficult,Difficult,Low,50
+igf1r,it1,shape,Difficult,Difficult,Low,50
+igf1r,it1,pharm,Difficult,Difficult,Low,50
+igf1r,it0,shape,Difficult,Difficult,Low,100
+igf1r,it0,pharm,Difficult,Difficult,Near Acceptable,100
+igf1r,it1,shape,Difficult,Difficult,Low,100
+igf1r,it1,pharm,Difficult,Difficult,Low,100
+igf1r,it0,shape,Difficult,Difficult,Low,200
+igf1r,it0,pharm,Difficult,Difficult,Near Acceptable,200
+igf1r,it1,shape,Difficult,Difficult,Low,200
+igf1r,it1,pharm,Difficult,Difficult,Low,200
+igf1r,it0,shape,Difficult,Difficult,Low,1000
+igf1r,it0,pharm,Difficult,Difficult,Acceptable,1000
+igf1r,it1,shape,Difficult,Difficult,Low,1000
+igf1r,it1,pharm,Difficult,Difficult,Low,1000
+inha,it0,shape,Easy,Easy,Low,1
+inha,it0,pharm,Easy,Difficult,Acceptable,1
+inha,it1,shape,Easy,Easy,Near Acceptable,1
+inha,it1,pharm,Easy,Difficult,Acceptable,1
+inha,it0,shape,Easy,Easy,Acceptable,5
+inha,it0,pharm,Easy,Difficult,Acceptable,5
+inha,it1,shape,Easy,Easy,Medium,5
+inha,it1,pharm,Easy,Difficult,Medium,5
+inha,it0,shape,Easy,Easy,Acceptable,10
+inha,it0,pharm,Easy,Difficult,Acceptable,10
+inha,it1,shape,Easy,Easy,Medium,10
+inha,it1,pharm,Easy,Difficult,Medium,10
+inha,it0,shape,Easy,Easy,Acceptable,50
+inha,it0,pharm,Easy,Difficult,Acceptable,50
+inha,it1,shape,Easy,Easy,Medium,50
+inha,it1,pharm,Easy,Difficult,Medium,50
+inha,it0,shape,Easy,Easy,Acceptable,100
+inha,it0,pharm,Easy,Difficult,Medium,100
+inha,it1,shape,Easy,Easy,Medium,100
+inha,it1,pharm,Easy,Difficult,Medium,100
+inha,it0,shape,Easy,Easy,Acceptable,200
+inha,it0,pharm,Easy,Difficult,Medium,200
+inha,it1,shape,Easy,Easy,Medium,200
+inha,it1,pharm,Easy,Difficult,Medium,200
+inha,it0,shape,Easy,Easy,Acceptable,1000
+inha,it0,pharm,Easy,Difficult,Medium,1000
+inha,it1,shape,Easy,Easy,Medium,1000
+inha,it1,pharm,Easy,Difficult,Medium,1000
+ital,it0,shape,Intermediate,Easy,Low,1
+ital,it0,pharm,Intermediate,Easy,Acceptable,1
+ital,it1,shape,Intermediate,Easy,Acceptable,1
+ital,it1,pharm,Intermediate,Easy,Near Acceptable,1
+ital,it0,shape,Intermediate,Easy,Low,5
+ital,it0,pharm,Intermediate,Easy,Acceptable,5
+ital,it1,shape,Intermediate,Easy,Acceptable,5
+ital,it1,pharm,Intermediate,Easy,Acceptable,5
+ital,it0,shape,Intermediate,Easy,Low,10
+ital,it0,pharm,Intermediate,Easy,Acceptable,10
+ital,it1,shape,Intermediate,Easy,Acceptable,10
+ital,it1,pharm,Intermediate,Easy,Acceptable,10
+ital,it0,shape,Intermediate,Easy,Acceptable,50
+ital,it0,pharm,Intermediate,Easy,Acceptable,50
+ital,it1,shape,Intermediate,Easy,Acceptable,50
+ital,it1,pharm,Intermediate,Easy,Medium,50
+ital,it0,shape,Intermediate,Easy,Acceptable,100
+ital,it0,pharm,Intermediate,Easy,Acceptable,100
+ital,it1,shape,Intermediate,Easy,Medium,100
+ital,it1,pharm,Intermediate,Easy,Medium,100
+ital,it0,shape,Intermediate,Easy,Acceptable,200
+ital,it0,pharm,Intermediate,Easy,Acceptable,200
+ital,it1,shape,Intermediate,Easy,Medium,200
+ital,it1,pharm,Intermediate,Easy,Medium,200
+ital,it0,shape,Intermediate,Easy,Acceptable,1000
+ital,it0,pharm,Intermediate,Easy,Acceptable,1000
+ital,it1,shape,Intermediate,Easy,Medium,1000
+ital,it1,pharm,Intermediate,Easy,Medium,1000
+jak2,it0,shape,Intermediate,Intermediate,Low,1
+jak2,it0,pharm,Intermediate,Intermediate,Acceptable,1
+jak2,it1,shape,Intermediate,Intermediate,Acceptable,1
+jak2,it1,pharm,Intermediate,Intermediate,Acceptable,1
+jak2,it0,shape,Intermediate,Intermediate,Low,5
+jak2,it0,pharm,Intermediate,Intermediate,Acceptable,5
+jak2,it1,shape,Intermediate,Intermediate,Medium,5
+jak2,it1,pharm,Intermediate,Intermediate,Acceptable,5
+jak2,it0,shape,Intermediate,Intermediate,Low,10
+jak2,it0,pharm,Intermediate,Intermediate,Acceptable,10
+jak2,it1,shape,Intermediate,Intermediate,Medium,10
+jak2,it1,pharm,Intermediate,Intermediate,Acceptable,10
+jak2,it0,shape,Intermediate,Intermediate,Low,50
+jak2,it0,pharm,Intermediate,Intermediate,Acceptable,50
+jak2,it1,shape,Intermediate,Intermediate,Medium,50
+jak2,it1,pharm,Intermediate,Intermediate,Acceptable,50
+jak2,it0,shape,Intermediate,Intermediate,Acceptable,100
+jak2,it0,pharm,Intermediate,Intermediate,Acceptable,100
+jak2,it1,shape,Intermediate,Intermediate,Medium,100
+jak2,it1,pharm,Intermediate,Intermediate,Medium,100
+jak2,it0,shape,Intermediate,Intermediate,Acceptable,200
+jak2,it0,pharm,Intermediate,Intermediate,Acceptable,200
+jak2,it1,shape,Intermediate,Intermediate,Medium,200
+jak2,it1,pharm,Intermediate,Intermediate,Medium,200
+jak2,it0,shape,Intermediate,Intermediate,Acceptable,1000
+jak2,it0,pharm,Intermediate,Intermediate,Acceptable,1000
+jak2,it1,shape,Intermediate,Intermediate,Medium,1000
+jak2,it1,pharm,Intermediate,Intermediate,Medium,1000
+kif11,it0,shape,Easy,Intermediate,Low,1
+kif11,it0,pharm,Easy,Easy,Near Acceptable,1
+kif11,it1,shape,Easy,Intermediate,Acceptable,1
+kif11,it1,pharm,Easy,Easy,Acceptable,1
+kif11,it0,shape,Easy,Intermediate,Low,5
+kif11,it0,pharm,Easy,Easy,Near Acceptable,5
+kif11,it1,shape,Easy,Intermediate,Acceptable,5
+kif11,it1,pharm,Easy,Easy,Acceptable,5
+kif11,it0,shape,Easy,Intermediate,Low,10
+kif11,it0,pharm,Easy,Easy,Near Acceptable,10
+kif11,it1,shape,Easy,Intermediate,Acceptable,10
+kif11,it1,pharm,Easy,Easy,Acceptable,10
+kif11,it0,shape,Easy,Intermediate,Low,50
+kif11,it0,pharm,Easy,Easy,Acceptable,50
+kif11,it1,shape,Easy,Intermediate,Acceptable,50
+kif11,it1,pharm,Easy,Easy,Acceptable,50
+kif11,it0,shape,Easy,Intermediate,Acceptable,100
+kif11,it0,pharm,Easy,Easy,Acceptable,100
+kif11,it1,shape,Easy,Intermediate,Acceptable,100
+kif11,it1,pharm,Easy,Easy,Acceptable,100
+kif11,it0,shape,Easy,Intermediate,Acceptable,200
+kif11,it0,pharm,Easy,Easy,Acceptable,200
+kif11,it1,shape,Easy,Intermediate,Acceptable,200
+kif11,it1,pharm,Easy,Easy,Acceptable,200
+kif11,it0,shape,Easy,Intermediate,Acceptable,1000
+kif11,it0,pharm,Easy,Easy,Acceptable,1000
+kif11,it1,shape,Easy,Intermediate,Acceptable,1000
+kif11,it1,pharm,Easy,Easy,Acceptable,1000
+kit,it0,shape,Difficult,Difficult,Low,1
+kit,it0,pharm,Intermediate,Difficult,Low,1
+kit,it1,shape,Difficult,Difficult,Low,1
+kit,it1,pharm,Intermediate,Difficult,Low,1
+kit,it0,shape,Difficult,Difficult,Low,5
+kit,it0,pharm,Intermediate,Difficult,Low,5
+kit,it1,shape,Difficult,Difficult,Low,5
+kit,it1,pharm,Intermediate,Difficult,Low,5
+kit,it0,shape,Difficult,Difficult,Low,10
+kit,it0,pharm,Intermediate,Difficult,Low,10
+kit,it1,shape,Difficult,Difficult,Low,10
+kit,it1,pharm,Intermediate,Difficult,Low,10
+kit,it0,shape,Difficult,Difficult,Low,50
+kit,it0,pharm,Intermediate,Difficult,Low,50
+kit,it1,shape,Difficult,Difficult,Low,50
+kit,it1,pharm,Intermediate,Difficult,Low,50
+kit,it0,shape,Difficult,Difficult,Low,100
+kit,it0,pharm,Intermediate,Difficult,Low,100
+kit,it1,shape,Difficult,Difficult,Low,100
+kit,it1,pharm,Intermediate,Difficult,Low,100
+kit,it0,shape,Difficult,Difficult,Low,200
+kit,it0,pharm,Intermediate,Difficult,Low,200
+kit,it1,shape,Difficult,Difficult,Low,200
+kit,it1,pharm,Intermediate,Difficult,Low,200
+kit,it0,shape,Difficult,Difficult,Low,1000
+kit,it0,pharm,Intermediate,Difficult,Low,1000
+kit,it1,shape,Difficult,Difficult,Low,1000
+kit,it1,pharm,Intermediate,Difficult,Low,1000
+kith,it0,shape,Easy,Intermediate,Near Acceptable,1
+kith,it0,pharm,Easy,Intermediate,Acceptable,1
+kith,it1,shape,Easy,Intermediate,Medium,1
+kith,it1,pharm,Easy,Intermediate,Acceptable,1
+kith,it0,shape,Easy,Intermediate,Near Acceptable,5
+kith,it0,pharm,Easy,Intermediate,Acceptable,5
+kith,it1,shape,Easy,Intermediate,High,5
+kith,it1,pharm,Easy,Intermediate,Medium,5
+kith,it0,shape,Easy,Intermediate,Acceptable,10
+kith,it0,pharm,Easy,Intermediate,Acceptable,10
+kith,it1,shape,Easy,Intermediate,High,10
+kith,it1,pharm,Easy,Intermediate,Medium,10
+kith,it0,shape,Easy,Intermediate,Medium,50
+kith,it0,pharm,Easy,Intermediate,Acceptable,50
+kith,it1,shape,Easy,Intermediate,High,50
+kith,it1,pharm,Easy,Intermediate,Medium,50
+kith,it0,shape,Easy,Intermediate,Medium,100
+kith,it0,pharm,Easy,Intermediate,Acceptable,100
+kith,it1,shape,Easy,Intermediate,High,100
+kith,it1,pharm,Easy,Intermediate,Medium,100
+kith,it0,shape,Easy,Intermediate,Medium,200
+kith,it0,pharm,Easy,Intermediate,Acceptable,200
+kith,it1,shape,Easy,Intermediate,High,200
+kith,it1,pharm,Easy,Intermediate,Medium,200
+kith,it0,shape,Easy,Intermediate,Medium,1000
+kith,it0,pharm,Easy,Intermediate,Acceptable,1000
+kith,it1,shape,Easy,Intermediate,High,1000
+kith,it1,pharm,Easy,Intermediate,Medium,1000
+lck,it0,shape,Intermediate,Easy,Low,1
+lck,it0,pharm,Easy,Easy,Acceptable,1
+lck,it1,shape,Intermediate,Easy,High,1
+lck,it1,pharm,Easy,Easy,Acceptable,1
+lck,it0,shape,Intermediate,Easy,Low,5
+lck,it0,pharm,Easy,Easy,Acceptable,5
+lck,it1,shape,Intermediate,Easy,High,5
+lck,it1,pharm,Easy,Easy,Medium,5
+lck,it0,shape,Intermediate,Easy,Acceptable,10
+lck,it0,pharm,Easy,Easy,Acceptable,10
+lck,it1,shape,Intermediate,Easy,High,10
+lck,it1,pharm,Easy,Easy,Medium,10
+lck,it0,shape,Intermediate,Easy,Acceptable,50
+lck,it0,pharm,Easy,Easy,Acceptable,50
+lck,it1,shape,Intermediate,Easy,High,50
+lck,it1,pharm,Easy,Easy,Medium,50
+lck,it0,shape,Intermediate,Easy,Acceptable,100
+lck,it0,pharm,Easy,Easy,Acceptable,100
+lck,it1,shape,Intermediate,Easy,High,100
+lck,it1,pharm,Easy,Easy,Medium,100
+lck,it0,shape,Intermediate,Easy,Acceptable,200
+lck,it0,pharm,Easy,Easy,Acceptable,200
+lck,it1,shape,Intermediate,Easy,High,200
+lck,it1,pharm,Easy,Easy,Medium,200
+lck,it0,shape,Intermediate,Easy,Medium,1000
+lck,it0,pharm,Easy,Easy,Acceptable,1000
+lck,it1,shape,Intermediate,Easy,High,1000
+lck,it1,pharm,Easy,Easy,Medium,1000
+lkha4,it0,shape,Easy,Easy,Low,1
+lkha4,it0,pharm,Intermediate,Intermediate,Near Acceptable,1
+lkha4,it1,shape,Easy,Easy,Near Acceptable,1
+lkha4,it1,pharm,Intermediate,Intermediate,Near Acceptable,1
+lkha4,it0,shape,Easy,Easy,Near Acceptable,5
+lkha4,it0,pharm,Intermediate,Intermediate,Near Acceptable,5
+lkha4,it1,shape,Easy,Easy,Acceptable,5
+lkha4,it1,pharm,Intermediate,Intermediate,Acceptable,5
+lkha4,it0,shape,Easy,Easy,Near Acceptable,10
+lkha4,it0,pharm,Intermediate,Intermediate,Near Acceptable,10
+lkha4,it1,shape,Easy,Easy,Medium,10
+lkha4,it1,pharm,Intermediate,Intermediate,Acceptable,10
+lkha4,it0,shape,Easy,Easy,Acceptable,50
+lkha4,it0,pharm,Intermediate,Intermediate,Near Acceptable,50
+lkha4,it1,shape,Easy,Easy,Medium,50
+lkha4,it1,pharm,Intermediate,Intermediate,Medium,50
+lkha4,it0,shape,Easy,Easy,Acceptable,100
+lkha4,it0,pharm,Intermediate,Intermediate,Near Acceptable,100
+lkha4,it1,shape,Easy,Easy,Medium,100
+lkha4,it1,pharm,Intermediate,Intermediate,Medium,100
+lkha4,it0,shape,Easy,Easy,Acceptable,200
+lkha4,it0,pharm,Intermediate,Intermediate,Acceptable,200
+lkha4,it1,shape,Easy,Easy,Medium,200
+lkha4,it1,pharm,Intermediate,Intermediate,Medium,200
+lkha4,it0,shape,Easy,Easy,Medium,1000
+lkha4,it0,pharm,Intermediate,Intermediate,Acceptable,1000
+lkha4,it1,shape,Easy,Easy,Medium,1000
+lkha4,it1,pharm,Intermediate,Intermediate,Medium,1000
+mapk2,it0,shape,Intermediate,Intermediate,Low,1
+mapk2,it0,pharm,Intermediate,Intermediate,Acceptable,1
+mapk2,it1,shape,Intermediate,Intermediate,Low,1
+mapk2,it1,pharm,Intermediate,Intermediate,Acceptable,1
+mapk2,it0,shape,Intermediate,Intermediate,Low,5
+mapk2,it0,pharm,Intermediate,Intermediate,Acceptable,5
+mapk2,it1,shape,Intermediate,Intermediate,Low,5
+mapk2,it1,pharm,Intermediate,Intermediate,Medium,5
+mapk2,it0,shape,Intermediate,Intermediate,Low,10
+mapk2,it0,pharm,Intermediate,Intermediate,Acceptable,10
+mapk2,it1,shape,Intermediate,Intermediate,Low,10
+mapk2,it1,pharm,Intermediate,Intermediate,Medium,10
+mapk2,it0,shape,Intermediate,Intermediate,Low,50
+mapk2,it0,pharm,Intermediate,Intermediate,Acceptable,50
+mapk2,it1,shape,Intermediate,Intermediate,Acceptable,50
+mapk2,it1,pharm,Intermediate,Intermediate,Medium,50
+mapk2,it0,shape,Intermediate,Intermediate,Low,100
+mapk2,it0,pharm,Intermediate,Intermediate,Acceptable,100
+mapk2,it1,shape,Intermediate,Intermediate,Acceptable,100
+mapk2,it1,pharm,Intermediate,Intermediate,Medium,100
+mapk2,it0,shape,Intermediate,Intermediate,Low,200
+mapk2,it0,pharm,Intermediate,Intermediate,Acceptable,200
+mapk2,it1,shape,Intermediate,Intermediate,Acceptable,200
+mapk2,it1,pharm,Intermediate,Intermediate,Medium,200
+mapk2,it0,shape,Intermediate,Intermediate,Low,1000
+mapk2,it0,pharm,Intermediate,Intermediate,Acceptable,1000
+mapk2,it1,shape,Intermediate,Intermediate,Acceptable,1000
+mapk2,it1,pharm,Intermediate,Intermediate,Medium,1000
+mcr,it0,shape,Intermediate,Easy,Low,1
+mcr,it0,pharm,Easy,Easy,Acceptable,1
+mcr,it1,shape,Intermediate,Easy,High,1
+mcr,it1,pharm,Easy,Easy,Medium,1
+mcr,it0,shape,Intermediate,Easy,Low,5
+mcr,it0,pharm,Easy,Easy,Acceptable,5
+mcr,it1,shape,Intermediate,Easy,High,5
+mcr,it1,pharm,Easy,Easy,Medium,5
+mcr,it0,shape,Intermediate,Easy,Near Acceptable,10
+mcr,it0,pharm,Easy,Easy,Medium,10
+mcr,it1,shape,Intermediate,Easy,High,10
+mcr,it1,pharm,Easy,Easy,Medium,10
+mcr,it0,shape,Intermediate,Easy,Medium,50
+mcr,it0,pharm,Easy,Easy,Medium,50
+mcr,it1,shape,Intermediate,Easy,High,50
+mcr,it1,pharm,Easy,Easy,High,50
+mcr,it0,shape,Intermediate,Easy,Medium,100
+mcr,it0,pharm,Easy,Easy,Medium,100
+mcr,it1,shape,Intermediate,Easy,High,100
+mcr,it1,pharm,Easy,Easy,High,100
+mcr,it0,shape,Intermediate,Easy,Medium,200
+mcr,it0,pharm,Easy,Easy,Medium,200
+mcr,it1,shape,Intermediate,Easy,High,200
+mcr,it1,pharm,Easy,Easy,High,200
+mcr,it0,shape,Intermediate,Easy,Medium,1000
+mcr,it0,pharm,Easy,Easy,Medium,1000
+mcr,it1,shape,Intermediate,Easy,High,1000
+mcr,it1,pharm,Easy,Easy,High,1000
+met,it0,shape,Intermediate,Intermediate,Low,1
+met,it0,pharm,Easy,Easy,Acceptable,1
+met,it1,shape,Intermediate,Intermediate,Acceptable,1
+met,it1,pharm,Easy,Easy,Medium,1
+met,it0,shape,Intermediate,Intermediate,Low,5
+met,it0,pharm,Easy,Easy,Acceptable,5
+met,it1,shape,Intermediate,Intermediate,Acceptable,5
+met,it1,pharm,Easy,Easy,Medium,5
+met,it0,shape,Intermediate,Intermediate,Low,10
+met,it0,pharm,Easy,Easy,Acceptable,10
+met,it1,shape,Intermediate,Intermediate,Acceptable,10
+met,it1,pharm,Easy,Easy,Medium,10
+met,it0,shape,Intermediate,Intermediate,Low,50
+met,it0,pharm,Easy,Easy,Acceptable,50
+met,it1,shape,Intermediate,Intermediate,Acceptable,50
+met,it1,pharm,Easy,Easy,Medium,50
+met,it0,shape,Intermediate,Intermediate,Low,100
+met,it0,pharm,Easy,Easy,Acceptable,100
+met,it1,shape,Intermediate,Intermediate,Acceptable,100
+met,it1,pharm,Easy,Easy,Medium,100
+met,it0,shape,Intermediate,Intermediate,Low,200
+met,it0,pharm,Easy,Easy,Acceptable,200
+met,it1,shape,Intermediate,Intermediate,Acceptable,200
+met,it1,pharm,Easy,Easy,Medium,200
+met,it0,shape,Intermediate,Intermediate,Low,1000
+met,it0,pharm,Easy,Easy,Acceptable,1000
+met,it1,shape,Intermediate,Intermediate,Acceptable,1000
+met,it1,pharm,Easy,Easy,Medium,1000
+mk01,it0,shape,Easy,Intermediate,Low,1
+mk01,it0,pharm,Easy,Intermediate,Acceptable,1
+mk01,it1,shape,Easy,Intermediate,Acceptable,1
+mk01,it1,pharm,Easy,Intermediate,Acceptable,1
+mk01,it0,shape,Easy,Intermediate,Low,5
+mk01,it0,pharm,Easy,Intermediate,Acceptable,5
+mk01,it1,shape,Easy,Intermediate,Acceptable,5
+mk01,it1,pharm,Easy,Intermediate,Acceptable,5
+mk01,it0,shape,Easy,Intermediate,Low,10
+mk01,it0,pharm,Easy,Intermediate,Acceptable,10
+mk01,it1,shape,Easy,Intermediate,Acceptable,10
+mk01,it1,pharm,Easy,Intermediate,Acceptable,10
+mk01,it0,shape,Easy,Intermediate,Near Acceptable,50
+mk01,it0,pharm,Easy,Intermediate,Acceptable,50
+mk01,it1,shape,Easy,Intermediate,Medium,50
+mk01,it1,pharm,Easy,Intermediate,Acceptable,50
+mk01,it0,shape,Easy,Intermediate,Acceptable,100
+mk01,it0,pharm,Easy,Intermediate,Acceptable,100
+mk01,it1,shape,Easy,Intermediate,Medium,100
+mk01,it1,pharm,Easy,Intermediate,Acceptable,100
+mk01,it0,shape,Easy,Intermediate,Acceptable,200
+mk01,it0,pharm,Easy,Intermediate,Acceptable,200
+mk01,it1,shape,Easy,Intermediate,Medium,200
+mk01,it1,pharm,Easy,Intermediate,Acceptable,200
+mk01,it0,shape,Easy,Intermediate,Acceptable,1000
+mk01,it0,pharm,Easy,Intermediate,Acceptable,1000
+mk01,it1,shape,Easy,Intermediate,Medium,1000
+mk01,it1,pharm,Easy,Intermediate,Acceptable,1000
+mk10,it0,shape,Intermediate,Intermediate,Low,1
+mk10,it0,pharm,Intermediate,Easy,Acceptable,1
+mk10,it1,shape,Intermediate,Intermediate,Medium,1
+mk10,it1,pharm,Intermediate,Easy,Medium,1
+mk10,it0,shape,Intermediate,Intermediate,Low,5
+mk10,it0,pharm,Intermediate,Easy,Acceptable,5
+mk10,it1,shape,Intermediate,Intermediate,Medium,5
+mk10,it1,pharm,Intermediate,Easy,Medium,5
+mk10,it0,shape,Intermediate,Intermediate,Low,10
+mk10,it0,pharm,Intermediate,Easy,Acceptable,10
+mk10,it1,shape,Intermediate,Intermediate,High,10
+mk10,it1,pharm,Intermediate,Easy,Medium,10
+mk10,it0,shape,Intermediate,Intermediate,Acceptable,50
+mk10,it0,pharm,Intermediate,Easy,Medium,50
+mk10,it1,shape,Intermediate,Intermediate,High,50
+mk10,it1,pharm,Intermediate,Easy,Medium,50
+mk10,it0,shape,Intermediate,Intermediate,Medium,100
+mk10,it0,pharm,Intermediate,Easy,Medium,100
+mk10,it1,shape,Intermediate,Intermediate,High,100
+mk10,it1,pharm,Intermediate,Easy,Medium,100
+mk10,it0,shape,Intermediate,Intermediate,Medium,200
+mk10,it0,pharm,Intermediate,Easy,Medium,200
+mk10,it1,shape,Intermediate,Intermediate,High,200
+mk10,it1,pharm,Intermediate,Easy,Medium,200
+mk10,it0,shape,Intermediate,Intermediate,Medium,1000
+mk10,it0,pharm,Intermediate,Easy,Medium,1000
+mk10,it1,shape,Intermediate,Intermediate,High,1000
+mk10,it1,pharm,Intermediate,Easy,Medium,1000
+mk14,it0,shape,Difficult,Difficult,Low,1
+mk14,it0,pharm,Intermediate,Intermediate,Near Acceptable,1
+mk14,it1,shape,Difficult,Difficult,Low,1
+mk14,it1,pharm,Intermediate,Intermediate,Near Acceptable,1
+mk14,it0,shape,Difficult,Difficult,Low,5
+mk14,it0,pharm,Intermediate,Intermediate,Near Acceptable,5
+mk14,it1,shape,Difficult,Difficult,Low,5
+mk14,it1,pharm,Intermediate,Intermediate,Acceptable,5
+mk14,it0,shape,Difficult,Difficult,Low,10
+mk14,it0,pharm,Intermediate,Intermediate,Near Acceptable,10
+mk14,it1,shape,Difficult,Difficult,Low,10
+mk14,it1,pharm,Intermediate,Intermediate,Acceptable,10
+mk14,it0,shape,Difficult,Difficult,Low,50
+mk14,it0,pharm,Intermediate,Intermediate,Near Acceptable,50
+mk14,it1,shape,Difficult,Difficult,Low,50
+mk14,it1,pharm,Intermediate,Intermediate,Acceptable,50
+mk14,it0,shape,Difficult,Difficult,Low,100
+mk14,it0,pharm,Intermediate,Intermediate,Near Acceptable,100
+mk14,it1,shape,Difficult,Difficult,Low,100
+mk14,it1,pharm,Intermediate,Intermediate,Acceptable,100
+mk14,it0,shape,Difficult,Difficult,Low,200
+mk14,it0,pharm,Intermediate,Intermediate,Near Acceptable,200
+mk14,it1,shape,Difficult,Difficult,Low,200
+mk14,it1,pharm,Intermediate,Intermediate,Acceptable,200
+mk14,it0,shape,Difficult,Difficult,Low,1000
+mk14,it0,pharm,Intermediate,Intermediate,Acceptable,1000
+mk14,it1,shape,Difficult,Difficult,Low,1000
+mk14,it1,pharm,Intermediate,Intermediate,Acceptable,1000
+mmp13,it0,shape,Intermediate,Intermediate,Low,1
+mmp13,it0,pharm,Intermediate,Intermediate,Low,1
+mmp13,it1,shape,Intermediate,Intermediate,Acceptable,1
+mmp13,it1,pharm,Intermediate,Intermediate,Acceptable,1
+mmp13,it0,shape,Intermediate,Intermediate,Acceptable,5
+mmp13,it0,pharm,Intermediate,Intermediate,Low,5
+mmp13,it1,shape,Intermediate,Intermediate,Acceptable,5
+mmp13,it1,pharm,Intermediate,Intermediate,Acceptable,5
+mmp13,it0,shape,Intermediate,Intermediate,Acceptable,10
+mmp13,it0,pharm,Intermediate,Intermediate,Low,10
+mmp13,it1,shape,Intermediate,Intermediate,Acceptable,10
+mmp13,it1,pharm,Intermediate,Intermediate,Acceptable,10
+mmp13,it0,shape,Intermediate,Intermediate,Acceptable,50
+mmp13,it0,pharm,Intermediate,Intermediate,Near Acceptable,50
+mmp13,it1,shape,Intermediate,Intermediate,Acceptable,50
+mmp13,it1,pharm,Intermediate,Intermediate,Acceptable,50
+mmp13,it0,shape,Intermediate,Intermediate,Acceptable,100
+mmp13,it0,pharm,Intermediate,Intermediate,Near Acceptable,100
+mmp13,it1,shape,Intermediate,Intermediate,Acceptable,100
+mmp13,it1,pharm,Intermediate,Intermediate,Acceptable,100
+mmp13,it0,shape,Intermediate,Intermediate,Acceptable,200
+mmp13,it0,pharm,Intermediate,Intermediate,Near Acceptable,200
+mmp13,it1,shape,Intermediate,Intermediate,Acceptable,200
+mmp13,it1,pharm,Intermediate,Intermediate,Acceptable,200
+mmp13,it0,shape,Intermediate,Intermediate,Acceptable,1000
+mmp13,it0,pharm,Intermediate,Intermediate,Near Acceptable,1000
+mmp13,it1,shape,Intermediate,Intermediate,Acceptable,1000
+mmp13,it1,pharm,Intermediate,Intermediate,Acceptable,1000
+mp2k1,it0,shape,Difficult,Difficult,Low,1
+mp2k1,it0,pharm,Difficult,Difficult,Low,1
+mp2k1,it1,shape,Difficult,Difficult,Low,1
+mp2k1,it1,pharm,Difficult,Difficult,Low,1
+mp2k1,it0,shape,Difficult,Difficult,Low,5
+mp2k1,it0,pharm,Difficult,Difficult,Low,5
+mp2k1,it1,shape,Difficult,Difficult,Low,5
+mp2k1,it1,pharm,Difficult,Difficult,Low,5
+mp2k1,it0,shape,Difficult,Difficult,Low,10
+mp2k1,it0,pharm,Difficult,Difficult,Low,10
+mp2k1,it1,shape,Difficult,Difficult,Low,10
+mp2k1,it1,pharm,Difficult,Difficult,Low,10
+mp2k1,it0,shape,Difficult,Difficult,Low,50
+mp2k1,it0,pharm,Difficult,Difficult,Low,50
+mp2k1,it1,shape,Difficult,Difficult,Low,50
+mp2k1,it1,pharm,Difficult,Difficult,Low,50
+mp2k1,it0,shape,Difficult,Difficult,Low,100
+mp2k1,it0,pharm,Difficult,Difficult,Low,100
+mp2k1,it1,shape,Difficult,Difficult,Low,100
+mp2k1,it1,pharm,Difficult,Difficult,Low,100
+mp2k1,it0,shape,Difficult,Difficult,Low,200
+mp2k1,it0,pharm,Difficult,Difficult,Low,200
+mp2k1,it1,shape,Difficult,Difficult,Low,200
+mp2k1,it1,pharm,Difficult,Difficult,Low,200
+mp2k1,it0,shape,Difficult,Difficult,Low,1000
+mp2k1,it0,pharm,Difficult,Difficult,Low,1000
+mp2k1,it1,shape,Difficult,Difficult,Low,1000
+mp2k1,it1,pharm,Difficult,Difficult,Low,1000
+nos1,it0,shape,Easy,Easy,Low,1
+nos1,it0,pharm,Intermediate,Easy,Acceptable,1
+nos1,it1,shape,Easy,Easy,Low,1
+nos1,it1,pharm,Intermediate,Easy,Near Acceptable,1
+nos1,it0,shape,Easy,Easy,Low,5
+nos1,it0,pharm,Intermediate,Easy,Acceptable,5
+nos1,it1,shape,Easy,Easy,Near Acceptable,5
+nos1,it1,pharm,Intermediate,Easy,Acceptable,5
+nos1,it0,shape,Easy,Easy,Low,10
+nos1,it0,pharm,Intermediate,Easy,Acceptable,10
+nos1,it1,shape,Easy,Easy,Near Acceptable,10
+nos1,it1,pharm,Intermediate,Easy,Acceptable,10
+nos1,it0,shape,Easy,Easy,Near Acceptable,50
+nos1,it0,pharm,Intermediate,Easy,Acceptable,50
+nos1,it1,shape,Easy,Easy,Acceptable,50
+nos1,it1,pharm,Intermediate,Easy,Acceptable,50
+nos1,it0,shape,Easy,Easy,Near Acceptable,100
+nos1,it0,pharm,Intermediate,Easy,Acceptable,100
+nos1,it1,shape,Easy,Easy,Acceptable,100
+nos1,it1,pharm,Intermediate,Easy,Acceptable,100
+nos1,it0,shape,Easy,Easy,Acceptable,200
+nos1,it0,pharm,Intermediate,Easy,Acceptable,200
+nos1,it1,shape,Easy,Easy,Acceptable,200
+nos1,it1,pharm,Intermediate,Easy,Acceptable,200
+nos1,it0,shape,Easy,Easy,Acceptable,1000
+nos1,it0,pharm,Intermediate,Easy,Acceptable,1000
+nos1,it1,shape,Easy,Easy,Acceptable,1000
+nos1,it1,pharm,Intermediate,Easy,Acceptable,1000
+nram,it0,shape,Easy,Easy,Low,1
+nram,it0,pharm,Easy,Easy,Acceptable,1
+nram,it1,shape,Easy,Easy,Acceptable,1
+nram,it1,pharm,Easy,Easy,Acceptable,1
+nram,it0,shape,Easy,Easy,Low,5
+nram,it0,pharm,Easy,Easy,Acceptable,5
+nram,it1,shape,Easy,Easy,Acceptable,5
+nram,it1,pharm,Easy,Easy,Acceptable,5
+nram,it0,shape,Easy,Easy,Near Acceptable,10
+nram,it0,pharm,Easy,Easy,Acceptable,10
+nram,it1,shape,Easy,Easy,Acceptable,10
+nram,it1,pharm,Easy,Easy,Acceptable,10
+nram,it0,shape,Easy,Easy,Acceptable,50
+nram,it0,pharm,Easy,Easy,Acceptable,50
+nram,it1,shape,Easy,Easy,Acceptable,50
+nram,it1,pharm,Easy,Easy,Acceptable,50
+nram,it0,shape,Easy,Easy,Acceptable,100
+nram,it0,pharm,Easy,Easy,Acceptable,100
+nram,it1,shape,Easy,Easy,Acceptable,100
+nram,it1,pharm,Easy,Easy,Acceptable,100
+nram,it0,shape,Easy,Easy,Acceptable,200
+nram,it0,pharm,Easy,Easy,Acceptable,200
+nram,it1,shape,Easy,Easy,Acceptable,200
+nram,it1,pharm,Easy,Easy,Acceptable,200
+nram,it0,shape,Easy,Easy,Medium,1000
+nram,it0,pharm,Easy,Easy,Medium,1000
+nram,it1,shape,Easy,Easy,Acceptable,1000
+nram,it1,pharm,Easy,Easy,Acceptable,1000
+pa2ga,it0,shape,Intermediate,Easy,Low,1
+pa2ga,it0,pharm,Easy,Intermediate,Low,1
+pa2ga,it1,shape,Intermediate,Easy,Low,1
+pa2ga,it1,pharm,Easy,Intermediate,Low,1
+pa2ga,it0,shape,Intermediate,Easy,Low,5
+pa2ga,it0,pharm,Easy,Intermediate,Low,5
+pa2ga,it1,shape,Intermediate,Easy,Low,5
+pa2ga,it1,pharm,Easy,Intermediate,Acceptable,5
+pa2ga,it0,shape,Intermediate,Easy,Low,10
+pa2ga,it0,pharm,Easy,Intermediate,Low,10
+pa2ga,it1,shape,Intermediate,Easy,Low,10
+pa2ga,it1,pharm,Easy,Intermediate,Acceptable,10
+pa2ga,it0,shape,Intermediate,Easy,Low,50
+pa2ga,it0,pharm,Easy,Intermediate,Low,50
+pa2ga,it1,shape,Intermediate,Easy,Low,50
+pa2ga,it1,pharm,Easy,Intermediate,Acceptable,50
+pa2ga,it0,shape,Intermediate,Easy,Low,100
+pa2ga,it0,pharm,Easy,Intermediate,Low,100
+pa2ga,it1,shape,Intermediate,Easy,Low,100
+pa2ga,it1,pharm,Easy,Intermediate,Acceptable,100
+pa2ga,it0,shape,Intermediate,Easy,Low,200
+pa2ga,it0,pharm,Easy,Intermediate,Low,200
+pa2ga,it1,shape,Intermediate,Easy,Low,200
+pa2ga,it1,pharm,Easy,Intermediate,Acceptable,200
+pa2ga,it0,shape,Intermediate,Easy,Low,1000
+pa2ga,it0,pharm,Easy,Intermediate,Low,1000
+pa2ga,it1,shape,Intermediate,Easy,Low,1000
+pa2ga,it1,pharm,Easy,Intermediate,Acceptable,1000
+parp1,it0,shape,Intermediate,Intermediate,Acceptable,1
+parp1,it0,pharm,Easy,Intermediate,Acceptable,1
+parp1,it1,shape,Intermediate,Intermediate,Near Acceptable,1
+parp1,it1,pharm,Easy,Intermediate,Acceptable,1
+parp1,it0,shape,Intermediate,Intermediate,Medium,5
+parp1,it0,pharm,Easy,Intermediate,Acceptable,5
+parp1,it1,shape,Intermediate,Intermediate,Acceptable,5
+parp1,it1,pharm,Easy,Intermediate,High,5
+parp1,it0,shape,Intermediate,Intermediate,Medium,10
+parp1,it0,pharm,Easy,Intermediate,Acceptable,10
+parp1,it1,shape,Intermediate,Intermediate,Acceptable,10
+parp1,it1,pharm,Easy,Intermediate,High,10
+parp1,it0,shape,Intermediate,Intermediate,Medium,50
+parp1,it0,pharm,Easy,Intermediate,Acceptable,50
+parp1,it1,shape,Intermediate,Intermediate,Medium,50
+parp1,it1,pharm,Easy,Intermediate,High,50
+parp1,it0,shape,Intermediate,Intermediate,Medium,100
+parp1,it0,pharm,Easy,Intermediate,Acceptable,100
+parp1,it1,shape,Intermediate,Intermediate,Medium,100
+parp1,it1,pharm,Easy,Intermediate,High,100
+parp1,it0,shape,Intermediate,Intermediate,Medium,200
+parp1,it0,pharm,Easy,Intermediate,Acceptable,200
+parp1,it1,shape,Intermediate,Intermediate,Medium,200
+parp1,it1,pharm,Easy,Intermediate,High,200
+parp1,it0,shape,Intermediate,Intermediate,Medium,1000
+parp1,it0,pharm,Easy,Intermediate,Acceptable,1000
+parp1,it1,shape,Intermediate,Intermediate,Medium,1000
+parp1,it1,pharm,Easy,Intermediate,High,1000
+pde5a,it0,shape,Intermediate,Easy,Low,1
+pde5a,it0,pharm,Intermediate,Difficult,Low,1
+pde5a,it1,shape,Intermediate,Easy,Acceptable,1
+pde5a,it1,pharm,Intermediate,Difficult,Low,1
+pde5a,it0,shape,Intermediate,Easy,Low,5
+pde5a,it0,pharm,Intermediate,Difficult,Low,5
+pde5a,it1,shape,Intermediate,Easy,Acceptable,5
+pde5a,it1,pharm,Intermediate,Difficult,Low,5
+pde5a,it0,shape,Intermediate,Easy,Low,10
+pde5a,it0,pharm,Intermediate,Difficult,Low,10
+pde5a,it1,shape,Intermediate,Easy,Acceptable,10
+pde5a,it1,pharm,Intermediate,Difficult,Low,10
+pde5a,it0,shape,Intermediate,Easy,Acceptable,50
+pde5a,it0,pharm,Intermediate,Difficult,Low,50
+pde5a,it1,shape,Intermediate,Easy,Acceptable,50
+pde5a,it1,pharm,Intermediate,Difficult,Low,50
+pde5a,it0,shape,Intermediate,Easy,Acceptable,100
+pde5a,it0,pharm,Intermediate,Difficult,Low,100
+pde5a,it1,shape,Intermediate,Easy,Acceptable,100
+pde5a,it1,pharm,Intermediate,Difficult,Low,100
+pde5a,it0,shape,Intermediate,Easy,Acceptable,200
+pde5a,it0,pharm,Intermediate,Difficult,Near Acceptable,200
+pde5a,it1,shape,Intermediate,Easy,Acceptable,200
+pde5a,it1,pharm,Intermediate,Difficult,Low,200
+pde5a,it0,shape,Intermediate,Easy,Acceptable,1000
+pde5a,it0,pharm,Intermediate,Difficult,Acceptable,1000
+pde5a,it1,shape,Intermediate,Easy,Acceptable,1000
+pde5a,it1,pharm,Intermediate,Difficult,Low,1000
+pgh1,it0,shape,Intermediate,Difficult,Low,1
+pgh1,it0,pharm,Difficult,Intermediate,Low,1
+pgh1,it1,shape,Intermediate,Difficult,Low,1
+pgh1,it1,pharm,Difficult,Intermediate,Low,1
+pgh1,it0,shape,Intermediate,Difficult,Low,5
+pgh1,it0,pharm,Difficult,Intermediate,Low,5
+pgh1,it1,shape,Intermediate,Difficult,Low,5
+pgh1,it1,pharm,Difficult,Intermediate,Low,5
+pgh1,it0,shape,Intermediate,Difficult,Low,10
+pgh1,it0,pharm,Difficult,Intermediate,Low,10
+pgh1,it1,shape,Intermediate,Difficult,Low,10
+pgh1,it1,pharm,Difficult,Intermediate,Low,10
+pgh1,it0,shape,Intermediate,Difficult,Low,50
+pgh1,it0,pharm,Difficult,Intermediate,Low,50
+pgh1,it1,shape,Intermediate,Difficult,Low,50
+pgh1,it1,pharm,Difficult,Intermediate,Low,50
+pgh1,it0,shape,Intermediate,Difficult,Acceptable,100
+pgh1,it0,pharm,Difficult,Intermediate,Low,100
+pgh1,it1,shape,Intermediate,Difficult,Acceptable,100
+pgh1,it1,pharm,Difficult,Intermediate,Low,100
+pgh1,it0,shape,Intermediate,Difficult,Acceptable,200
+pgh1,it0,pharm,Difficult,Intermediate,Low,200
+pgh1,it1,shape,Intermediate,Difficult,Acceptable,200
+pgh1,it1,pharm,Difficult,Intermediate,Low,200
+pgh1,it0,shape,Intermediate,Difficult,Acceptable,1000
+pgh1,it0,pharm,Difficult,Intermediate,Low,1000
+pgh1,it1,shape,Intermediate,Difficult,Acceptable,1000
+pgh1,it1,pharm,Difficult,Intermediate,Low,1000
+pgh2,it0,shape,Easy,Easy,Low,1
+pgh2,it0,pharm,Difficult,Intermediate,Near Acceptable,1
+pgh2,it1,shape,Easy,Easy,Medium,1
+pgh2,it1,pharm,Difficult,Intermediate,Acceptable,1
+pgh2,it0,shape,Easy,Easy,Low,5
+pgh2,it0,pharm,Difficult,Intermediate,Near Acceptable,5
+pgh2,it1,shape,Easy,Easy,Medium,5
+pgh2,it1,pharm,Difficult,Intermediate,Acceptable,5
+pgh2,it0,shape,Easy,Easy,High,10
+pgh2,it0,pharm,Difficult,Intermediate,Near Acceptable,10
+pgh2,it1,shape,Easy,Easy,Medium,10
+pgh2,it1,pharm,Difficult,Intermediate,Acceptable,10
+pgh2,it0,shape,Easy,Easy,High,50
+pgh2,it0,pharm,Difficult,Intermediate,Near Acceptable,50
+pgh2,it1,shape,Easy,Easy,High,50
+pgh2,it1,pharm,Difficult,Intermediate,Acceptable,50
+pgh2,it0,shape,Easy,Easy,High,100
+pgh2,it0,pharm,Difficult,Intermediate,Near Acceptable,100
+pgh2,it1,shape,Easy,Easy,High,100
+pgh2,it1,pharm,Difficult,Intermediate,Acceptable,100
+pgh2,it0,shape,Easy,Easy,High,200
+pgh2,it0,pharm,Difficult,Intermediate,Near Acceptable,200
+pgh2,it1,shape,Easy,Easy,High,200
+pgh2,it1,pharm,Difficult,Intermediate,Acceptable,200
+pgh2,it0,shape,Easy,Easy,High,1000
+pgh2,it0,pharm,Difficult,Intermediate,Near Acceptable,1000
+pgh2,it1,shape,Easy,Easy,High,1000
+pgh2,it1,pharm,Difficult,Intermediate,Acceptable,1000
+plk1,it0,shape,Intermediate,Difficult,Low,1
+plk1,it0,pharm,Difficult,Difficult,Low,1
+plk1,it1,shape,Intermediate,Difficult,Low,1
+plk1,it1,pharm,Difficult,Difficult,Low,1
+plk1,it0,shape,Intermediate,Difficult,Low,5
+plk1,it0,pharm,Difficult,Difficult,Low,5
+plk1,it1,shape,Intermediate,Difficult,Low,5
+plk1,it1,pharm,Difficult,Difficult,Low,5
+plk1,it0,shape,Intermediate,Difficult,Low,10
+plk1,it0,pharm,Difficult,Difficult,Low,10
+plk1,it1,shape,Intermediate,Difficult,Low,10
+plk1,it1,pharm,Difficult,Difficult,Low,10
+plk1,it0,shape,Intermediate,Difficult,Low,50
+plk1,it0,pharm,Difficult,Difficult,Low,50
+plk1,it1,shape,Intermediate,Difficult,Near Acceptable,50
+plk1,it1,pharm,Difficult,Difficult,Low,50
+plk1,it0,shape,Intermediate,Difficult,Low,100
+plk1,it0,pharm,Difficult,Difficult,Low,100
+plk1,it1,shape,Intermediate,Difficult,Near Acceptable,100
+plk1,it1,pharm,Difficult,Difficult,Low,100
+plk1,it0,shape,Intermediate,Difficult,Low,200
+plk1,it0,pharm,Difficult,Difficult,Low,200
+plk1,it1,shape,Intermediate,Difficult,Near Acceptable,200
+plk1,it1,pharm,Difficult,Difficult,Near Acceptable,200
+plk1,it0,shape,Intermediate,Difficult,Low,1000
+plk1,it0,pharm,Difficult,Difficult,Near Acceptable,1000
+plk1,it1,shape,Intermediate,Difficult,Near Acceptable,1000
+plk1,it1,pharm,Difficult,Difficult,Near Acceptable,1000
+pnph,it0,shape,Easy,Easy,Low,1
+pnph,it0,pharm,Easy,Easy,Near Acceptable,1
+pnph,it1,shape,Easy,Easy,Acceptable,1
+pnph,it1,pharm,Easy,Easy,Acceptable,1
+pnph,it0,shape,Easy,Easy,Low,5
+pnph,it0,pharm,Easy,Easy,Near Acceptable,5
+pnph,it1,shape,Easy,Easy,Acceptable,5
+pnph,it1,pharm,Easy,Easy,Acceptable,5
+pnph,it0,shape,Easy,Easy,Low,10
+pnph,it0,pharm,Easy,Easy,Near Acceptable,10
+pnph,it1,shape,Easy,Easy,Acceptable,10
+pnph,it1,pharm,Easy,Easy,Acceptable,10
+pnph,it0,shape,Easy,Easy,Near Acceptable,50
+pnph,it0,pharm,Easy,Easy,Near Acceptable,50
+pnph,it1,shape,Easy,Easy,Acceptable,50
+pnph,it1,pharm,Easy,Easy,Acceptable,50
+pnph,it0,shape,Easy,Easy,Near Acceptable,100
+pnph,it0,pharm,Easy,Easy,Near Acceptable,100
+pnph,it1,shape,Easy,Easy,Acceptable,100
+pnph,it1,pharm,Easy,Easy,Acceptable,100
+pnph,it0,shape,Easy,Easy,Acceptable,200
+pnph,it0,pharm,Easy,Easy,Medium,200
+pnph,it1,shape,Easy,Easy,Acceptable,200
+pnph,it1,pharm,Easy,Easy,Acceptable,200
+pnph,it0,shape,Easy,Easy,Acceptable,1000
+pnph,it0,pharm,Easy,Easy,Medium,1000
+pnph,it1,shape,Easy,Easy,Acceptable,1000
+pnph,it1,pharm,Easy,Easy,Acceptable,1000
+ppara,it0,shape,Intermediate,Easy,Acceptable,1
+ppara,it0,pharm,Intermediate,Difficult,Low,1
+ppara,it1,shape,Intermediate,Easy,Acceptable,1
+ppara,it1,pharm,Intermediate,Difficult,Low,1
+ppara,it0,shape,Intermediate,Easy,Acceptable,5
+ppara,it0,pharm,Intermediate,Difficult,Low,5
+ppara,it1,shape,Intermediate,Easy,Acceptable,5
+ppara,it1,pharm,Intermediate,Difficult,Low,5
+ppara,it0,shape,Intermediate,Easy,Acceptable,10
+ppara,it0,pharm,Intermediate,Difficult,Low,10
+ppara,it1,shape,Intermediate,Easy,Acceptable,10
+ppara,it1,pharm,Intermediate,Difficult,Low,10
+ppara,it0,shape,Intermediate,Easy,Acceptable,50
+ppara,it0,pharm,Intermediate,Difficult,Low,50
+ppara,it1,shape,Intermediate,Easy,Acceptable,50
+ppara,it1,pharm,Intermediate,Difficult,Low,50
+ppara,it0,shape,Intermediate,Easy,Acceptable,100
+ppara,it0,pharm,Intermediate,Difficult,Low,100
+ppara,it1,shape,Intermediate,Easy,Acceptable,100
+ppara,it1,pharm,Intermediate,Difficult,Low,100
+ppara,it0,shape,Intermediate,Easy,Acceptable,200
+ppara,it0,pharm,Intermediate,Difficult,Low,200
+ppara,it1,shape,Intermediate,Easy,Acceptable,200
+ppara,it1,pharm,Intermediate,Difficult,Low,200
+ppara,it0,shape,Intermediate,Easy,Acceptable,1000
+ppara,it0,pharm,Intermediate,Difficult,Low,1000
+ppara,it1,shape,Intermediate,Easy,Acceptable,1000
+ppara,it1,pharm,Intermediate,Difficult,Low,1000
+ppard,it0,shape,Easy,Easy,Low,1
+ppard,it0,pharm,Easy,Easy,Acceptable,1
+ppard,it1,shape,Easy,Easy,Near Acceptable,1
+ppard,it1,pharm,Easy,Easy,Medium,1
+ppard,it0,shape,Easy,Easy,Acceptable,5
+ppard,it0,pharm,Easy,Easy,Acceptable,5
+ppard,it1,shape,Easy,Easy,Acceptable,5
+ppard,it1,pharm,Easy,Easy,Medium,5
+ppard,it0,shape,Easy,Easy,Acceptable,10
+ppard,it0,pharm,Easy,Easy,Acceptable,10
+ppard,it1,shape,Easy,Easy,Acceptable,10
+ppard,it1,pharm,Easy,Easy,Medium,10
+ppard,it0,shape,Easy,Easy,Acceptable,50
+ppard,it0,pharm,Easy,Easy,Acceptable,50
+ppard,it1,shape,Easy,Easy,Acceptable,50
+ppard,it1,pharm,Easy,Easy,Medium,50
+ppard,it0,shape,Easy,Easy,Acceptable,100
+ppard,it0,pharm,Easy,Easy,Acceptable,100
+ppard,it1,shape,Easy,Easy,Acceptable,100
+ppard,it1,pharm,Easy,Easy,Medium,100
+ppard,it0,shape,Easy,Easy,Acceptable,200
+ppard,it0,pharm,Easy,Easy,Acceptable,200
+ppard,it1,shape,Easy,Easy,Acceptable,200
+ppard,it1,pharm,Easy,Easy,Medium,200
+ppard,it0,shape,Easy,Easy,Acceptable,1000
+ppard,it0,pharm,Easy,Easy,Acceptable,1000
+ppard,it1,shape,Easy,Easy,Acceptable,1000
+ppard,it1,pharm,Easy,Easy,Medium,1000
+pparg,it0,shape,Intermediate,Intermediate,Near Acceptable,1
+pparg,it0,pharm,Intermediate,Easy,Acceptable,1
+pparg,it1,shape,Intermediate,Intermediate,Acceptable,1
+pparg,it1,pharm,Intermediate,Easy,Acceptable,1
+pparg,it0,shape,Intermediate,Intermediate,Near Acceptable,5
+pparg,it0,pharm,Intermediate,Easy,Acceptable,5
+pparg,it1,shape,Intermediate,Intermediate,Acceptable,5
+pparg,it1,pharm,Intermediate,Easy,Medium,5
+pparg,it0,shape,Intermediate,Intermediate,Acceptable,10
+pparg,it0,pharm,Intermediate,Easy,Acceptable,10
+pparg,it1,shape,Intermediate,Intermediate,Medium,10
+pparg,it1,pharm,Intermediate,Easy,Medium,10
+pparg,it0,shape,Intermediate,Intermediate,Acceptable,50
+pparg,it0,pharm,Intermediate,Easy,Acceptable,50
+pparg,it1,shape,Intermediate,Intermediate,Medium,50
+pparg,it1,pharm,Intermediate,Easy,Medium,50
+pparg,it0,shape,Intermediate,Intermediate,Acceptable,100
+pparg,it0,pharm,Intermediate,Easy,Acceptable,100
+pparg,it1,shape,Intermediate,Intermediate,Medium,100
+pparg,it1,pharm,Intermediate,Easy,Medium,100
+pparg,it0,shape,Intermediate,Intermediate,Acceptable,200
+pparg,it0,pharm,Intermediate,Easy,Acceptable,200
+pparg,it1,shape,Intermediate,Intermediate,Medium,200
+pparg,it1,pharm,Intermediate,Easy,Medium,200
+pparg,it0,shape,Intermediate,Intermediate,Acceptable,1000
+pparg,it0,pharm,Intermediate,Easy,Acceptable,1000
+pparg,it1,shape,Intermediate,Intermediate,Medium,1000
+pparg,it1,pharm,Intermediate,Easy,Medium,1000
+prgr,it0,shape,Easy,Easy,Low,1
+prgr,it0,pharm,Difficult,Difficult,Low,1
+prgr,it1,shape,Easy,Easy,Acceptable,1
+prgr,it1,pharm,Difficult,Difficult,Low,1
+prgr,it0,shape,Easy,Easy,Near Acceptable,5
+prgr,it0,pharm,Difficult,Difficult,Low,5
+prgr,it1,shape,Easy,Easy,Acceptable,5
+prgr,it1,pharm,Difficult,Difficult,Low,5
+prgr,it0,shape,Easy,Easy,Near Acceptable,10
+prgr,it0,pharm,Difficult,Difficult,Low,10
+prgr,it1,shape,Easy,Easy,Acceptable,10
+prgr,it1,pharm,Difficult,Difficult,Low,10
+prgr,it0,shape,Easy,Easy,Near Acceptable,50
+prgr,it0,pharm,Difficult,Difficult,Low,50
+prgr,it1,shape,Easy,Easy,Acceptable,50
+prgr,it1,pharm,Difficult,Difficult,Low,50
+prgr,it0,shape,Easy,Easy,Acceptable,100
+prgr,it0,pharm,Difficult,Difficult,Low,100
+prgr,it1,shape,Easy,Easy,Acceptable,100
+prgr,it1,pharm,Difficult,Difficult,Low,100
+prgr,it0,shape,Easy,Easy,Acceptable,200
+prgr,it0,pharm,Difficult,Difficult,Low,200
+prgr,it1,shape,Easy,Easy,Acceptable,200
+prgr,it1,pharm,Difficult,Difficult,Low,200
+prgr,it0,shape,Easy,Easy,Acceptable,1000
+prgr,it0,pharm,Difficult,Difficult,Low,1000
+prgr,it1,shape,Easy,Easy,Acceptable,1000
+prgr,it1,pharm,Difficult,Difficult,Low,1000
+ptn1,it0,shape,Intermediate,Easy,Low,1
+ptn1,it0,pharm,Intermediate,Easy,Low,1
+ptn1,it1,shape,Intermediate,Easy,Medium,1
+ptn1,it1,pharm,Intermediate,Easy,Medium,1
+ptn1,it0,shape,Intermediate,Easy,Low,5
+ptn1,it0,pharm,Intermediate,Easy,Acceptable,5
+ptn1,it1,shape,Intermediate,Easy,High,5
+ptn1,it1,pharm,Intermediate,Easy,High,5
+ptn1,it0,shape,Intermediate,Easy,Near Acceptable,10
+ptn1,it0,pharm,Intermediate,Easy,Acceptable,10
+ptn1,it1,shape,Intermediate,Easy,High,10
+ptn1,it1,pharm,Intermediate,Easy,High,10
+ptn1,it0,shape,Intermediate,Easy,Medium,50
+ptn1,it0,pharm,Intermediate,Easy,Acceptable,50
+ptn1,it1,shape,Intermediate,Easy,High,50
+ptn1,it1,pharm,Intermediate,Easy,High,50
+ptn1,it0,shape,Intermediate,Easy,Medium,100
+ptn1,it0,pharm,Intermediate,Easy,Acceptable,100
+ptn1,it1,shape,Intermediate,Easy,High,100
+ptn1,it1,pharm,Intermediate,Easy,High,100
+ptn1,it0,shape,Intermediate,Easy,Medium,200
+ptn1,it0,pharm,Intermediate,Easy,Acceptable,200
+ptn1,it1,shape,Intermediate,Easy,High,200
+ptn1,it1,pharm,Intermediate,Easy,High,200
+ptn1,it0,shape,Intermediate,Easy,Medium,1000
+ptn1,it0,pharm,Intermediate,Easy,Acceptable,1000
+ptn1,it1,shape,Intermediate,Easy,High,1000
+ptn1,it1,pharm,Intermediate,Easy,High,1000
+pur2,it0,shape,Easy,Easy,Low,1
+pur2,it0,pharm,Easy,Easy,Near Acceptable,1
+pur2,it1,shape,Easy,Easy,Acceptable,1
+pur2,it1,pharm,Easy,Easy,Near Acceptable,1
+pur2,it0,shape,Easy,Easy,Acceptable,5
+pur2,it0,pharm,Easy,Easy,Near Acceptable,5
+pur2,it1,shape,Easy,Easy,Acceptable,5
+pur2,it1,pharm,Easy,Easy,Near Acceptable,5
+pur2,it0,shape,Easy,Easy,Acceptable,10
+pur2,it0,pharm,Easy,Easy,Near Acceptable,10
+pur2,it1,shape,Easy,Easy,Acceptable,10
+pur2,it1,pharm,Easy,Easy,Near Acceptable,10
+pur2,it0,shape,Easy,Easy,Acceptable,50
+pur2,it0,pharm,Easy,Easy,Near Acceptable,50
+pur2,it1,shape,Easy,Easy,Acceptable,50
+pur2,it1,pharm,Easy,Easy,Acceptable,50
+pur2,it0,shape,Easy,Easy,Acceptable,100
+pur2,it0,pharm,Easy,Easy,Near Acceptable,100
+pur2,it1,shape,Easy,Easy,Acceptable,100
+pur2,it1,pharm,Easy,Easy,Acceptable,100
+pur2,it0,shape,Easy,Easy,Acceptable,200
+pur2,it0,pharm,Easy,Easy,Near Acceptable,200
+pur2,it1,shape,Easy,Easy,Acceptable,200
+pur2,it1,pharm,Easy,Easy,Acceptable,200
+pur2,it0,shape,Easy,Easy,Acceptable,1000
+pur2,it0,pharm,Easy,Easy,Near Acceptable,1000
+pur2,it1,shape,Easy,Easy,Acceptable,1000
+pur2,it1,pharm,Easy,Easy,Acceptable,1000
+pygm,it0,shape,Intermediate,Difficult,Low,1
+pygm,it0,pharm,Intermediate,Difficult,Low,1
+pygm,it1,shape,Intermediate,Difficult,Low,1
+pygm,it1,pharm,Intermediate,Difficult,Low,1
+pygm,it0,shape,Intermediate,Difficult,Low,5
+pygm,it0,pharm,Intermediate,Difficult,Low,5
+pygm,it1,shape,Intermediate,Difficult,Low,5
+pygm,it1,pharm,Intermediate,Difficult,Low,5
+pygm,it0,shape,Intermediate,Difficult,Low,10
+pygm,it0,pharm,Intermediate,Difficult,Low,10
+pygm,it1,shape,Intermediate,Difficult,Low,10
+pygm,it1,pharm,Intermediate,Difficult,Low,10
+pygm,it0,shape,Intermediate,Difficult,Low,50
+pygm,it0,pharm,Intermediate,Difficult,Low,50
+pygm,it1,shape,Intermediate,Difficult,Low,50
+pygm,it1,pharm,Intermediate,Difficult,Low,50
+pygm,it0,shape,Intermediate,Difficult,Acceptable,100
+pygm,it0,pharm,Intermediate,Difficult,Low,100
+pygm,it1,shape,Intermediate,Difficult,Low,100
+pygm,it1,pharm,Intermediate,Difficult,Low,100
+pygm,it0,shape,Intermediate,Difficult,Acceptable,200
+pygm,it0,pharm,Intermediate,Difficult,Low,200
+pygm,it1,shape,Intermediate,Difficult,Low,200
+pygm,it1,pharm,Intermediate,Difficult,Low,200
+pygm,it0,shape,Intermediate,Difficult,Acceptable,1000
+pygm,it0,pharm,Intermediate,Difficult,Low,1000
+pygm,it1,shape,Intermediate,Difficult,Low,1000
+pygm,it1,pharm,Intermediate,Difficult,Low,1000
+pyrd,it0,shape,Intermediate,Easy,Low,1
+pyrd,it0,pharm,Easy,Easy,Medium,1
+pyrd,it1,shape,Intermediate,Easy,Medium,1
+pyrd,it1,pharm,Easy,Easy,Medium,1
+pyrd,it0,shape,Intermediate,Easy,Low,5
+pyrd,it0,pharm,Easy,Easy,Medium,5
+pyrd,it1,shape,Intermediate,Easy,Medium,5
+pyrd,it1,pharm,Easy,Easy,Medium,5
+pyrd,it0,shape,Intermediate,Easy,Medium,10
+pyrd,it0,pharm,Easy,Easy,Medium,10
+pyrd,it1,shape,Intermediate,Easy,Medium,10
+pyrd,it1,pharm,Easy,Easy,Medium,10
+pyrd,it0,shape,Intermediate,Easy,Medium,50
+pyrd,it0,pharm,Easy,Easy,Medium,50
+pyrd,it1,shape,Intermediate,Easy,Medium,50
+pyrd,it1,pharm,Easy,Easy,Medium,50
+pyrd,it0,shape,Intermediate,Easy,Medium,100
+pyrd,it0,pharm,Easy,Easy,Medium,100
+pyrd,it1,shape,Intermediate,Easy,Medium,100
+pyrd,it1,pharm,Easy,Easy,Medium,100
+pyrd,it0,shape,Intermediate,Easy,Medium,200
+pyrd,it0,pharm,Easy,Easy,Medium,200
+pyrd,it1,shape,Intermediate,Easy,Medium,200
+pyrd,it1,pharm,Easy,Easy,Medium,200
+pyrd,it0,shape,Intermediate,Easy,Medium,1000
+pyrd,it0,pharm,Easy,Easy,Medium,1000
+pyrd,it1,shape,Intermediate,Easy,Medium,1000
+pyrd,it1,pharm,Easy,Easy,Medium,1000
+reni,it0,shape,Intermediate,Easy,Low,1
+reni,it0,pharm,Easy,Easy,Low,1
+reni,it1,shape,Intermediate,Easy,Near Acceptable,1
+reni,it1,pharm,Easy,Easy,Acceptable,1
+reni,it0,shape,Intermediate,Easy,Low,5
+reni,it0,pharm,Easy,Easy,Low,5
+reni,it1,shape,Intermediate,Easy,Medium,5
+reni,it1,pharm,Easy,Easy,Medium,5
+reni,it0,shape,Intermediate,Easy,Low,10
+reni,it0,pharm,Easy,Easy,Low,10
+reni,it1,shape,Intermediate,Easy,Medium,10
+reni,it1,pharm,Easy,Easy,Medium,10
+reni,it0,shape,Intermediate,Easy,Low,50
+reni,it0,pharm,Easy,Easy,Low,50
+reni,it1,shape,Intermediate,Easy,Medium,50
+reni,it1,pharm,Easy,Easy,Medium,50
+reni,it0,shape,Intermediate,Easy,Low,100
+reni,it0,pharm,Easy,Easy,Low,100
+reni,it1,shape,Intermediate,Easy,Medium,100
+reni,it1,pharm,Easy,Easy,Medium,100
+reni,it0,shape,Intermediate,Easy,Low,200
+reni,it0,pharm,Easy,Easy,Low,200
+reni,it1,shape,Intermediate,Easy,Medium,200
+reni,it1,pharm,Easy,Easy,Medium,200
+reni,it0,shape,Intermediate,Easy,Low,1000
+reni,it0,pharm,Easy,Easy,Low,1000
+reni,it1,shape,Intermediate,Easy,Medium,1000
+reni,it1,pharm,Easy,Easy,Medium,1000
+rock1,it0,shape,Intermediate,Difficult,Low,1
+rock1,it0,pharm,Difficult,Difficult,Low,1
+rock1,it1,shape,Intermediate,Difficult,Near Acceptable,1
+rock1,it1,pharm,Difficult,Difficult,Low,1
+rock1,it0,shape,Intermediate,Difficult,Near Acceptable,5
+rock1,it0,pharm,Difficult,Difficult,Low,5
+rock1,it1,shape,Intermediate,Difficult,Acceptable,5
+rock1,it1,pharm,Difficult,Difficult,Low,5
+rock1,it0,shape,Intermediate,Difficult,Near Acceptable,10
+rock1,it0,pharm,Difficult,Difficult,Low,10
+rock1,it1,shape,Intermediate,Difficult,Acceptable,10
+rock1,it1,pharm,Difficult,Difficult,Low,10
+rock1,it0,shape,Intermediate,Difficult,Acceptable,50
+rock1,it0,pharm,Difficult,Difficult,Low,50
+rock1,it1,shape,Intermediate,Difficult,Acceptable,50
+rock1,it1,pharm,Difficult,Difficult,Low,50
+rock1,it0,shape,Intermediate,Difficult,Acceptable,100
+rock1,it0,pharm,Difficult,Difficult,Low,100
+rock1,it1,shape,Intermediate,Difficult,Acceptable,100
+rock1,it1,pharm,Difficult,Difficult,Low,100
+rock1,it0,shape,Intermediate,Difficult,Acceptable,200
+rock1,it0,pharm,Difficult,Difficult,Low,200
+rock1,it1,shape,Intermediate,Difficult,Acceptable,200
+rock1,it1,pharm,Difficult,Difficult,Low,200
+rock1,it0,shape,Intermediate,Difficult,Acceptable,1000
+rock1,it0,pharm,Difficult,Difficult,Low,1000
+rock1,it1,shape,Intermediate,Difficult,Acceptable,1000
+rock1,it1,pharm,Difficult,Difficult,Low,1000
+rxra,it0,shape,Difficult,Intermediate,Low,1
+rxra,it0,pharm,Easy,Intermediate,Low,1
+rxra,it1,shape,Difficult,Intermediate,Acceptable,1
+rxra,it1,pharm,Easy,Intermediate,Low,1
+rxra,it0,shape,Difficult,Intermediate,Low,5
+rxra,it0,pharm,Easy,Intermediate,Low,5
+rxra,it1,shape,Difficult,Intermediate,Acceptable,5
+rxra,it1,pharm,Easy,Intermediate,Low,5
+rxra,it0,shape,Difficult,Intermediate,Low,10
+rxra,it0,pharm,Easy,Intermediate,Low,10
+rxra,it1,shape,Difficult,Intermediate,Acceptable,10
+rxra,it1,pharm,Easy,Intermediate,Near Acceptable,10
+rxra,it0,shape,Difficult,Intermediate,Near Acceptable,50
+rxra,it0,pharm,Easy,Intermediate,Near Acceptable,50
+rxra,it1,shape,Difficult,Intermediate,Acceptable,50
+rxra,it1,pharm,Easy,Intermediate,Acceptable,50
+rxra,it0,shape,Difficult,Intermediate,Near Acceptable,100
+rxra,it0,pharm,Easy,Intermediate,Near Acceptable,100
+rxra,it1,shape,Difficult,Intermediate,Acceptable,100
+rxra,it1,pharm,Easy,Intermediate,Acceptable,100
+rxra,it0,shape,Difficult,Intermediate,Near Acceptable,200
+rxra,it0,pharm,Easy,Intermediate,Near Acceptable,200
+rxra,it1,shape,Difficult,Intermediate,Acceptable,200
+rxra,it1,pharm,Easy,Intermediate,Acceptable,200
+rxra,it0,shape,Difficult,Intermediate,Near Acceptable,1000
+rxra,it0,pharm,Easy,Intermediate,Near Acceptable,1000
+rxra,it1,shape,Difficult,Intermediate,Acceptable,1000
+rxra,it1,pharm,Easy,Intermediate,Acceptable,1000
+sahh,it0,shape,Easy,Easy,Low,1
+sahh,it0,pharm,Easy,Easy,Near Acceptable,1
+sahh,it1,shape,Easy,Easy,Medium,1
+sahh,it1,pharm,Easy,Easy,Medium,1
+sahh,it0,shape,Easy,Easy,Near Acceptable,5
+sahh,it0,pharm,Easy,Easy,Near Acceptable,5
+sahh,it1,shape,Easy,Easy,Medium,5
+sahh,it1,pharm,Easy,Easy,Medium,5
+sahh,it0,shape,Easy,Easy,Near Acceptable,10
+sahh,it0,pharm,Easy,Easy,Near Acceptable,10
+sahh,it1,shape,Easy,Easy,Medium,10
+sahh,it1,pharm,Easy,Easy,Medium,10
+sahh,it0,shape,Easy,Easy,Acceptable,50
+sahh,it0,pharm,Easy,Easy,Near Acceptable,50
+sahh,it1,shape,Easy,Easy,Medium,50
+sahh,it1,pharm,Easy,Easy,Medium,50
+sahh,it0,shape,Easy,Easy,Medium,100
+sahh,it0,pharm,Easy,Easy,Near Acceptable,100
+sahh,it1,shape,Easy,Easy,Medium,100
+sahh,it1,pharm,Easy,Easy,Medium,100
+sahh,it0,shape,Easy,Easy,Medium,200
+sahh,it0,pharm,Easy,Easy,Acceptable,200
+sahh,it1,shape,Easy,Easy,Medium,200
+sahh,it1,pharm,Easy,Easy,Medium,200
+sahh,it0,shape,Easy,Easy,Medium,1000
+sahh,it0,pharm,Easy,Easy,Acceptable,1000
+sahh,it1,shape,Easy,Easy,Medium,1000
+sahh,it1,pharm,Easy,Easy,Medium,1000
+src,it0,shape,Intermediate,Difficult,Low,1
+src,it0,pharm,Intermediate,Intermediate,Acceptable,1
+src,it1,shape,Intermediate,Difficult,Acceptable,1
+src,it1,pharm,Intermediate,Intermediate,Acceptable,1
+src,it0,shape,Intermediate,Difficult,Low,5
+src,it0,pharm,Intermediate,Intermediate,Acceptable,5
+src,it1,shape,Intermediate,Difficult,Acceptable,5
+src,it1,pharm,Intermediate,Intermediate,Medium,5
+src,it0,shape,Intermediate,Difficult,Low,10
+src,it0,pharm,Intermediate,Intermediate,Acceptable,10
+src,it1,shape,Intermediate,Difficult,Acceptable,10
+src,it1,pharm,Intermediate,Intermediate,Medium,10
+src,it0,shape,Intermediate,Difficult,Acceptable,50
+src,it0,pharm,Intermediate,Intermediate,Acceptable,50
+src,it1,shape,Intermediate,Difficult,Acceptable,50
+src,it1,pharm,Intermediate,Intermediate,Medium,50
+src,it0,shape,Intermediate,Difficult,Acceptable,100
+src,it0,pharm,Intermediate,Intermediate,Acceptable,100
+src,it1,shape,Intermediate,Difficult,Acceptable,100
+src,it1,pharm,Intermediate,Intermediate,Medium,100
+src,it0,shape,Intermediate,Difficult,Acceptable,200
+src,it0,pharm,Intermediate,Intermediate,Acceptable,200
+src,it1,shape,Intermediate,Difficult,Acceptable,200
+src,it1,pharm,Intermediate,Intermediate,Medium,200
+src,it0,shape,Intermediate,Difficult,Acceptable,1000
+src,it0,pharm,Intermediate,Intermediate,Acceptable,1000
+src,it1,shape,Intermediate,Difficult,Acceptable,1000
+src,it1,pharm,Intermediate,Intermediate,Medium,1000
+tgfr1,it0,shape,Easy,Easy,Medium,1
+tgfr1,it0,pharm,Intermediate,Easy,Acceptable,1
+tgfr1,it1,shape,Easy,Easy,High,1
+tgfr1,it1,pharm,Intermediate,Easy,Medium,1
+tgfr1,it0,shape,Easy,Easy,Medium,5
+tgfr1,it0,pharm,Intermediate,Easy,Acceptable,5
+tgfr1,it1,shape,Easy,Easy,High,5
+tgfr1,it1,pharm,Intermediate,Easy,Medium,5
+tgfr1,it0,shape,Easy,Easy,Medium,10
+tgfr1,it0,pharm,Intermediate,Easy,Acceptable,10
+tgfr1,it1,shape,Easy,Easy,High,10
+tgfr1,it1,pharm,Intermediate,Easy,Medium,10
+tgfr1,it0,shape,Easy,Easy,Medium,50
+tgfr1,it0,pharm,Intermediate,Easy,Acceptable,50
+tgfr1,it1,shape,Easy,Easy,High,50
+tgfr1,it1,pharm,Intermediate,Easy,Medium,50
+tgfr1,it0,shape,Easy,Easy,Medium,100
+tgfr1,it0,pharm,Intermediate,Easy,Acceptable,100
+tgfr1,it1,shape,Easy,Easy,High,100
+tgfr1,it1,pharm,Intermediate,Easy,Medium,100
+tgfr1,it0,shape,Easy,Easy,Medium,200
+tgfr1,it0,pharm,Intermediate,Easy,Acceptable,200
+tgfr1,it1,shape,Easy,Easy,High,200
+tgfr1,it1,pharm,Intermediate,Easy,Medium,200
+tgfr1,it0,shape,Easy,Easy,Medium,1000
+tgfr1,it0,pharm,Intermediate,Easy,Acceptable,1000
+tgfr1,it1,shape,Easy,Easy,High,1000
+tgfr1,it1,pharm,Intermediate,Easy,Medium,1000
+thb,it0,shape,Difficult,Intermediate,Low,1
+thb,it0,pharm,Easy,Easy,Near Acceptable,1
+thb,it1,shape,Difficult,Intermediate,Acceptable,1
+thb,it1,pharm,Easy,Easy,Acceptable,1
+thb,it0,shape,Difficult,Intermediate,Low,5
+thb,it0,pharm,Easy,Easy,Near Acceptable,5
+thb,it1,shape,Difficult,Intermediate,Acceptable,5
+thb,it1,pharm,Easy,Easy,Acceptable,5
+thb,it0,shape,Difficult,Intermediate,Acceptable,10
+thb,it0,pharm,Easy,Easy,Near Acceptable,10
+thb,it1,shape,Difficult,Intermediate,Acceptable,10
+thb,it1,pharm,Easy,Easy,Medium,10
+thb,it0,shape,Difficult,Intermediate,Medium,50
+thb,it0,pharm,Easy,Easy,Acceptable,50
+thb,it1,shape,Difficult,Intermediate,Medium,50
+thb,it1,pharm,Easy,Easy,Medium,50
+thb,it0,shape,Difficult,Intermediate,Medium,100
+thb,it0,pharm,Easy,Easy,Acceptable,100
+thb,it1,shape,Difficult,Intermediate,Medium,100
+thb,it1,pharm,Easy,Easy,Medium,100
+thb,it0,shape,Difficult,Intermediate,Medium,200
+thb,it0,pharm,Easy,Easy,Acceptable,200
+thb,it1,shape,Difficult,Intermediate,Medium,200
+thb,it1,pharm,Easy,Easy,Medium,200
+thb,it0,shape,Difficult,Intermediate,Medium,1000
+thb,it0,pharm,Easy,Easy,Acceptable,1000
+thb,it1,shape,Difficult,Intermediate,Medium,1000
+thb,it1,pharm,Easy,Easy,Medium,1000
+thrb,it0,shape,Easy,Easy,Near Acceptable,1
+thrb,it0,pharm,Easy,Easy,Acceptable,1
+thrb,it1,shape,Easy,Easy,Medium,1
+thrb,it1,pharm,Easy,Easy,Medium,1
+thrb,it0,shape,Easy,Easy,Near Acceptable,5
+thrb,it0,pharm,Easy,Easy,Acceptable,5
+thrb,it1,shape,Easy,Easy,Medium,5
+thrb,it1,pharm,Easy,Easy,Medium,5
+thrb,it0,shape,Easy,Easy,Near Acceptable,10
+thrb,it0,pharm,Easy,Easy,Acceptable,10
+thrb,it1,shape,Easy,Easy,Medium,10
+thrb,it1,pharm,Easy,Easy,Medium,10
+thrb,it0,shape,Easy,Easy,Medium,50
+thrb,it0,pharm,Easy,Easy,Medium,50
+thrb,it1,shape,Easy,Easy,Medium,50
+thrb,it1,pharm,Easy,Easy,Medium,50
+thrb,it0,shape,Easy,Easy,Medium,100
+thrb,it0,pharm,Easy,Easy,Medium,100
+thrb,it1,shape,Easy,Easy,Medium,100
+thrb,it1,pharm,Easy,Easy,Medium,100
+thrb,it0,shape,Easy,Easy,Medium,200
+thrb,it0,pharm,Easy,Easy,Medium,200
+thrb,it1,shape,Easy,Easy,Medium,200
+thrb,it1,pharm,Easy,Easy,Medium,200
+thrb,it0,shape,Easy,Easy,Medium,1000
+thrb,it0,pharm,Easy,Easy,Medium,1000
+thrb,it1,shape,Easy,Easy,Medium,1000
+thrb,it1,pharm,Easy,Easy,Medium,1000
+try1,it0,shape,Difficult,Difficult,Low,1
+try1,it0,pharm,Difficult,Difficult,Low,1
+try1,it1,shape,Difficult,Difficult,Low,1
+try1,it1,pharm,Difficult,Difficult,Low,1
+try1,it0,shape,Difficult,Difficult,Low,5
+try1,it0,pharm,Difficult,Difficult,Low,5
+try1,it1,shape,Difficult,Difficult,Low,5
+try1,it1,pharm,Difficult,Difficult,Low,5
+try1,it0,shape,Difficult,Difficult,Low,10
+try1,it0,pharm,Difficult,Difficult,Low,10
+try1,it1,shape,Difficult,Difficult,Low,10
+try1,it1,pharm,Difficult,Difficult,Low,10
+try1,it0,shape,Difficult,Difficult,Low,50
+try1,it0,pharm,Difficult,Difficult,Low,50
+try1,it1,shape,Difficult,Difficult,Low,50
+try1,it1,pharm,Difficult,Difficult,Low,50
+try1,it0,shape,Difficult,Difficult,Low,100
+try1,it0,pharm,Difficult,Difficult,Low,100
+try1,it1,shape,Difficult,Difficult,Low,100
+try1,it1,pharm,Difficult,Difficult,Low,100
+try1,it0,shape,Difficult,Difficult,Low,200
+try1,it0,pharm,Difficult,Difficult,Low,200
+try1,it1,shape,Difficult,Difficult,Low,200
+try1,it1,pharm,Difficult,Difficult,Low,200
+try1,it0,shape,Difficult,Difficult,Low,1000
+try1,it0,pharm,Difficult,Difficult,Low,1000
+try1,it1,shape,Difficult,Difficult,Low,1000
+try1,it1,pharm,Difficult,Difficult,Low,1000
+tryb1,it0,shape,Intermediate,Intermediate,Acceptable,1
+tryb1,it0,pharm,Easy,Intermediate,Near Acceptable,1
+tryb1,it1,shape,Intermediate,Intermediate,Acceptable,1
+tryb1,it1,pharm,Easy,Intermediate,Near Acceptable,1
+tryb1,it0,shape,Intermediate,Intermediate,Acceptable,5
+tryb1,it0,pharm,Easy,Intermediate,Near Acceptable,5
+tryb1,it1,shape,Intermediate,Intermediate,Medium,5
+tryb1,it1,pharm,Easy,Intermediate,Near Acceptable,5
+tryb1,it0,shape,Intermediate,Intermediate,Acceptable,10
+tryb1,it0,pharm,Easy,Intermediate,Near Acceptable,10
+tryb1,it1,shape,Intermediate,Intermediate,Medium,10
+tryb1,it1,pharm,Easy,Intermediate,Near Acceptable,10
+tryb1,it0,shape,Intermediate,Intermediate,Acceptable,50
+tryb1,it0,pharm,Easy,Intermediate,Near Acceptable,50
+tryb1,it1,shape,Intermediate,Intermediate,Medium,50
+tryb1,it1,pharm,Easy,Intermediate,Acceptable,50
+tryb1,it0,shape,Intermediate,Intermediate,Medium,100
+tryb1,it0,pharm,Easy,Intermediate,Acceptable,100
+tryb1,it1,shape,Intermediate,Intermediate,Medium,100
+tryb1,it1,pharm,Easy,Intermediate,Acceptable,100
+tryb1,it0,shape,Intermediate,Intermediate,Medium,200
+tryb1,it0,pharm,Easy,Intermediate,Acceptable,200
+tryb1,it1,shape,Intermediate,Intermediate,Medium,200
+tryb1,it1,pharm,Easy,Intermediate,Acceptable,200
+tryb1,it0,shape,Intermediate,Intermediate,Medium,1000
+tryb1,it0,pharm,Easy,Intermediate,Acceptable,1000
+tryb1,it1,shape,Intermediate,Intermediate,Medium,1000
+tryb1,it1,pharm,Easy,Intermediate,Acceptable,1000
+tysy,it0,shape,Difficult,Difficult,Low,1
+tysy,it0,pharm,Easy,Intermediate,Low,1
+tysy,it1,shape,Difficult,Difficult,Near Acceptable,1
+tysy,it1,pharm,Easy,Intermediate,Low,1
+tysy,it0,shape,Difficult,Difficult,Low,5
+tysy,it0,pharm,Easy,Intermediate,Low,5
+tysy,it1,shape,Difficult,Difficult,Near Acceptable,5
+tysy,it1,pharm,Easy,Intermediate,Near Acceptable,5
+tysy,it0,shape,Difficult,Difficult,Low,10
+tysy,it0,pharm,Easy,Intermediate,Low,10
+tysy,it1,shape,Difficult,Difficult,Near Acceptable,10
+tysy,it1,pharm,Easy,Intermediate,Near Acceptable,10
+tysy,it0,shape,Difficult,Difficult,Low,50
+tysy,it0,pharm,Easy,Intermediate,Low,50
+tysy,it1,shape,Difficult,Difficult,Near Acceptable,50
+tysy,it1,pharm,Easy,Intermediate,Near Acceptable,50
+tysy,it0,shape,Difficult,Difficult,Low,100
+tysy,it0,pharm,Easy,Intermediate,Low,100
+tysy,it1,shape,Difficult,Difficult,Near Acceptable,100
+tysy,it1,pharm,Easy,Intermediate,Near Acceptable,100
+tysy,it0,shape,Difficult,Difficult,Low,200
+tysy,it0,pharm,Easy,Intermediate,Near Acceptable,200
+tysy,it1,shape,Difficult,Difficult,Near Acceptable,200
+tysy,it1,pharm,Easy,Intermediate,Acceptable,200
+tysy,it0,shape,Difficult,Difficult,Near Acceptable,1000
+tysy,it0,pharm,Easy,Intermediate,Near Acceptable,1000
+tysy,it1,shape,Difficult,Difficult,Near Acceptable,1000
+tysy,it1,pharm,Easy,Intermediate,Acceptable,1000
+urok,it0,shape,Intermediate,Intermediate,Low,1
+urok,it0,pharm,Intermediate,Intermediate,Near Acceptable,1
+urok,it1,shape,Intermediate,Intermediate,Acceptable,1
+urok,it1,pharm,Intermediate,Intermediate,Near Acceptable,1
+urok,it0,shape,Intermediate,Intermediate,Low,5
+urok,it0,pharm,Intermediate,Intermediate,Near Acceptable,5
+urok,it1,shape,Intermediate,Intermediate,Acceptable,5
+urok,it1,pharm,Intermediate,Intermediate,Acceptable,5
+urok,it0,shape,Intermediate,Intermediate,Low,10
+urok,it0,pharm,Intermediate,Intermediate,Near Acceptable,10
+urok,it1,shape,Intermediate,Intermediate,Acceptable,10
+urok,it1,pharm,Intermediate,Intermediate,Acceptable,10
+urok,it0,shape,Intermediate,Intermediate,Acceptable,50
+urok,it0,pharm,Intermediate,Intermediate,Near Acceptable,50
+urok,it1,shape,Intermediate,Intermediate,Medium,50
+urok,it1,pharm,Intermediate,Intermediate,Acceptable,50
+urok,it0,shape,Intermediate,Intermediate,Acceptable,100
+urok,it0,pharm,Intermediate,Intermediate,Near Acceptable,100
+urok,it1,shape,Intermediate,Intermediate,Medium,100
+urok,it1,pharm,Intermediate,Intermediate,Acceptable,100
+urok,it0,shape,Intermediate,Intermediate,Acceptable,200
+urok,it0,pharm,Intermediate,Intermediate,Near Acceptable,200
+urok,it1,shape,Intermediate,Intermediate,Medium,200
+urok,it1,pharm,Intermediate,Intermediate,Acceptable,200
+urok,it0,shape,Intermediate,Intermediate,Acceptable,1000
+urok,it0,pharm,Intermediate,Intermediate,Near Acceptable,1000
+urok,it1,shape,Intermediate,Intermediate,Medium,1000
+urok,it1,pharm,Intermediate,Intermediate,Acceptable,1000
+vgfr2,it0,shape,Intermediate,Difficult,Low,1
+vgfr2,it0,pharm,Intermediate,Easy,Near Acceptable,1
+vgfr2,it1,shape,Intermediate,Difficult,Low,1
+vgfr2,it1,pharm,Intermediate,Easy,Acceptable,1
+vgfr2,it0,shape,Intermediate,Difficult,Low,5
+vgfr2,it0,pharm,Intermediate,Easy,Near Acceptable,5
+vgfr2,it1,shape,Intermediate,Difficult,Low,5
+vgfr2,it1,pharm,Intermediate,Easy,Acceptable,5
+vgfr2,it0,shape,Intermediate,Difficult,Low,10
+vgfr2,it0,pharm,Intermediate,Easy,Near Acceptable,10
+vgfr2,it1,shape,Intermediate,Difficult,Acceptable,10
+vgfr2,it1,pharm,Intermediate,Easy,Acceptable,10
+vgfr2,it0,shape,Intermediate,Difficult,Acceptable,50
+vgfr2,it0,pharm,Intermediate,Easy,Acceptable,50
+vgfr2,it1,shape,Intermediate,Difficult,Acceptable,50
+vgfr2,it1,pharm,Intermediate,Easy,Acceptable,50
+vgfr2,it0,shape,Intermediate,Difficult,Acceptable,100
+vgfr2,it0,pharm,Intermediate,Easy,Acceptable,100
+vgfr2,it1,shape,Intermediate,Difficult,Acceptable,100
+vgfr2,it1,pharm,Intermediate,Easy,Acceptable,100
+vgfr2,it0,shape,Intermediate,Difficult,Acceptable,200
+vgfr2,it0,pharm,Intermediate,Easy,Acceptable,200
+vgfr2,it1,shape,Intermediate,Difficult,Acceptable,200
+vgfr2,it1,pharm,Intermediate,Easy,Acceptable,200
+vgfr2,it0,shape,Intermediate,Difficult,Acceptable,1000
+vgfr2,it0,pharm,Intermediate,Easy,Acceptable,1000
+vgfr2,it1,shape,Intermediate,Difficult,Acceptable,1000
+vgfr2,it1,pharm,Intermediate,Easy,Acceptable,1000
+wee1,it0,shape,Intermediate,Intermediate,Low,1
+wee1,it0,pharm,Easy,Easy,Acceptable,1
+wee1,it1,shape,Intermediate,Intermediate,Acceptable,1
+wee1,it1,pharm,Easy,Easy,Acceptable,1
+wee1,it0,shape,Intermediate,Intermediate,Near Acceptable,5
+wee1,it0,pharm,Easy,Easy,Acceptable,5
+wee1,it1,shape,Intermediate,Intermediate,Acceptable,5
+wee1,it1,pharm,Easy,Easy,Acceptable,5
+wee1,it0,shape,Intermediate,Intermediate,Near Acceptable,10
+wee1,it0,pharm,Easy,Easy,Acceptable,10
+wee1,it1,shape,Intermediate,Intermediate,Acceptable,10
+wee1,it1,pharm,Easy,Easy,Acceptable,10
+wee1,it0,shape,Intermediate,Intermediate,Acceptable,50
+wee1,it0,pharm,Easy,Easy,Acceptable,50
+wee1,it1,shape,Intermediate,Intermediate,Acceptable,50
+wee1,it1,pharm,Easy,Easy,Acceptable,50
+wee1,it0,shape,Intermediate,Intermediate,Acceptable,100
+wee1,it0,pharm,Easy,Easy,Acceptable,100
+wee1,it1,shape,Intermediate,Intermediate,Acceptable,100
+wee1,it1,pharm,Easy,Easy,Medium,100
+wee1,it0,shape,Intermediate,Intermediate,Acceptable,200
+wee1,it0,pharm,Easy,Easy,Acceptable,200
+wee1,it1,shape,Intermediate,Intermediate,Acceptable,200
+wee1,it1,pharm,Easy,Easy,Medium,200
+wee1,it0,shape,Intermediate,Intermediate,Acceptable,1000
+wee1,it0,pharm,Easy,Easy,Acceptable,1000
+wee1,it1,shape,Intermediate,Intermediate,Acceptable,1000
+wee1,it1,pharm,Easy,Easy,Medium,1000
+xiap,it0,shape,Intermediate,Difficult,Low,1
+xiap,it0,pharm,Intermediate,Difficult,Low,1
+xiap,it1,shape,Intermediate,Difficult,Low,1
+xiap,it1,pharm,Intermediate,Difficult,Low,1
+xiap,it0,shape,Intermediate,Difficult,Low,5
+xiap,it0,pharm,Intermediate,Difficult,Low,5
+xiap,it1,shape,Intermediate,Difficult,Low,5
+xiap,it1,pharm,Intermediate,Difficult,Low,5
+xiap,it0,shape,Intermediate,Difficult,Low,10
+xiap,it0,pharm,Intermediate,Difficult,Low,10
+xiap,it1,shape,Intermediate,Difficult,Low,10
+xiap,it1,pharm,Intermediate,Difficult,Low,10
+xiap,it0,shape,Intermediate,Difficult,Low,50
+xiap,it0,pharm,Intermediate,Difficult,Low,50
+xiap,it1,shape,Intermediate,Difficult,Low,50
+xiap,it1,pharm,Intermediate,Difficult,Low,50
+xiap,it0,shape,Intermediate,Difficult,Low,100
+xiap,it0,pharm,Intermediate,Difficult,Low,100
+xiap,it1,shape,Intermediate,Difficult,Low,100
+xiap,it1,pharm,Intermediate,Difficult,Low,100
+xiap,it0,shape,Intermediate,Difficult,Low,200
+xiap,it0,pharm,Intermediate,Difficult,Low,200
+xiap,it1,shape,Intermediate,Difficult,Low,200
+xiap,it1,pharm,Intermediate,Difficult,Low,200
+xiap,it0,shape,Intermediate,Difficult,Low,1000
+xiap,it0,pharm,Intermediate,Difficult,Low,1000
+xiap,it1,shape,Intermediate,Difficult,Low,1000
+xiap,it1,pharm,Intermediate,Difficult,Low,1000

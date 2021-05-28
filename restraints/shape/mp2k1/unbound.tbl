@@ -1,0 +1,27 @@
+! Connectivity restraints
+assign (segid A and resi 248 and name CA) (segid A and resi 372 and name CA) 24.498 0.0 0.0
+assign (segid A and resi 189 and name CA) (segid A and resi 315 and name CA) 18.835 0.0 0.0
+! Ion restraints
+assi (segid A and resid 602) (segid A and resid 195 and name "OD1") 2.39 0.1 0.1
+assi (segid A and resid 602) (segid A and resid 208 and name "OD2") 2.54 0.1 0.1
+assi (segid A and resid 602) (segid A and resid 194 and name "O") 3.76 0.1 0.1
+! Ligand restraints
+! Restraints to fix 'ADP' in its initial position
+assi (segi A    and resi   97 and name "NZ"  )
+     (segi A    and resi  601 and name "PA"  )  3.848 1.0 1.0
+assi (segi A    and resi  194 and name "OG"  )
+     (segi A    and resi  601 and name "PB"  )  3.624 1.0 1.0
+assi (segi A    and resi   77 and name "CA"  )
+     (segi A    and resi  601 and name "C5'" )  3.696 1.0 1.0
+assi (segi A    and resi   76 and name "O"   )
+     (segi A    and resi  601 and name "C4'" )  3.638 1.0 1.0
+assi (segi A    and resi   82 and name "CG2" )
+     (segi A    and resi  601 and name "O4'" )  3.191 1.0 1.0
+assi (segi A    and resi  150 and name "OG"  )
+     (segi A    and resi  601 and name "C2'" )  4.258 1.0 1.0
+assi (segi A    and resi   74 and name "CD1" )
+     (segi A    and resi  601 and name "N1Y" )  3.525 1.0 1.0
+assi (segi A    and resi   80 and name "O"   )
+     (segi A    and resi  601 and name "O2A" )  3.616 1.0 1.0
+assi (segi A    and resi  197 and name "CD1" )
+     (segi A    and resi  601 and name "C5Y" )  3.822 1.0 1.0

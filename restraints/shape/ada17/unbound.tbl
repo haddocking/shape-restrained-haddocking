@@ -1,0 +1,5 @@
+! Connectivity restraints
+! Ion restraints
+assi (segid A and resid 2) (segid A and resid 415 and name "NE2") 1.96 0.1 0.1
+assi (segid A and resid 2) (segid A and resid 405 and name "NE2") 2.05 0.1 0.1
+assi (segid A and resid 2) (segid A and resid 409 and name "NE2") 2.15 0.1 0.1

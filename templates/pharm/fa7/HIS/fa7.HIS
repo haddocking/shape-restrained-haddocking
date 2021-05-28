@@ -1,0 +1,13 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: fa7_unbound.pdb 
+HIS ( 57 )	-->	HIS+
+HIS ( 220 )	-->	HISD
+HIS ( 292 )	-->	HISD
+HIS ( 75 )	-->	HISE
+HIS ( 80 )	-->	HISE
+HIS ( 105 )	-->	HISE
+HIS ( 113 )	-->	HISE
+HIS ( 121 )	-->	HISE
+HIS ( 217 )	-->	HISE
+HIS ( 243 )	-->	HISE
+HIS ( 302 )	-->	HISE

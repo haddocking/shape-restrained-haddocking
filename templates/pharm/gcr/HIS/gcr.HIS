@@ -1,0 +1,6 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: gcr_unbound.pdb 
+HIS ( 781 )	-->	HISD
+HIS ( 594 )	-->	HISE
+HIS ( 651 )	-->	HISE
+HIS ( 732 )	-->	HISE

@@ -1,0 +1,21 @@
+! Connectivity restraints
+! Ligand restraints
+! Restraints to fix 'UMP' in its initial position
+assi (segi A    and resi  166 and name "NH2" )
+     (segi A    and resi  300 and name "P"   )  3.618 1.0 1.0
+assi (segi A    and resi  146 and name "SG"  )
+     (segi A    and resi  300 and name "C5'" )  3.865 1.0 1.0
+assi (segi A    and resi   21 and name "NE"  )
+     (segi A    and resi  300 and name "O5'" )  3.803 1.0 1.0
+assi (segi A    and resi  209 and name "OH"  )
+     (segi A    and resi  300 and name "C4'" )  3.885 1.0 1.0
+assi (segi A    and resi  167 and name "OG"  )
+     (segi A    and resi  300 and name "C3'" )  3.208 1.0 1.0
+assi (segi A    and resi  207 and name "NE2" )
+     (segi A    and resi  300 and name "O3'" )  2.640 1.0 1.0
+assi (segi A    and resi  169 and name "N"   )
+     (segi A    and resi  300 and name "O2Y"  )  3.036 1.0 1.0
+assi (segi A    and resi  177 and name "OD1" )
+     (segi A    and resi  300 and name "N3Y"  )  3.127 1.0 1.0
+assi (segi A    and resi  147 and name "CD2" )
+     (segi A    and resi  300 and name "O4Y"  )  3.175 1.0 1.0

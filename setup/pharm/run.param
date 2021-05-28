@@ -1,0 +1,13 @@
+UNAMBIG_TBL=../../restraints/COMPLEX/unambig-COMPLEX.tbl
+AMBIG_TBL=../../restraints/COMPLEX/ambig-COMPLEX.tbl
+HADDOCK_DIR=/trinity/login/pkoukos/software/haddock-2.4-2021.01
+N_COMP=3
+PDB_FILE1=../../receptors/COMPLEX/COMPLEX_unbound.pdb
+PDB_FILE2=../../conformers/COMPLEX/COMPLEX_conf_001.pdb
+PDB_FILE3=../../shapes/COMPLEX/shape_COMPLEX.pdb
+PDB_LIST2=./conformers.list
+PROJECT_DIR=./
+PROT_SEGID_1=A
+PROT_SEGID_2=B
+PROT_SEGID_3=S
+RUN_NUMBER=ZZ

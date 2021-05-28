@@ -1,0 +1,9 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: bace1_unbound.pdb 
+HIS ( 242 )	-->	HISD
+HIS ( 421 )	-->	HISD
+HIS ( 423 )	-->	HISD
+HIS ( 106 )	-->	HISE
+HIS ( 110 )	-->	HISE
+HIS ( 150 )	-->	HISE
+HIS ( 206 )	-->	HISE

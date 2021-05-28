@@ -1,0 +1,14 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: cah2_unbound.pdb 
+HIS ( 96 )	-->	HIS+
+HIS ( 107 )	-->	HIS+
+HIS ( 3 )	-->	HISD
+HIS ( 94 )	-->	HISD
+HIS ( 122 )	-->	HISD
+HIS ( 4 )	-->	HISE
+HIS ( 10 )	-->	HISE
+HIS ( 15 )	-->	HISE
+HIS ( 17 )	-->	HISE
+HIS ( 36 )	-->	HISE
+HIS ( 64 )	-->	HISE
+HIS ( 119 )	-->	HISE

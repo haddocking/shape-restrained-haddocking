@@ -1,0 +1,24 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: pygm_unbound.pdb 
+HIS ( 57 )	-->	HISD
+HIS ( 443 )	-->	HISD
+HIS ( 556 )	-->	HISD
+HIS ( 632 )	-->	HISD
+HIS ( 767 )	-->	HISD
+HIS ( 768 )	-->	HISD
+HIS ( 34 )	-->	HISE
+HIS ( 36 )	-->	HISE
+HIS ( 62 )	-->	HISE
+HIS ( 73 )	-->	HISE
+HIS ( 201 )	-->	HISE
+HIS ( 208 )	-->	HISE
+HIS ( 341 )	-->	HISE
+HIS ( 377 )	-->	HISE
+HIS ( 390 )	-->	HISE
+HIS ( 399 )	-->	HISE
+HIS ( 450 )	-->	HISE
+HIS ( 459 )	-->	HISE
+HIS ( 477 )	-->	HISE
+HIS ( 571 )	-->	HISE
+HIS ( 582 )	-->	HISE
+HIS ( 614 )	-->	HISE

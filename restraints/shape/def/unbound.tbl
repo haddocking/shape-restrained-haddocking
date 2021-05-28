@@ -1,0 +1,6 @@
+! Connectivity restraints
+! Ion restraints
+assi (segid A and resid 169) (segid A and resid 136 and name "NE2") 2.11 0.1 0.1
+assi (segid A and resid 169) (segid A and resid 132 and name "NE2") 2.12 0.1 0.1
+assi (segid A and resid 169) (segid A and resid 90 and name "SG") 2.24 0.1 0.1
+assi (segid A and resid 169) (segid A and resid 50 and name "NE2") 3.27 0.1 0.1

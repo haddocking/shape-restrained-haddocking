@@ -1,0 +1,28 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: fnta_unbound.pdb 
+HIS ( 1375 )	-->	HIS+
+HIS ( 272 )	-->	HISD
+HIS ( 1109 )	-->	HISD
+HIS ( 1362 )	-->	HISD
+HIS ( 135 )	-->	HISE
+HIS ( 170 )	-->	HISE
+HIS ( 171 )	-->	HISE
+HIS ( 201 )	-->	HISE
+HIS ( 205 )	-->	HISE
+HIS ( 241 )	-->	HISE
+HIS ( 306 )	-->	HISE
+HIS ( 367 )	-->	HISE
+HIS ( 1030 )	-->	HISE
+HIS ( 1066 )	-->	HISE
+HIS ( 1078 )	-->	HISE
+HIS ( 1080 )	-->	HISE
+HIS ( 1149 )	-->	HISE
+HIS ( 1194 )	-->	HISE
+HIS ( 1248 )	-->	HISE
+HIS ( 1312 )	-->	HISE
+HIS ( 1316 )	-->	HISE
+HIS ( 1327 )	-->	HISE
+HIS ( 1331 )	-->	HISE
+HIS ( 1383 )	-->	HISE
+HIS ( 1398 )	-->	HISE
+HIS ( 1414 )	-->	HISE

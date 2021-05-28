@@ -1,0 +1,17 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: vgfr2_unbound.pdb 
+HIS ( 894 )	-->	HISD
+HIS ( 1173 )	-->	HISD
+HIS ( 1178 )	-->	HISD
+HIS ( 876 )	-->	HISE
+HIS ( 879 )	-->	HISE
+HIS ( 891 )	-->	HISE
+HIS ( 895 )	-->	HISE
+HIS ( 1004 )	-->	HISE
+HIS ( 1026 )	-->	HISE
+HIS ( 1144 )	-->	HISE
+HIS ( 1159 )	-->	HISE
+HIS ( 1174 )	-->	HISE
+HIS ( 1175 )	-->	HISE
+HIS ( 1176 )	-->	HISE
+HIS ( 1177 )	-->	HISE

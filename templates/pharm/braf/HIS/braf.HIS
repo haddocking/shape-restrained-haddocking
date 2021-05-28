@@ -1,0 +1,10 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: braf_unbound.pdb 
+HIS ( 477 )	-->	HISE
+HIS ( 510 )	-->	HISE
+HIS ( 539 )	-->	HISE
+HIS ( 540 )	-->	HISE
+HIS ( 542 )	-->	HISE
+HIS ( 568 )	-->	HISE
+HIS ( 574 )	-->	HISE
+HIS ( 585 )	-->	HISE

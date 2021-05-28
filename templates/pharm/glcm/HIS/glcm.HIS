@@ -1,0 +1,21 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: glcm_unbound.pdb 
+HIS ( 60 )	-->	HIS+
+HIS ( 145 )	-->	HIS+
+HIS ( 162 )	-->	HIS+
+HIS ( 206 )	-->	HIS+
+HIS ( 223 )	-->	HIS+
+HIS ( 255 )	-->	HIS+
+HIS ( 273 )	-->	HIS+
+HIS ( 274 )	-->	HIS+
+HIS ( 290 )	-->	HIS+
+HIS ( 306 )	-->	HIS+
+HIS ( 311 )	-->	HIS+
+HIS ( 328 )	-->	HIS+
+HIS ( 365 )	-->	HIS+
+HIS ( 374 )	-->	HIS+
+HIS ( 419 )	-->	HIS+
+HIS ( 422 )	-->	HIS+
+HIS ( 451 )	-->	HIS+
+HIS ( 490 )	-->	HIS+
+HIS ( 495 )	-->	HIS+

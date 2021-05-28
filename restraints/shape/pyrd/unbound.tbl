@@ -1,0 +1,37 @@
+! Connectivity restraints
+assign (segid A and resi 38 and name CA) (segid A and resi 296 and name CA) 23.816 0.0 0.0
+assign (segid A and resi 69 and name CA) (segid A and resi 271 and name CA) 43.982 0.0 0.0
+! Ligand restraints
+! Restraints to fix 'FMN' in its initial position
+assi (segi A    and resi  357 and name "OG1" )
+     (segi A    and resi  398 and name "P"   )  3.637 1.0 1.0
+assi (segi A    and resi  356 and name "N"   )
+     (segi A    and resi  398 and name "O2P" )  3.045 1.0 1.0
+assi (segi A    and resi  306 and name "N"   )
+     (segi A    and resi  398 and name "O3P" )  2.858 1.0 1.0
+assi (segi A    and resi  334 and name "CA"  )
+     (segi A    and resi  398 and name "C5'" )  3.648 1.0 1.0
+assi (segi A    and resi  333 and name "CG1" )
+     (segi A    and resi  398 and name "O5'" )  3.533 1.0 1.0
+assi (segi A    and resi  285 and name "CG2" )
+     (segi A    and resi  398 and name "C4'" )  3.937 1.0 1.0
+assi (segi A    and resi  305 and name "CB"  )
+     (segi A    and resi  398 and name "O4'" )  3.466 1.0 1.0
+assi (segi A    and resi  255 and name "NZ"  )
+     (segi A    and resi  398 and name "O3'" )  2.950 1.0 1.0
+assi (segi A    and resi   96 and name "O"   )
+     (segi A    and resi  398 and name "C2'" )  3.379 1.0 1.0
+assi (segi A    and resi  284 and name "OD1" )
+     (segi A    and resi  398 and name "C1'" )  3.756 1.0 1.0
+assi (segi A    and resi  181 and name "ND2" )
+     (segi A    and resi  398 and name "O2Y"  )  2.904 1.0 1.0
+assi (segi A    and resi  120 and name "OG"  )
+     (segi A    and resi  398 and name "N3"  )  3.032 1.0 1.0
+assi (segi A    and resi   97 and name "CA"  )
+     (segi A    and resi  398 and name "C4A" )  3.530 1.0 1.0
+assi (segi A    and resi  100 and name "NZ"  )
+     (segi A    and resi  398 and name "O4"  )  2.869 1.0 1.0
+assi (segi A    and resi  145 and name "ND2" )
+     (segi A    and resi  398 and name "C7Y"  )  3.435 1.0 1.0
+assi (segi A    and resi  147 and name "CE1" )
+     (segi A    and resi  398 and name "C7M" )  3.535 1.0 1.0

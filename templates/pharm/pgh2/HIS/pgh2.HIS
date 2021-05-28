@@ -1,0 +1,36 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: pgh2_unbound.pdb 
+HIS ( 306 )	-->	HIS+
+HIS ( 858 )	-->	HIS+
+HIS ( 80 )	-->	HISD
+HIS ( 193 )	-->	HISD
+HIS ( 200 )	-->	HISD
+HIS ( 372 )	-->	HISD
+HIS ( 374 )	-->	HISD
+HIS ( 403 )	-->	HISD
+HIS ( 632 )	-->	HISD
+HIS ( 745 )	-->	HISD
+HIS ( 780 )	-->	HISD
+HIS ( 924 )	-->	HISD
+HIS ( 955 )	-->	HISD
+HIS ( 75 )	-->	HISE
+HIS ( 119 )	-->	HISE
+HIS ( 190 )	-->	HISE
+HIS ( 212 )	-->	HISE
+HIS ( 218 )	-->	HISE
+HIS ( 228 )	-->	HISE
+HIS ( 264 )	-->	HISE
+HIS ( 295 )	-->	HISE
+HIS ( 337 )	-->	HISE
+HIS ( 342 )	-->	HISE
+HIS ( 627 )	-->	HISE
+HIS ( 671 )	-->	HISE
+HIS ( 742 )	-->	HISE
+HIS ( 752 )	-->	HISE
+HIS ( 764 )	-->	HISE
+HIS ( 770 )	-->	HISE
+HIS ( 816 )	-->	HISE
+HIS ( 847 )	-->	HISE
+HIS ( 889 )	-->	HISE
+HIS ( 894 )	-->	HISE
+HIS ( 926 )	-->	HISE

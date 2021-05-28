@@ -1,0 +1,8 @@
+assign (segid A and resi 236 and name CA) (segid A and resi 291 and name CA) 8.361 0.0 0.0
+assign (segid A and resi 150 and name CA) (segid A and resi 336 and name CA) 39.131 0.0 0.0
+! Ion restraints
+assi (segid A and resid 603) (segid A and resid 112 and name "OG1") 2.67 0.1 0.1
+assi (segid A and resid 603) (segid A and resid 232 and name "O") 3.56 0.1 0.1
+! Restraints to fix 'ADP' in its initial position
+assi (segi A    and resi  601 and name "PB"  )
+     (segi A    and resi  601 and name "PB"  )  0.000 1.0 1.0

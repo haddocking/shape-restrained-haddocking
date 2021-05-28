@@ -1,0 +1,3 @@
+! Connectivity restraints
+assign (segid A and resi 33 and name CA) (segid A and resi 200 and name CA) 23.874 0.0 0.0
+assign (segid A and resi 29 and name CA) (segid A and resi 273 and name CA) 24.661 0.0 0.0

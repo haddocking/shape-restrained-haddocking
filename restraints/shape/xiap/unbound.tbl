@@ -1,0 +1,6 @@
+! Connectivity restraints
+! Ion restraints
+assi (segid A and resid 502) (segid A and resid 300 and name "SG") 2.10 0.1 0.1
+assi (segid A and resid 502) (segid A and resid 303 and name "SG") 2.10 0.1 0.1
+assi (segid A and resid 502) (segid A and resid 327 and name "SG") 2.10 0.1 0.1
+assi (segid A and resid 502) (segid A and resid 320 and name "ND1") 2.21 0.1 0.1

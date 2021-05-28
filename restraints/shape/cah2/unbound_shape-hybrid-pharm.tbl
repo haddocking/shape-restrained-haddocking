@@ -1,0 +1,3 @@
+assi (segid S and resid * and (attr q == 0.10)) (segid B and name N1) 1.0 1.0 0.0
+assi (segid S and resid * and (attr q == 0.20)) (segid B and name O1) 1.0 1.0 0.0
+assi (segid S and resid * and (attr q == 0.20)) (segid B and name O2) 1.0 1.0 0.0

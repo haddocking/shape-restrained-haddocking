@@ -1,0 +1,8 @@
+assi (segid S and resid *) (segid B and name  N1 ) 1.0 1.0 0.0
+assi (segid S and resid *) (segid B and name  S1 ) 1.0 1.0 0.0
+assi (segid S and resid *) (segid B and name  O1 ) 1.0 1.0 0.0
+assi (segid S and resid *) (segid B and name  O2 ) 1.0 1.0 0.0
+assi (segid S and resid *) (segid B and name  C1 ) 1.0 1.0 0.0
+assi (segid S and resid *) (segid B and name  F1 ) 1.0 1.0 0.0
+assi (segid S and resid *) (segid B and name  F2 ) 1.0 1.0 0.0
+assi (segid S and resid *) (segid B and name  F3 ) 1.0 1.0 0.0

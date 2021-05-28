@@ -1,0 +1,9 @@
+! Connectivity restraints
+! Ion restraints
+assi (segid A and resid 907) (segid A and resid 117 and name "OD1") 1.99 0.1 0.1
+assi (segid A and resid 907) (segid A and resid 121 and name "OD2") 2.37 0.1 0.1
+assi (segid A and resid 907) (segid A and resid 126 and name "NH2") 3.96 0.1 0.1
+assi (segid A and resid 908) (segid A and resid 257 and name "OD2") 2.35 0.1 0.1
+assi (segid A and resid 909) (segid A and resid 121 and name "OD2") 1.98 0.1 0.1
+assi (segid A and resid 909) (segid A and resid 117 and name "OD2") 2.10 0.1 0.1
+assi (segid A and resid 909) (segid A and resid 185 and name "NE2") 3.88 0.1 0.1

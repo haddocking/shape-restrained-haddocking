@@ -1,0 +1,1 @@
+Removal of irrelevant HETATM HOH and SO4. Renumbered chain B into A (resi +1000) and trimmed the receptor because of large size.
