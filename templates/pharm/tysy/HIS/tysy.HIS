@@ -1,0 +1,13 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: tysy_unbound.pdb 
+HIS ( 32 )	-->	HIS+
+HIS ( 51 )	-->	HIS+
+HIS ( 57 )	-->	HIS+
+HIS ( 73 )	-->	HIS+
+HIS ( 108 )	-->	HIS+
+HIS ( 147 )	-->	HIS+
+HIS ( 186 )	-->	HIS+
+HIS ( 207 )	-->	HIS+
+HIS ( 212 )	-->	HIS+
+HIS ( 217 )	-->	HIS+
+HIS ( 255 )	-->	HIS+

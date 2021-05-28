@@ -1,0 +1,4 @@
+! Ion restraints
+! Restraints to fix 'NDP' in its initial position
+assi (segi A    and resi  188 and name "PA"  )
+     (segi A    and resi  188 and name "PA"  )  0.000 1.0 1.0

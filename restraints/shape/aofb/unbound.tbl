@@ -1,0 +1,41 @@
+! Connectivity restraints
+! Ligand restraints
+! Restraints to fix 'FAD' in its initial position
+assi (segi A    and resi   15 and name "CB"  )
+     (segi A    and resi  600 and name "P"   )  3.897 1.0 1.0
+assi (segi A    and resi   42 and name "NE"  )
+     (segi A    and resi  600 and name "PA"  )  3.646 1.0 1.0
+assi (segi A    and resi  426 and name "N"   )
+     (segi A    and resi  600 and name "O2P" )  2.753 1.0 1.0
+assi (segi A    and resi  439 and name "CB"  )
+     (segi A    and resi  600 and name "O5'" )  3.604 1.0 1.0
+assi (segi A    and resi   43 and name "CG2" )
+     (segi A    and resi  600 and name "O4'" )  3.599 1.0 1.0
+assi (segi A    and resi  434 and name "O"   )
+     (segi A    and resi  600 and name "C3'" )  3.771 1.0 1.0
+assi (segi A    and resi   34 and name "OE1" )
+     (segi A    and resi  600 and name "C1B" )  3.427 1.0 1.0
+assi (segi A    and resi  435 and name "CD1" )
+     (segi A    and resi  600 and name "N1"  )  3.444 1.0 1.0
+assi (segi A    and resi  264 and name "CG2" )
+     (segi A    and resi  600 and name "N1A" )  4.986 1.0 1.0
+assi (segi A    and resi  436 and name "N"   )
+     (segi A    and resi  600 and name "C2Y"  )  3.571 1.0 1.0
+assi (segi A    and resi  393 and name "O"   )
+     (segi A    and resi  600 and name "C2B" )  3.376 1.0 1.0
+assi (segi A    and resi   59 and name "N"   )
+     (segi A    and resi  600 and name "N3"  )  3.597 1.0 1.0
+assi (segi A    and resi   11 and name "N"   )
+     (segi A    and resi  600 and name "N3A" )  3.849 1.0 1.0
+assi (segi A    and resi   13 and name "N"   )
+     (segi A    and resi  600 and name "C4B" )  3.698 1.0 1.0
+assi (segi A    and resi   58 and name "CA"  )
+     (segi A    and resi  600 and name "C4X" )  3.338 1.0 1.0
+assi (segi A    and resi  263 and name "O"   )
+     (segi A    and resi  600 and name "C5B" )  3.477 1.0 1.0
+assi (segi A    and resi  398 and name "CD1" )
+     (segi A    and resi  600 and name "C5X" )  3.412 1.0 1.0
+assi (segi A    and resi  388 and name "CD1" )
+     (segi A    and resi  600 and name "C7M" )  3.538 1.0 1.0
+assi (segi A    and resi  397 and name "SG"  )
+     (segi A    and resi  600 and name "C8Y"  )  2.753 1.0 1.0

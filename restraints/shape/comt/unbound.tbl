@@ -1,0 +1,29 @@
+! Connectivity restraints
+! Ion restraints
+assi (segid A and resid 300) (segid A and resid 141 and name "OD1") 2.07 0.1 0.1
+assi (segid A and resid 300) (segid A and resid 170 and name "OD1") 2.13 0.1 0.1
+assi (segid A and resid 300) (segid A and resid 169 and name "OD2") 2.15 0.1 0.1
+assi (segid A and resid 300) (segid A and resid 144 and name "NZ") 3.72 0.1 0.1
+! Restraints to fix 'SAM' in its initial position
+assi (segi A    and resi   72 and name "OG"  )
+     (segi A    and resi  301 and name "N"   )  2.717 1.0 1.0
+assi (segi A    and resi   42 and name "N"   )
+     (segi A    and resi  301 and name "O"   )  2.812 1.0 1.0
+assi (segi A    and resi  141 and name "OD2" )
+     (segi A    and resi  301 and name "CB"  )  3.260 1.0 1.0
+assi (segi A    and resi   66 and name "O"   )
+     (segi A    and resi  301 and name "CG"  )  3.282 1.0 1.0
+assi (segi A    and resi   40 and name "SD"  )
+     (segi A    and resi  301 and name "SD"  )  3.544 1.0 1.0
+assi (segi A    and resi   90 and name "OE1" )
+     (segi A    and resi  301 and name "C3'" )  3.583 1.0 1.0
+assi (segi A    and resi  119 and name "N"   )
+     (segi A    and resi  301 and name "N1Y" )  2.756 1.0 1.0
+assi (segi A    and resi  117 and name "O"   )
+     (segi A    and resi  301 and name "C2Y" )  3.434 1.0 1.0
+assi (segi A    and resi   91 and name "N"   )
+     (segi A    and resi  301 and name "N3"  )  3.222 1.0 1.0
+assi (segi A    and resi  143 and name "CD2" )
+     (segi A    and resi  301 and name "C8"  )  3.377 1.0 1.0
+assi (segi A    and resi  142 and name "CB"  )
+     (segi A    and resi  301 and name "N9"  )  3.711 1.0 1.0

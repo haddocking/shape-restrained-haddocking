@@ -1,0 +1,4 @@
+! Ion restraints
+assi (segid A and resid 401) (segid A and resid 269 and name "OD2") 1.92 0.1 0.1
+assi (segid A and resid 401) (segid A and resid 181 and name "OD2") 2.03 0.1 0.1
+assi (segid A and resid 401) (segid A and resid 183 and name "ND1") 2.05 0.1 0.1

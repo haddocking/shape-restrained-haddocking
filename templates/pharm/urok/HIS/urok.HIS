@@ -1,0 +1,11 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: urok_unbound.pdb 
+HIS ( 22 )	-->	HISD
+HIS ( 45 )	-->	HISD
+HIS ( 235 )	-->	HISD
+HIS ( 243 )	-->	HISD
+HIS ( 83 )	-->	HISE
+HIS ( 93 )	-->	HISE
+HIS ( 94 )	-->	HISE
+HIS ( 163 )	-->	HISE
+HIS ( 170 )	-->	HISE

@@ -1,0 +1,9 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: casp3_unbound.pdb 
+HIS ( 56 )	-->	HIS+
+HIS ( 108 )	-->	HIS+
+HIS ( 121 )	-->	HIS+
+HIS ( 185 )	-->	HIS+
+HIS ( 234 )	-->	HIS+
+HIS ( 257 )	-->	HIS+
+HIS ( 277 )	-->	HIS+

@@ -1,0 +1,8 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: hivint_unbound.pdb 
+HIS ( 67 )	-->	HIS+
+HIS ( 78 )	-->	HIS+
+HIS ( 114 )	-->	HIS+
+HIS ( 171 )	-->	HIS+
+HIS ( 183 )	-->	HIS+
+HIS ( 185 )	-->	HIS+

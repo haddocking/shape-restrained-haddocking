@@ -1,0 +1,8 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: rock1_unbound.pdb 
+HIS ( 95 )	-->	HIS+
+HIS ( 190 )	-->	HIS+
+HIS ( 196 )	-->	HIS+
+HIS ( 211 )	-->	HIS+
+HIS ( 293 )	-->	HIS+
+HIS ( 335 )	-->	HIS+

@@ -1,0 +1,8 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: cp3a4_unbound.pdb 
+HIS ( 54 )	-->	HISD
+HIS ( 324 )	-->	HISD
+HIS ( 402 )	-->	HISD
+HIS ( 28 )	-->	HISE
+HIS ( 30 )	-->	HISE
+HIS ( 65 )	-->	HISE

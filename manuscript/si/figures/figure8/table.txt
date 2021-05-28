@@ -1,0 +1,7 @@
+protocol best top4 top1
+FlexX 65 57 52
+Surflex 84 72 56
+Glide 79 75 65
+Gold 77 74 64
+Shape 80 68 57
+Pharm 73 59 52

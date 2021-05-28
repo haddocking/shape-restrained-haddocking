@@ -1,0 +1,14 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: wee1_unbound.pdb 
+HIS ( 358 )	-->	HISD
+HIS ( 300 )	-->	HISE
+HIS ( 350 )	-->	HISE
+HIS ( 356 )	-->	HISE
+HIS ( 371 )	-->	HISE
+HIS ( 418 )	-->	HISE
+HIS ( 424 )	-->	HISE
+HIS ( 466 )	-->	HISE
+HIS ( 494 )	-->	HISE
+HIS ( 524 )	-->	HISE
+HIS ( 551 )	-->	HISE
+HIS ( 566 )	-->	HISE

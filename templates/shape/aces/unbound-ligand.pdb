@@ -1,0 +1,23 @@
+HETATM 4292  CAA UNK B   1       3.637  70.067  68.701  1.00 26.02           C  
+HETATM 4293  CAB UNK B   1       3.915  69.738  67.374  1.00 27.25           C  
+HETATM 4294  CAC UNK B   1       5.208  69.871  66.893  1.00 26.89           C  
+HETATM 4295  CAD UNK B   1       6.232  70.332  67.717  1.00 25.98           C  
+HETATM 4296  CAE UNK B   1       5.964  70.656  69.039  1.00 28.68           C  
+HETATM 4297  CAF UNK B   1       4.663  70.520  69.548  1.00 27.47           C  
+HETATM 4298  CAG UNK B   1       4.595  69.115  64.750  1.00 26.85           C  
+HETATM 4299  CAH UNK B   1       3.271  68.959  65.152  1.00 26.77           C  
+HETATM 4300  CAI UNK B   1       2.947  69.273  66.478  1.00 27.82           C  
+HETATM 4301  CAJ UNK B   1       2.307  68.447  64.276  1.00 30.50           C  
+HETATM 4302  CAK UNK B   1       2.702  68.592  62.819  1.00 24.36           C  
+HETATM 4303  CAL UNK B   1       4.113  68.007  62.638  1.00 25.60           C  
+HETATM 4304  CAM UNK B   1       5.069  68.860  63.440  1.00 26.93           C  
+HETATM 4305  CAN UNK B   1       6.849  69.738  65.154  1.00 28.77           C  
+HETATM 4306  CAR UNK B   1       2.215  66.918  64.558  1.00 24.51           C  
+HETATM 4307  CAS UNK B   1       4.185  66.685  63.058  1.00 25.17           C  
+HETATM 4308  CAT UNK B   1       3.309  66.168  64.005  1.00 27.83           C  
+HETATM 4309  CAU UNK B   1       3.495  64.808  64.260  1.00 26.13           C  
+HETATM 4310  CAV UNK B   1       3.293  64.465  65.716  1.00 35.42           C  
+HETATM 4311  NAO UNK B   1       1.686  69.121  66.915  1.00 24.02           N  
+HETATM 4312  NAQ UNK B   1       5.486  69.582  65.618  1.00 25.58           N  
+HETATM 4313 CLA  UNK B   1       7.304  71.190  70.052  1.00 29.45          CL  
+END                                                                             

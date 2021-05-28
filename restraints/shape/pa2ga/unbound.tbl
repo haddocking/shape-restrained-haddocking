@@ -1,0 +1,10 @@
+! Connectivity restraints
+! Ion restraints
+assi (segid A and resid 191) (segid A and resid 27 and name "O") 2.40 0.1 0.1
+assi (segid A and resid 191) (segid A and resid 31 and name "O") 2.45 0.1 0.1
+assi (segid A and resid 191) (segid A and resid 29 and name "O") 2.46 0.1 0.1
+assi (segid A and resid 191) (segid A and resid 48 and name "OD2") 2.53 0.1 0.1
+assi (segid A and resid 192) (segid A and resid 114 and name "OD1") 2.45 0.1 0.1
+assi (segid A and resid 192) (segid A and resid 25 and name "O") 2.45 0.1 0.1
+assi (segid A and resid 192) (segid A and resid 112 and name "O") 2.46 0.1 0.1
+assi (segid A and resid 192) (segid A and resid 23 and name "O") 2.56 0.1 0.1

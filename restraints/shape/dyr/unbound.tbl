@@ -1,0 +1,31 @@
+! Connectivity restraints
+! Ligand restraints
+! Restraints to fix 'NDP' in its initial position
+assi (segi A    and resi   54 and name "NZ"  )
+     (segi A    and resi  193 and name "P2B" )  3.597 1.0 1.0
+assi (segi A    and resi  117 and name "N"   )
+     (segi A    and resi  193 and name "PA"  )  3.534 1.0 1.0
+assi (segi A    and resi   55 and name "CD"  )
+     (segi A    and resi  193 and name "PN"  )  3.818 1.0 1.0
+assi (segi A    and resi   75 and name "O"   )
+     (segi A    and resi  193 and name "C1B" )  3.290 1.0 1.0
+assi (segi A    and resi   16 and name "O"   )
+     (segi A    and resi  193 and name "C1D" )  3.826 1.0 1.0
+assi (segi A    and resi   76 and name "C"   )
+     (segi A    and resi  193 and name "O1X" )  3.598 1.0 1.0
+assi (segi A    and resi   59 and name "OG"  )
+     (segi A    and resi  193 and name "C2D" )  3.488 1.0 1.0
+assi (segi A    and resi   56 and name "OG1" )
+     (segi A    and resi  193 and name "O2A" )  2.518 1.0 1.0
+assi (segi A    and resi   20 and name "C"   )
+     (segi A    and resi  193 and name "O2D" )  3.642 1.0 1.0
+assi (segi A    and resi  118 and name "N"   )
+     (segi A    and resi  193 and name "O2N" )  2.704 1.0 1.0
+assi (segi A    and resi  121 and name "OH"  )
+     (segi A    and resi  193 and name "C4N" )  3.211 1.0 1.0
+assi (segi A    and resi  146 and name "OG1" )
+     (segi A    and resi  193 and name "O4D" )  3.352 1.0 1.0
+assi (segi A    and resi  115 and name "O"   )
+     (segi A    and resi  193 and name "C5N" )  2.842 1.0 1.0
+assi (segi A    and resi  119 and name "OG"  )
+     (segi A    and resi  193 and name "N7A" )  3.433 1.0 1.0

@@ -1,0 +1,7 @@
+assign (segid A and resi 150 and name CA) (segid A and resi 336 and name CA) 13.307 0.0 0.0
+assign (segid A and resi 93 and name CA) (segid A and resi 344 and name CA) 18.646 0.0 0.0
+! Ion restraints
+assi (segid A and resid 400) (segid A and resid 17 and name "NE2") 2.02 0.1 0.1
+assi (segid A and resid 400) (segid A and resid 15 and name "NE2") 2.07 0.1 0.1
+assi (segid A and resid 400) (segid A and resid 214 and name "NE2") 2.37 0.1 0.1
+assi (segid A and resid 400) (segid A and resid 295 and name "OD2") 2.41 0.1 0.1

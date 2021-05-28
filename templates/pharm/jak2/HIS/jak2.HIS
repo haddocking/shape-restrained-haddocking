@@ -1,0 +1,10 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: jak2_unbound.pdb 
+HIS ( 944 )	-->	HISD
+HIS ( 1077 )	-->	HISD
+HIS ( 848 )	-->	HISE
+HIS ( 886 )	-->	HISE
+HIS ( 891 )	-->	HISE
+HIS ( 907 )	-->	HISE
+HIS ( 950 )	-->	HISE
+HIS ( 974 )	-->	HISE

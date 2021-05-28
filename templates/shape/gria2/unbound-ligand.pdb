@@ -1,0 +1,17 @@
+HETATM 2010  CAD UNK B   1       7.449  32.604   0.052  1.00 24.19           C  
+HETATM 2011  CAE UNK B   1       6.727  35.256  -0.706  1.00 20.96           C  
+HETATM 2012  CAJ UNK B   1       8.810  32.736  -3.426  1.00 20.22           C  
+HETATM 2013  CAK UNK B   1       8.452  34.047  -3.801  1.00 20.32           C  
+HETATM 2014  CAL UNK B   1       6.753  33.446   0.943  1.00 25.52           C  
+HETATM 2015  CAM UNK B   1       7.780  33.101  -1.221  1.00 21.66           C  
+HETATM 2016  CAN UNK B   1       7.420  34.422  -1.599  1.00 19.91           C  
+HETATM 2017  CAO UNK B   1       6.398  34.749   0.571  1.00 26.07           C  
+HETATM 2018  NAF UNK B   1       6.338  33.207   2.186  1.00 27.46           N  
+HETATM 2019  NAG UNK B   1       8.464  32.282  -2.132  1.00 20.67           N  
+HETATM 2020  NAH UNK B   1       7.765  34.876  -2.893  1.00 19.00           N  
+HETATM 2021  NAP UNK B   1       5.760  35.298   1.586  1.00 26.38           N  
+HETATM 2022  OAA UNK B   1       9.404  31.935  -4.137  1.00 21.84           O  
+HETATM 2023  OAB UNK B   1       8.698  34.562  -4.883  1.00 18.42           O  
+HETATM 2024  OAC UNK B   1       5.256  36.631   1.517  1.00 31.21           O  
+HETATM 2025  OAI UNK B   1       5.684  34.368   2.661  1.00 31.66           O  
+END                                                                             

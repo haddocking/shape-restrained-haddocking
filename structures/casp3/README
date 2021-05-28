@@ -1,0 +1,5 @@
+Removal of irrelevant HETATM HOH
+
+Joined chains A+B becaue binding site lies at their interface
+
+Removed everything in chain I except for compound MY2 to comply with DUD-E

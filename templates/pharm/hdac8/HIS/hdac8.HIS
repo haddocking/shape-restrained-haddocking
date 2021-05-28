@@ -1,0 +1,15 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: hdac8_unbound.pdb 
+HIS ( 42 )	-->	HISD
+HIS ( 71 )	-->	HISD
+HIS ( 78 )	-->	HISD
+HIS ( 142 )	-->	HISD
+HIS ( 143 )	-->	HISD
+HIS ( 334 )	-->	HISD
+HIS ( 51 )	-->	HISE
+HIS ( 90 )	-->	HISE
+HIS ( 180 )	-->	HISE
+HIS ( 181 )	-->	HISE
+HIS ( 201 )	-->	HISE
+HIS ( 360 )	-->	HISE
+HIS ( 375 )	-->	HISE

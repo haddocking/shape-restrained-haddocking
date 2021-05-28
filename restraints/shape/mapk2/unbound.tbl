@@ -1,0 +1,8 @@
+! Connectivity restraints
+assign (segid A and resi 260 and name CA) (segid A and resi 338 and name CA) 7.711 0.0 0.0
+assign (segid A and resi 180 and name CA) (segid A and resi 281 and name CA) 38.899 0.0 0.0
+! Ion restraints
+assi (segid A and resid 365) (segid A and resid 112 and name "O") 2.20 0.1 0.1
+assi (segid A and resid 365) (segid A and resid 114 and name "O") 2.24 0.1 0.1
+assi (segid A and resid 365) (segid A and resid 117 and name "O") 2.41 0.1 0.1
+assi (segid A and resid 365) (segid A and resid 113 and name "C") 3.60 0.1 0.1

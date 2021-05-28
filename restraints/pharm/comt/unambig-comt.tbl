@@ -1,0 +1,10 @@
+assign (segid A and resi 186 and name CA) (segid A and resi 218 and name CA) 26.460 0.0 0.0
+assign (segid A and resi 115 and name CA) (segid A and resi 218 and name CA) 13.637 0.0 0.0
+! Ion restraints
+assi (segid A and resid 217) (segid A and resid 141 and name "OD1") 2.02 0.1 0.1
+assi (segid A and resid 217) (segid A and resid 170 and name "OD1") 2.07 0.1 0.1
+assi (segid A and resid 217) (segid A and resid 169 and name "OD2") 2.28 0.1 0.1
+assi (segid A and resid 217) (segid A and resid 144 and name "NZ") 3.77 0.1 0.1
+! Restraints to fix 'SFG' in its initial position
+assi (segi A    and resi  218 and name "N"   )
+     (segi A    and resi  218 and name "N"   )  0.000 1.0 1.0

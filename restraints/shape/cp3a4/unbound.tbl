@@ -1,0 +1,45 @@
+! Connectivity restraints
+assign (segid A and resi 246 and name CA) (segid A and resi 276 and name CA) 20.442 0.0 0.0
+assign (segid A and resi 219 and name CA) (segid A and resi 280 and name CA) 39.947 0.0 0.0
+assign (segid A and resi 44 and name CA) (segid A and resi 311 and name CA) 38.232 0.0 0.0
+assign (segid A and resi 40 and name CA) (segid A and resi 455 and name CA) 43.204 0.0 0.0
+assign (segid A and resi 279 and name CA) (segid A and resi 386 and name CA) 44.878 0.0 0.0
+assign (segid A and resi 269 and name CA) (segid A and resi 415 and name CA) 40.733 0.0 0.0
+! Ligand restraints
+! Restraints to fix 'HEB' in its initial position
+assi (segi A    and resi  105 and name "NH1" )
+     (segi A    and resi  508 and name "CAA" )  3.292 1.0 1.0
+assi (segi A    and resi  309 and name "CB"  )
+     (segi A    and resi  508 and name "CAB" )  3.408 1.0 1.0
+assi (segi A    and resi  444 and name "CA"  )
+     (segi A    and resi  508 and name "CAC" )  3.755 1.0 1.0
+assi (segi A    and resi  442 and name "SG"  )
+     (segi A    and resi  508 and name "NA"  )  3.240 1.0 1.0
+assi (segi A    and resi  435 and name "O"   )
+     (segi A    and resi  508 and name "CBA" )  3.402 1.0 1.0
+assi (segi A    and resi  448 and name "CB"  )
+     (segi A    and resi  508 and name "CBB" )  4.032 1.0 1.0
+assi (segi A    and resi  302 and name "O"   )
+     (segi A    and resi  508 and name "CBC" )  3.718 1.0 1.0
+assi (segi A    and resi  441 and name "O"   )
+     (segi A    and resi  508 and name "CBD" )  3.668 1.0 1.0
+assi (segi A    and resi  375 and name "NH2" )
+     (segi A    and resi  508 and name "CGA" )  3.106 1.0 1.0
+assi (segi A    and resi  434 and name "O"   )
+     (segi A    and resi  508 and name "CHB" )  3.347 1.0 1.0
+assi (segi A    and resi  443 and name "CG2" )
+     (segi A    and resi  508 and name "CHD" )  3.740 1.0 1.0
+assi (segi A    and resi  369 and name "CD1" )
+     (segi A    and resi  508 and name "CMB" )  3.191 1.0 1.0
+assi (segi A    and resi  447 and name "CD1" )
+     (segi A    and resi  508 and name "CMC" )  3.660 1.0 1.0
+assi (segi A    and resi  118 and name "CG2" )
+     (segi A    and resi  508 and name "CMD" )  3.568 1.0 1.0
+assi (segi A    and resi  130 and name "NH1" )
+     (segi A    and resi  508 and name "O1D" )  2.769 1.0 1.0
+assi (segi A    and resi  305 and name "CB"  )
+     (segi A    and resi  508 and name "C2C" )  3.803 1.0 1.0
+assi (segi A    and resi  436 and name "CA"  )
+     (segi A    and resi  508 and name "O2A" )  3.011 1.0 1.0
+assi (segi A    and resi  119 and name "CB"  )
+     (segi A    and resi  508 and name "C3D" )  4.234 1.0 1.0

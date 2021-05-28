@@ -1,0 +1,6 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: pa2ga_unbound.pdb 
+HIS ( 6 )	-->	HISD
+HIS ( 27 )	-->	HISE
+HIS ( 47 )	-->	HISE
+HIS ( 116 )	-->	HISE

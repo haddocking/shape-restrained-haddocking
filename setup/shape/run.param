@@ -1,0 +1,13 @@
+UNAMBIG_TBL=../../restraints/TARGET/LOW_SIM_unbound.tbl
+AMBIG_TBL=../../restraints/TARGET/LOW_SIM_unbound_shape.tbl
+HADDOCK_DIR=HOME/software/haddock-2.4-2021.01
+N_COMP=3
+PDB_FILE1=../../templates/TARGET/LOW_SIM_unbound.pdb
+PDB_FILE2=../../conformers/TARGET/TARGET_conf_001.pdb
+PDB_FILE3=../../shapes/TARGET/LOW_SIM_unbound_shape.pdb
+PDB_LIST2=./conformers.list
+PROJECT_DIR=./
+PROT_SEGID_1=A
+PROT_SEGID_2=B
+PROT_SEGID_3=S
+RUN_NUMBER=1

@@ -1,0 +1,35 @@
+! Connectivity restraints
+! Ligand restraints
+! Restraints to fix 'NAD' in its initial position
+assi (segi A    and resi  222 and name "CA"  )
+     (segi A    and resi  433 and name "PA"  )  4.010 1.0 1.0
+assi (segi A    and resi  158 and name "OG1" )
+     (segi A    and resi  433 and name "PN"  )  3.602 1.0 1.0
+assi (segi A    and resi  243 and name "OE2" )
+     (segi A    and resi  433 and name "C1B" )  3.385 1.0 1.0
+assi (segi A    and resi  301 and name "N"   )
+     (segi A    and resi  433 and name "C1D" )  3.768 1.0 1.0
+assi (segi A    and resi  244 and name "CG2" )
+     (segi A    and resi  433 and name "N1A" )  3.825 1.0 1.0
+assi (segi A    and resi  157 and name "OG1" )
+     (segi A    and resi  433 and name "N1N" )  3.634 1.0 1.0
+assi (segi A    and resi  224 and name "N"   )
+     (segi A    and resi  433 and name "O1N" )  2.901 1.0 1.0
+assi (segi A    and resi  242 and name "OG1" )
+     (segi A    and resi  433 and name "C2A" )  3.390 1.0 1.0
+assi (segi A    and resi  299 and name "O"   )
+     (segi A    and resi  433 and name "C2N" )  3.272 1.0 1.0
+assi (segi A    and resi  223 and name "N"   )
+     (segi A    and resi  433 and name "O2A" )  3.396 1.0 1.0
+assi (segi A    and resi  159 and name "OG1" )
+     (segi A    and resi  433 and name "C3D" )  3.477 1.0 1.0
+assi (segi A    and resi  276 and name "CG2" )
+     (segi A    and resi  433 and name "N3A" )  3.633 1.0 1.0
+assi (segi A    and resi  275 and name "O"   )
+     (segi A    and resi  433 and name "C4D" )  3.640 1.0 1.0
+assi (segi A    and resi  195 and name "SG"  )
+     (segi A    and resi  433 and name "C4N" )  3.916 1.0 1.0
+assi (segi A    and resi  281 and name "CD1" )
+     (segi A    and resi  433 and name "N6A" )  3.334 1.0 1.0
+assi (segi A    and resi  278 and name "CB"  )
+     (segi A    and resi  433 and name "N7A" )  3.574 1.0 1.0

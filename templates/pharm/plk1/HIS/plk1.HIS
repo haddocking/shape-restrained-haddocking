@@ -1,0 +1,12 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: plk1_unbound.pdb 
+HIS ( 93 )	-->	HIS+
+HIS ( 105 )	-->	HIS+
+HIS ( 110 )	-->	HIS+
+HIS ( 112 )	-->	HIS+
+HIS ( 117 )	-->	HIS+
+HIS ( 142 )	-->	HIS+
+HIS ( 168 )	-->	HIS+
+HIS ( 174 )	-->	HIS+
+HIS ( 228 )	-->	HIS+
+HIS ( 273 )	-->	HIS+

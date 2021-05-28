@@ -1,0 +1,4 @@
+## Executing Reduce to assign histidine protonation states
+## Input PDB: hivpr_unbound.pdb 
+HIS ( 69 )	-->	HISD
+HIS ( 1069 )	-->	HISE

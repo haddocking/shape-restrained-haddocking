@@ -1,0 +1,10 @@
+assign (segid A and resi 231 and name CA) (segid A and resi 268 and name CA) 40.998 0.0 0.0
+assign (segid A and resi 151 and name CA) (segid A and resi 275 and name CA) 25.274 0.0 0.0
+assign (segid A and resi 225 and name CA) (segid A and resi 412 and name CA) 31.315 0.0 0.0
+assign (segid A and resi 119 and name CA) (segid A and resi 366 and name CA) 23.932 0.0 0.0
+assign (segid A and resi 277 and name CA) (segid A and resi 354 and name CA) 37.360 0.0 0.0
+assign (segid A and resi 272 and name CA) (segid A and resi 494 and name CA) 38.892 0.0 0.0
+! Ion restraints
+! Restraints to fix 'HEB' in its initial position
+assi (segi A    and resi  601 and name "CHA" )
+     (segi A    and resi  601 and name "CHA" )  0.000 1.0 1.0
