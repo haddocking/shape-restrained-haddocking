@@ -92,7 +92,7 @@ produces tbl-formatted (accepted by HADDOCK) restraints that maintain the correc
 geometry for ions and their coordinating sidechains throughout the simulation.
 
 Details regarding the software requirements for this project can be found in a
-[later](#software-requirements) section.
+[later](#software-requirements-) section.
 
 ### Conformers [[^](#shape-restrained-haddocking)]
 
