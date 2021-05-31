@@ -30,6 +30,7 @@ conformers/
 data/
 manuscript/
 restraints/
+results/
 runs/
 scripts/
 setup/
@@ -127,6 +128,15 @@ main text as well as the tables and figures of the SI.
 ---
 
 This is where the restraints used during the two protocols can be found. This is
+broken down by protocol and grouped by target.
+
+### Results [[^](#shape-restrained-haddocking)]
+
+---
+
+This is where the results for both protocols are stored in 5-column, space-separated
+txt files with columns 1-5 corresponding to target, stage, model number, IL-RMSD
+and model rank, respectively,
 broken down by protocol and grouped by target.
 
 ### Runs [[^](#shape-restrained-haddocking)]
