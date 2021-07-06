@@ -55,7 +55,7 @@ def pharm2D_Tc(dicTarget, dicTemplates):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 2 :
+    if len(sys.argv) != 3 :
         print ("""\n
 This computes the RDKIT pharm2D Tanimoto coefficient between a set of molecules to dock (targets) and a set of potential templates.
 All molecule files must be provided in SDF format to ensure correct 2D pharmacophore descriptor computation.
