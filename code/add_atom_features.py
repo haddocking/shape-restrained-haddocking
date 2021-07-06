@@ -109,7 +109,7 @@ Usage:
     index_sdf = sorted(range(len(csmiles_atID_sdf)), key=lambda k: csmiles_atID_sdf[k])
 
     first_pdb = True
-    for molFile in glob.glob("{}.pdb".format(inputDir)):
+    for molFile in glob.glob("{}*.pdb".format(inputDir)):
         if first_pdb :
             molpdb = Chem.MolFromPDBFile(molFile)
             print(f"SDF smiles: {Chem.MolToSmiles(mol)} \nPDB smiles: {Chem.MolToSmiles(molpdb)}")
